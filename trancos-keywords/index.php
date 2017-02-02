@@ -42,7 +42,7 @@ function trancos_keywords_hook( $post_id ) {
 	</ul>
 	<li>Click the '--Select--' dropdown.</li>
 	<ul>
-		<li>If the value 'keywords' exists in that list, select it and skip the next step.</li>
+		<li>If the value 'keywords' exists in that list, select it.</li>
 		<li>If not, click 'Enter New' and type 'keywords' into the 'Name' field.</li>
 	</ul>
 	<li>Enter a comma separated list of keywords in the 'Value' field.</li>
