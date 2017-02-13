@@ -21,8 +21,8 @@ to add a new hook
 add_action( 'write_post', 'trancos_automated_editor', 10, 3 );
 add_action( 'edit_post', 'trancos_automated_editor', 10, 3 );
 function trancos_automated_editor(){
-	//ignore trashing and untrashing an item
-	if(strstr($_GET['action'],'trash')){
+	//ignore trashing and untrashing an item, ignore unpublished items
+	if(strstr($_GET['action'],'trash') || $_POST['post_status']!='publish'){
 		return;
 	}
 	
