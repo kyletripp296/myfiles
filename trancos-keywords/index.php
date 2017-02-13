@@ -25,8 +25,13 @@ function trancos_automated_editor(){
 	if(strstr($_GET['action'],'trash') || $_POST['post_status']!='publish'){
 		return;
 	}
-	
+	//add items to hook array
 	$hook_arr = array('title','content','excerpt','featuredimg','keywords','description','photocredit');
+	//remove specific items from specific domains
+	if(strstr($_SERVER['SERVER_NAME'],'healthypage')){
+		unset($hook_arr['description']);
+	}
+	//call hooks
 	foreach($hook_arr as $thishook){
 		call_editor_hook($thishook);
 	}
@@ -214,34 +219,28 @@ function call_editor_hook($label){
 	switch($label){
 		case 'title':
 			if(isset($_POST['post_title']) && !empty($_POST['post_title'])){
-				//we can continue attempting to write or edit this post
 				return;
 			}
 		break;
 		case 'content':
 			if(isset($_POST['post_content']) && !empty($_POST['post_content'])){
-				//we can continue attempting to write or edit this post
 				return;
 			}
 		break;
 		case 'excerpt':
 			if(isset($_POST['excerpt']) && !empty($_POST['excerpt'])){
-				//we can continue attempting to write or edit this post
 				return;
 			}
 		break;
 		case 'featuredimg':
 			if(isset($_POST['_thumbnail_id']) && $_POST['_thumbnail_id']!=-1){
-				//we can continue attempting to write or edit this post
 				return;
 			}
 		break;
 		case 'keywords':
 			if(count($_POST['meta'])){
 				foreach($_POST['meta'] as $meta_id=>$thismeta){
-					//we are looking for $_POST['meta']['keywords'] to exist and it cannot be empty
 					if($thismeta['key']=='keywords' && !empty($thismeta['value'])){
-						//we can continue attempting to write or edit this post
 						return;
 					}
 				}
@@ -250,9 +249,7 @@ function call_editor_hook($label){
 		case 'description':
 			if(count($_POST['meta'])){
 				foreach($_POST['meta'] as $meta_id=>$thismeta){
-					//we are looking for $_POST['meta']['description'] to exist and it cannot be empty
 					if($thismeta['key']=='description' && !empty($thismeta['value'])){
-						//we can continue attempting to write or edit this post
 						return;
 					}
 				}
@@ -262,9 +259,7 @@ function call_editor_hook($label){
 			$regex = '@(<a ((href|target|rel)="[^"]+"\s?+)+>)?[a-zA-Z0-9-\'?!:\./© ]+(</a>)?@';
 			if(count($_POST['meta'])){
 				foreach($_POST['meta'] as $meta_id=>$thismeta){
-					//we are looking for $_POST['meta']['description'] to exist and it cannot be empty
 					if($thismeta['key']=='photo-credit' && preg_match($regex,$thismeta['value'])){
-						//we can continue attempting to write or edit this post
 						return;
 					}
 				}
