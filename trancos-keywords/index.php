@@ -26,13 +26,19 @@ function trancos_automated_editor(){
 		return;
 	}
 	//add items to hook array
-	$items_arr = array('title','content','excerpt','featuredimg','keywords','description','photocredit');
+	$items_arr = array('title','content','excerpt');
+	if($_POST['action']!='inline-save'){
+		$items_arr[] = 'featuredimg';
+		$items_arr[] = 'keywords';
+		$items_arr[] = 'description';
+		$items_arr[] = 'photocredit';
+	}
 	$hook_arr = array();
 	foreach($items_arr as $thisitem){
 		$hook_arr[$thisitem] = $thisitem;
 	}
 	//remove specific items from specific domains
-	if(get_bloginfo('name')=='Healthypage'){
+	if(get_bloginfo('name')=='Healthypage' && isset($hook_arr['description'])){
 		unset($hook_arr['description']);
 	}
 	//call hooks
