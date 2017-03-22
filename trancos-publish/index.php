@@ -25,16 +25,29 @@ define('EDITOR_EMAIL','kyle.tripp@trancos.com');
 if(isset($_POST['sendto_social'])){
 	if(ctype_digit($_POST['post_ID']) && !empty($_POST['fbwall']) && ctype_digit($_POST['fbpos'])){
 		//attempt to save data then redirect to a url that will attempt to send the email
-		save_postmeta(trim($_POST['post_ID']),trim($_POST['fbwall']).'-'.trim($_POST['fbpos']));
-		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$_POST['post_ID'].'&action=edit&sendto_social=try';
+		$postid = trim($_POST['post_ID']);
+		$meta_key = 'fbwall';
+		$meta_value = trim($_POST['fbwall']).'-'.trim($_POST['fbpos']);
+		save_postmeta($postid,$meta_key,$meta_value);
+		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$postid.'&action=edit&sendto_social=try';
 		header('Location: '.$url);exit;
 	} else {
 		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$_POST['post_ID'].'&action=edit&sendto_social=fail';
 		header('Location: '.$url);exit;
 	}
 } elseif(isset($_POST['sendto_editor'])){
-	$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$_POST['post_ID'].'&action=edit&sendto_editor=try';
-	header('Location: '.$url);exit;
+	if(ctype_digit($_POST['post_ID']) && ctype_digit($_POST['article_num'])){
+		//attempt to save data then redirect to a url that will attempt to send the email
+		$postid = trim($_POST['post_ID']);
+		$meta_key = 'article-num';
+		$meta_value = trim($_POST['article_num']);
+		save_postmeta($postid,$meta_key,$meta_value);
+		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$postid.'&action=edit&sendto_editor=try';
+		header('Location: '.$url);exit;
+	} else {
+		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$_POST['post_ID'].'&action=edit&sendto_editor=fail';
+		header('Location: '.$url);exit;
+	}
 }
 
 /// END
@@ -65,6 +78,7 @@ HTML;
 }
 function trancos_author_callback() {
 	echo <<<HTML
+<input type="text" name="article_num" placeholder="Article #" style="width:100%;">
 <p style="text-align:right">
 	<input type="submit" name="sendto_editor" class="button button-primary button-large" id="sendto_editor" value="Send to Editor" />
 </p>
@@ -117,13 +131,14 @@ function db4s1_connect(){
 }
 
 /* given a postid and a meta_value, we first check if it exists then either insert it or update it */
-function save_postmeta($postid,$value){
+function save_postmeta($postid,$meta_key,$meta_value){
 	global $mysqli_db4s1;
 	if(empty($mysqli_db4s1)){
 		db4s1_connect();
 	}
 	$postid_sql = $mysqli_db4s1->real_escape_string($postid);
-	$value_sql = $mysqli_db4s1->real_escape_string($value);
+	$key_sql = $mysqli_db4s1->real_escape_string($meta_key);
+	$value_sql = $mysqli_db4s1->real_escape_string($meta_value);
 	$sql = "select 1 from wp_postmeta where post_id='$postid_sql' and meta_key='fbwall'";
 	$result = nano_query($sql,'nano_db','slave');
 	if($result->num_rows){
@@ -237,9 +252,10 @@ function send_email_to_social(){
 		header('Location: '.$redirect_fail);exit;
 	}
 	
+	//use site_url to build permalink
 	$site_url = site_url();
 	if(stristr($site_url,'admin.mommypage') || stristr($site_url,'mp_wp') || stristr($site_url,'healthypage') || stristr($site_url,'hp_wp') ){
-		$permalink = $site_url.$md.$slug;
+		$permalink = $site_url.get_the_date('/m/Y/',$postid).$slug;
 	} elseif(stristr($site_url,'glamourpage') || stristr($site_url,'gp_wp')){
 		$permalink = $site_url.$slug;
 	} elseif(stristr($site_url,'nx2') || stristr($site_url,'nx2_wp')){
@@ -249,6 +265,7 @@ function send_email_to_social(){
 		$permalink = get_nano_url($siteid).'/'.$slug;
 	}
 	
+	//second check for empty vars
 	if(empty($permalink)){
 		header('Location: '.$redirect_fail);exit;
 	}
@@ -277,6 +294,7 @@ function send_email_to_editor(){
 	$title = get_the_title($postid);
 	$postmeta = get_post_meta($postid);
 	$fbcopy = get_fbinfo($postmeta,'facebook-copy');
+	$article_num = get_fbinfo($postmeta,'article-num');
 	
 	//prepare_urls
 	$edit_url = admin_url('post.php?post='.$postid.'&action=edit');
@@ -284,14 +302,33 @@ function send_email_to_editor(){
 	$redirect_success = admin_url('edit.php?sendto_editor=success');
 	
 	//make sure vars not empty
-	if(empty($postid) || empty($title) || empty($fbcopy)){
+	if(empty($postid) || empty($title) || empty($fbcopy) || empty($article_num)){
+		header('Location: '.$redirect_fail);exit;
+	}
+	
+	$site_url = site_url();
+	if(stristr($site_url,'admin.mommypage') || stristr($site_url,'mp_wp')){
+		$siteid = 'MP';
+	} elseif(stristr($site_url,'glamourpage') || stristr($site_url,'gp_wp')){
+		$siteid = 'GP';
+	} elseif(stristr($site_url,'healthypage') || stristr($site_url,'hp_wp')){
+		$siteid = 'HP';
+	} elseif(stristr($site_url,'nx2') || stristr($site_url,'nx2_wp')){
+		$siteid = 'NX2';
+	} elseif(stristr($site_url,'nano.trancospages') || stristr($site_url,'nano_wp')){
+		$siteid = get_siteid_from_postid($postid);
+	}
+	
+	//second check for empty vars
+	if(empty($siteid)){
 		header('Location: '.$redirect_fail);exit;
 	}
 	
 	//send email
 	$user_email = get_user_email();
 	$to = EDITOR_EMAIL;
-	$subject = html_entity_decode($title,ENT_QUOTES,'UTF-8');
+	$subject = strtoupper($siteid).' #'.$article_num.': '.ucwords($title);
+	$subject = html_entity_decode($subject,ENT_QUOTES,'UTF-8');
 	$subject = str_replace('’',"'",$subject);
 	$message = "FB Copy:\r\n$fbcopy\r\n\r\n\r\n$edit_url";
 	$headers = "From: $user_email\r\n";
