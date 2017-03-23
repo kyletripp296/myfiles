@@ -24,12 +24,7 @@ define('EDITOR_EMAIL','kyle.tripp@trancos.com');
 
 if(isset($_POST['sendto_social'])){
 	if(ctype_digit($_POST['post_ID']) && !empty($_POST['fbwall']) && ctype_digit($_POST['fbpos'])){
-		//attempt to save data then redirect to a url that will attempt to send the email
-		$postid = trim($_POST['post_ID']);
-		$meta_key = 'fbwall';
-		$meta_value = trim($_POST['fbwall']).'-'.trim($_POST['fbpos']);
-		save_postmeta($postid,$meta_key,$meta_value);
-		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$postid.'&action=edit&sendto_social=try';
+		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$_POST['post_ID'].'&action=edit&sendto_social=try&meta_key=fbwall&meta_value='.trim($_POST['fbwall']).'-'.trim($_POST['fbpos']);
 		header('Location: '.$url);exit;
 	} else {
 		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$_POST['post_ID'].'&action=edit&sendto_social=fail';
@@ -37,12 +32,7 @@ if(isset($_POST['sendto_social'])){
 	}
 } elseif(isset($_POST['sendto_editor'])){
 	if(ctype_digit($_POST['post_ID']) && ctype_digit($_POST['article_num'])){
-		//attempt to save data then redirect to a url that will attempt to send the email
-		$postid = trim($_POST['post_ID']);
-		$meta_key = 'article-num';
-		$meta_value = trim($_POST['article_num']);
-		save_postmeta($postid,$meta_key,$meta_value);
-		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$postid.'&action=edit&sendto_editor=try';
+		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$_POST['post_ID'].'&action=edit&sendto_editor=try&meta_key=article-num&meta_value='.trim($_POST['article_num']);
 		header('Location: '.$url);exit;
 	} else {
 		$url = 'http://'.$_SERVER['SERVER_NAME'].$_SERVER['REQUEST_URI'].'?post='.$_POST['post_ID'].'&action=edit&sendto_editor=fail';
@@ -120,41 +110,24 @@ HTML;
 /// END
 /////////////////////////////////////////////////
 /// Database functions
+/// These ONLY work for nano sites
 
-function db4s1_connect(){
+function db4s1_connect($slave_or_master = ''){
 	$config_nano = (stristr($_SERVER['SERVER_NAME'],'stg2')) ? '/home/ktripp/public_html/shared_lib/config_nano.php' : '/var/www/microsites/shared_lib/config_nano.php';
 	$micro2_db_slave = (stristr($_SERVER['SERVER_NAME'],'stg2')) ? '/home/ktripp/public_html/dbs/mysqli_db4s1' : '/var/www/dbs/mysqli_db4s1';
 	$micro2_db_master = (stristr($_SERVER['SERVER_NAME'],'stg2')) ? '/home/ktripp/public_html/dbs/mysqli_db4m' : '/var/www/dbs/mysqli_db4m';
 	define('MICRO2_DB_SLAVE',$micro2_db_slave);
 	define('MICRO2_DB_MASTER',$micro2_db_master);
-	require_once $config_nano;
-}
-
-/* given a postid and a meta_value, we first check if it exists then either insert it or update it */
-function save_postmeta($postid,$meta_key,$meta_value){
-	global $mysqli_db4s1;
-	if(empty($mysqli_db4s1)){
-		db4s1_connect();
-	}
-	$postid_sql = $mysqli_db4s1->real_escape_string($postid);
-	$key_sql = $mysqli_db4s1->real_escape_string($meta_key);
-	$value_sql = $mysqli_db4s1->real_escape_string($meta_value);
-	$sql = "select 1 from wp_postmeta where post_id='$postid_sql' and meta_key='fbwall'";
-	$result = nano_query($sql,'nano_db','slave');
-	if($result->num_rows){
-		$sql = "update wp_postmeta set meta_value='$value_sql' where post_id='$postid_sql' and meta_key='fbwall'";
-		nano_query($sql,'nano_db','master');
-	} else {
-		$sql = "insert into wp_postmeta values(NULL,'$postid_sql','fbwall','$value_sql')";
-		nano_query($sql,'nano_db','master');
-	}
+	(@require_once $config_nano) or die("could not find file $config_nano");
+	$mysqli_db4m = connect_master();
+	return ($slave_or_master == 'master') ? $mysqli_db4m : $mysqli_db4s1;
 }
 
 /* given a postid for the nano db, grab the main category */
 function get_siteid_from_postid($postid){
 	global $mysqli_db4s1;
 	if(empty($mysqli_db4s1)){
-		db4s1_connect();
+		$mysqli_db4s1 = db4s1_connect();
 	}
 	$postid_sql = $mysqli_db4s1->real_escape_string($postid);
 	$sql = "select t.slug from wp_terms t left join wp_term_taxonomy tt on t.term_id=tt.term_id left join wp_term_relationships tr on tr.term_taxonomy_id=tt.term_taxonomy_id where tt.taxonomy='category' and tt.parent='0' and t.slug!='uncategorized' and t.slug!='videos' and tr.object_id='$postid_sql' limit 1";
@@ -170,7 +143,7 @@ function get_siteid_from_postid($postid){
 function get_nano_url($slug){
 	global $mysqli_db4s1;
 	if(empty($mysqli_db4s1)){
-		db4s1_connect();
+		$mysqli_db4s1 = db4s1_connect();
 	}
 	$slug_sql = $mysqli_db4s1->real_escape_string($slug);
 	$sql = "select t.slug,tt.description from wp_term_taxonomy tt left join wp_terms t on t.term_id=tt.term_id where tt.taxonomy='category' and t.slug='$slug_sql' limit 1";
@@ -235,6 +208,13 @@ if($_GET['sendto_editor']=='try'){
 function send_email_to_social(){
 	//get required info
 	$postid = trim($_GET['post']);
+	$meta_key = trim($_GET['meta_key']);
+	$meta_value = trim($_GET['meta_value']);
+	
+	//update post meta
+	update_post_meta($postid,$meta_key,$meta_value);
+	
+	//more required info
 	$title = get_the_title($postid);
 	$postmeta = get_post_meta($postid);
 	$fbcopy = get_fbinfo($postmeta,'facebook-copy');
@@ -291,8 +271,16 @@ function send_email_to_social(){
 function send_email_to_editor(){
 	//get required info
 	$postid = trim($_GET['post']);
+	$meta_key = trim($_GET['meta_key']);
+	$meta_value = trim($_GET['meta_value']);
+	
+	//update post meta
+	update_post_meta($postid,$meta_key,$meta_value);
+	
+	//more required info
 	$title = get_the_title($postid);
 	$postmeta = get_post_meta($postid);
+	echo '<pre>'.print_r($postmeta,true).'</pre>';
 	$fbcopy = get_fbinfo($postmeta,'facebook-copy');
 	$article_num = get_fbinfo($postmeta,'article-num');
 	
@@ -307,7 +295,7 @@ function send_email_to_editor(){
 	}
 	
 	$site_url = site_url();
-	if(stristr($site_url,'admin.mommypage') || stristr($site_url,'mp_wp')){
+	if(stristr($site_url,'mommypage') || stristr($site_url,'mp_wp')){
 		$siteid = 'MP';
 	} elseif(stristr($site_url,'glamourpage') || stristr($site_url,'gp_wp')){
 		$siteid = 'GP';
