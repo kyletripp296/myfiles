@@ -276,7 +276,7 @@ function send_email_to_social(){
 	$subject = str_replace('’',"'",$subject);
 	$subject = str_replace('‘',"'",$subject);
 	$subject = str_replace('–',"-",$subject);
-	$subject = str_replace('—',"-",$subject);
+	$subject = str_replace('—',"--",$subject);
 	$subject = str_replace('“','"',$subject);
 	$subject = str_replace('”','"',$subject);
 	$subject = str_replace('…','...',$subject);
@@ -370,7 +370,7 @@ function send_email_to_editor(){
 	$subject = str_replace('’',"'",$subject);
 	$subject = str_replace('‘',"'",$subject);
 	$subject = str_replace('–',"-",$subject);
-	$subject = str_replace('—',"-",$subject);
+	$subject = str_replace('—',"--",$subject);
 	$subject = str_replace('“','"',$subject);
 	$subject = str_replace('”','"',$subject);
 	$subject = str_replace('…','...',$subject);
