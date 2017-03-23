@@ -3,7 +3,7 @@
 Plugin Name: Trancos Publish
 Plugin URI: https://www.trancos.com
 Description: Streamline the production process from writers to editors to social media team
-Version: 1.2.1
+Version: 1.3
 Author: ktripp
 */
 
@@ -254,14 +254,41 @@ function send_email_to_social(){
 	$user_email = get_user_email();
 	$to = SOCIAL_EMAIL;
 	list($wall_id,$wall_num) = explode('-',$fbwall,2);
+	
+	$img_path = explode('/',$image);
+	$img_path = array_slice($img_path,-3,3);
+	$uploads = wp_upload_dir();
+	$attachment = $uploads['basedir'].'/'.implode('/',$img_path);
+	$content = file_get_contents($attachment);
+	$content = chunk_split(base64_encode($content));
+	$uid = md5(uniqid(time()));
+	$filename = basename($attachment);
+
+	// header
+	$headers = "From: $user_email\r\n";
+	$headers .= "Reply-To: $user_email\r\n";
+	$headers .= "MIME-Version: 1.0\r\n";
+	$headers .= "Content-Type: multipart/mixed; boundary=\"".$uid."\"\r\n\r\n";
+	
+	// subject
 	$subject = strtoupper($wall_id).' '.date('l').' #'.$wall_num.': '.ucwords($title);
 	$subject = html_entity_decode($subject,ENT_QUOTES,'UTF-8');
 	$subject = str_replace('’',"'",$subject);
-	$message = "FB Copy:\r\n$fbcopy\r\n\r\n\r\n$permalink\r\n\r\n\r\nimg:\r\n$image";
-	$headers = "From: $user_email\r\n";
-	$headers .= "Reply-To: $user_email\r\n";
-	//$headers .= "MIME-Version: 1.0\n";
-	$headers .= "Content-type: text/plain; charset=utf-8\r\n";
+	
+	// message & attachment
+	$message = "--".$uid."\r\n";
+	$message .= "Content-type:text/plain; charset=iso-8859-1\r\n";
+	$message .= "Content-Transfer-Encoding: 7bit\r\n\r\n";
+	$message .= "FB Copy:\r\n$fbcopy\r\n\r\n\r\n$permalink\r\n\r\n\r\nimg:\r\n$image\r\n\r\n";
+	$message .= "--".$uid."\r\n";
+	$message .= "Content-Type: application/octet-stream; name=\"".$filename."\"\r\n";
+	$message .= "Content-Transfer-Encoding: base64\r\n";
+	$message .= "Content-Disposition: attachment; filename=\"".$filename."\"\r\n\r\n";
+	$message .= $content."\r\n\r\n";
+	$message .= "--".$uid."--";
+	
+	
+	
 	mail($to,$subject,$message,$headers);
 	
 	//redirect editor to this post with a success message and exit
@@ -280,9 +307,9 @@ function send_email_to_editor(){
 	//more required info
 	$title = get_the_title($postid);
 	$postmeta = get_post_meta($postid);
-	echo '<pre>'.print_r($postmeta,true).'</pre>';
 	$fbcopy = get_fbinfo($postmeta,'facebook-copy');
 	$article_num = get_fbinfo($postmeta,'article-num');
+	$image = wp_get_attachment_url(get_post_thumbnail_id($postid));
 	
 	//prepare_urls
 	$edit_url = admin_url('post.php?post='.$postid.'&action=edit');
@@ -290,7 +317,7 @@ function send_email_to_editor(){
 	$redirect_success = admin_url('edit.php?sendto_editor=success');
 	
 	//make sure vars not empty
-	if(empty($postid) || empty($title) || empty($fbcopy) || empty($article_num)){
+	if(empty($postid) || empty($title) || empty($fbcopy) || empty($article_num) || empty($image)){
 		header('Location: '.$redirect_fail);exit;
 	}
 	
@@ -315,13 +342,39 @@ function send_email_to_editor(){
 	//send email
 	$user_email = get_user_email();
 	$to = EDITOR_EMAIL;
+	
+	$img_path = explode('/',$image);
+	$img_path = array_slice($img_path,-3,3);
+	$uploads = wp_upload_dir();
+	$attachment = $uploads['basedir'].'/'.implode('/',$img_path);
+	$content = file_get_contents($attachment);
+	$content = chunk_split(base64_encode($content));
+	$uid = md5(uniqid(time()));
+	$filename = basename($attachment);
+
+	// header
+	$headers = "From: $user_email\r\n";
+	$headers .= "Reply-To: $user_email\r\n";
+	$headers .= "MIME-Version: 1.0\r\n";
+	$headers .= "Content-Type: multipart/mixed; boundary=\"".$uid."\"\r\n\r\n";
+	
+	// subject
 	$subject = strtoupper($siteid).' #'.$article_num.': '.ucwords($title);
 	$subject = html_entity_decode($subject,ENT_QUOTES,'UTF-8');
 	$subject = str_replace('’',"'",$subject);
-	$message = "FB Copy:\r\n$fbcopy\r\n\r\n\r\n$edit_url";
-	$headers = "From: $user_email\r\n";
-	$headers .= "Reply-To: $user_email\r\n";
-	$headers .= "Content-type: text/plain; charset=utf-8\r\n";
+
+	// message & attachment
+	$message = "--".$uid."\r\n";
+	$message .= "Content-type:text/plain; charset=iso-8859-1\r\n";
+	$message .= "Content-Transfer-Encoding: 7bit\r\n\r\n";
+	$message .= "FB Copy:\r\n$fbcopy\r\n\r\n\r\n$edit_url\r\n\r\n";
+	$message .= "--".$uid."\r\n";
+	$message .= "Content-Type: application/octet-stream; name=\"".$filename."\"\r\n";
+	$message .= "Content-Transfer-Encoding: base64\r\n";
+	$message .= "Content-Disposition: attachment; filename=\"".$filename."\"\r\n\r\n";
+	$message .= $content."\r\n\r\n";
+	$message .= "--".$uid."--";
+	
 	mail($to,$subject,$message,$headers);
 	
 	//redirect authors to 'all posts' and exit
