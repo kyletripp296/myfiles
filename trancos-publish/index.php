@@ -14,8 +14,8 @@ Author: ktripp
 defined( 'ABSPATH' ) or die('-1');
 
 /* define email addresses for editor and social team */
-define('SOCIAL_EMAIL','kyle.tripp@trancos.com');
-define('EDITOR_EMAIL','kyle.tripp@trancos.com');
+define('SOCIAL_EMAIL','social@trancos.com');
+define('EDITOR_EMAIL','michelle.woodward@trancos.com');
 
 /// END
 /////////////////////////////////////////////////
@@ -274,6 +274,12 @@ function send_email_to_social(){
 	$subject = strtoupper($wall_id).' '.date('l').' #'.$wall_num.': '.ucwords($title);
 	$subject = html_entity_decode($subject,ENT_QUOTES,'UTF-8');
 	$subject = str_replace('’',"'",$subject);
+	$subject = str_replace('‘',"'",$subject);
+	$subject = str_replace('–',"-",$subject);
+	$subject = str_replace('—',"-",$subject);
+	$subject = str_replace('“','"',$subject);
+	$subject = str_replace('”','"',$subject);
+	$subject = str_replace('…','...',$subject);
 	
 	// message & attachment
 	$message = "--".$uid."\r\n";
@@ -359,9 +365,15 @@ function send_email_to_editor(){
 	$headers .= "Content-Type: multipart/mixed; boundary=\"".$uid."\"\r\n\r\n";
 	
 	// subject
-	$subject = strtoupper($siteid).' #'.$article_num.': '.ucwords($title);
+	$subject = strtoupper($siteid).' '.date('l').' #'.$article_num.': '.ucwords($title);
 	$subject = html_entity_decode($subject,ENT_QUOTES,'UTF-8');
 	$subject = str_replace('’',"'",$subject);
+	$subject = str_replace('‘',"'",$subject);
+	$subject = str_replace('–',"-",$subject);
+	$subject = str_replace('—',"-",$subject);
+	$subject = str_replace('“','"',$subject);
+	$subject = str_replace('”','"',$subject);
+	$subject = str_replace('…','...',$subject);
 
 	// message & attachment
 	$message = "--".$uid."\r\n";
