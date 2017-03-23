@@ -3,7 +3,7 @@
 Plugin Name: Trancos Publish
 Plugin URI: https://www.trancos.com
 Description: Streamline the production process from writers to editors to social media team
-Version: 1.3
+Version: 1.3.1
 Author: ktripp
 */
 
@@ -57,6 +57,7 @@ function trancos_editor_callback() {
 	<option value='nx2'>NX2</option>
 	<option value='mp'>Mommypage</option>
 	<option value='hp'>Healthypage</option>
+	<option value='gp'>Glamourpage</option>
 	<option value='rtp'>Rewind The Past</option>
 	<option value='wsi'>Worth Sharing It</option>
 </select>
@@ -219,6 +220,7 @@ function send_email_to_social(){
 	$postmeta = get_post_meta($postid);
 	$fbcopy = get_fbinfo($postmeta,'facebook-copy');
 	$fbwall = get_fbinfo($postmeta,'fbwall');
+	list($wall_id,$wall_num) = explode('-',$fbwall,2);
 	$slug = get_post_field('post_name',get_post($postid));
 	$image = wp_get_attachment_url(get_post_thumbnail_id($postid));
 	
@@ -233,7 +235,7 @@ function send_email_to_social(){
 	}
 	
 	//use site_url to build permalink
-	$site_url = site_url();
+	$site_url = str_replace('admin.','www.',site_url());
 	if(stristr($site_url,'mommypage') || stristr($site_url,'mp_wp') || stristr($site_url,'healthypage') || stristr($site_url,'hp_wp') ){
 		$permalink = $site_url.get_the_date('/m/Y/',$postid).$slug;
 	} elseif(stristr($site_url,'glamourpage') || stristr($site_url,'gp_wp')){
@@ -248,12 +250,14 @@ function send_email_to_social(){
 	//second check for empty vars
 	if(empty($permalink)){
 		header('Location: '.$redirect_fail);exit;
+	} else {
+		$permalink .= '/ape_'.$wall_id.'/?utm_source=ape_'.$wall_id;
 	}
 	
 	//send email
 	$user_email = get_user_email();
 	$to = SOCIAL_EMAIL;
-	list($wall_id,$wall_num) = explode('-',$fbwall,2);
+	$bcc = EDITOR_EMAIL;
 	
 	$img_path = explode('/',$image);
 	$img_path = array_slice($img_path,-3,3);
@@ -267,6 +271,7 @@ function send_email_to_social(){
 	// header
 	$headers = "From: $user_email\r\n";
 	$headers .= "Reply-To: $user_email\r\n";
+	$headers .= "Bcc: $bcc\r\n";
 	$headers .= "MIME-Version: 1.0\r\n";
 	$headers .= "Content-Type: multipart/mixed; boundary=\"".$uid."\"\r\n\r\n";
 	
