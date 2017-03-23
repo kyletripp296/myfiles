@@ -88,7 +88,7 @@ function sendto_social_fail() {
 	echo <<<HTML
 <div class="error notice">
 	<p>Sending email to Social Media Team failed.</p>
-	<p>Please ensure that you selected a FB Wall and Position # for this post.</p>
+	<p>Please ensure that the post is Published and that you have selected a FB Wall and Position # for this post.</p>
 </div>
 HTML;
 }
@@ -219,7 +219,7 @@ function send_email_to_social(){
 	$postmeta = get_post_meta($postid);
 	$fbcopy = get_fbinfo($postmeta,'facebook-copy');
 	$fbwall = get_fbinfo($postmeta,'fbwall');
-	$slug = get_post_field( 'post_name', get_post($postid) );
+	$slug = get_post_field('post_name',get_post($postid));
 	$image = wp_get_attachment_url(get_post_thumbnail_id($postid));
 	
 	//prepare urls
@@ -228,13 +228,13 @@ function send_email_to_social(){
 	$redirect_success = $url.'?post='.$postid.'&action=edit&sendto_social=success';
 	
 	//make sure vars not empty
-	if(empty($postid) || empty($fbwall) || empty($title) || empty($fbcopy) || empty($slug) || empty($image)){
+	if(empty($postid) || empty($title) || empty($fbcopy) || empty($fbwall) || empty($slug) || empty($image)){
 		header('Location: '.$redirect_fail);exit;
 	}
 	
 	//use site_url to build permalink
 	$site_url = site_url();
-	if(stristr($site_url,'admin.mommypage') || stristr($site_url,'mp_wp') || stristr($site_url,'healthypage') || stristr($site_url,'hp_wp') ){
+	if(stristr($site_url,'mommypage') || stristr($site_url,'mp_wp') || stristr($site_url,'healthypage') || stristr($site_url,'hp_wp') ){
 		$permalink = $site_url.get_the_date('/m/Y/',$postid).$slug;
 	} elseif(stristr($site_url,'glamourpage') || stristr($site_url,'gp_wp')){
 		$permalink = $site_url.$slug;
