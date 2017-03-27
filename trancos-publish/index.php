@@ -3,7 +3,7 @@
 Plugin Name: Trancos Publish
 Plugin URI: https://www.trancos.com
 Description: Streamline the production process from writers to editors to social media team
-Version: 1.3.1
+Version: 1.3.2
 Author: ktripp
 */
 
@@ -78,18 +78,59 @@ HTML;
 
 /* admin notices, display success or errors */
 function sendto_editor_fail() {
+	switch($_GET['error']){
+		case 'postid_empty':
+			$msg = 'Could not get the post_id of this post (notify tech)';
+			break;
+		case 'title_empty':
+			$msg = 'Please enter a title for this post';
+			break;
+		case 'fbwall_empty':
+			$msg = 'Please select a FB wall from the dropdown list';
+			break;
+		case 'slug_empty':
+			$msg = 'Could not get the post_name of this post (notify tech)';
+			break;
+		case 'image_empty':
+			$msg = 'Please add a featured image to this post';
+			break;
+		case 'permalink_empty':
+			$msg = 'Could not create permalink to this post (notify tech)';
+			break;
+		default:
+			$msg = 'Unkown error, try clicking "Publish" or "Update" then submitting again, if problem persists notify tech';
+	}
 	echo <<<HTML
 <div class="error notice">
 	<p>Sending email to Editor failed.</p>
-	<p>Please ensure that you have given your post a title and entered a value for facebook-copy in the custom fields.</p>
+	<p>$msg</p>
 </div>
 HTML;
 }
 function sendto_social_fail() {
+	switch($_GET['error']){
+		case 'postid_empty':
+			$msg = 'Could not get the post_id of this post (notify tech)';
+			break;
+		case 'title_empty':
+			$msg = 'Please enter a title for this post';
+			break;
+		case 'articlenum_empty':
+			$msg = 'Please enter which article number this is for the day';
+			break;
+		case 'image_empty':
+			$msg = 'Please add a featured image to this post';
+			break;
+		case 'siteid_empty':
+			$msg = 'Could not create site_id for this post (notify tech)';
+			break;
+		default:
+			$msg = 'Unkown error, try clicking "Save as Draft" and submitting again, if problem persists notify tech';
+	}
 	echo <<<HTML
 <div class="error notice">
 	<p>Sending email to Social Media Team failed.</p>
-	<p>Please ensure that the post is Published and that you have selected a FB Wall and Position # for this post.</p>
+	<p>$msg</p>
 </div>
 HTML;
 }
@@ -230,8 +271,24 @@ function send_email_to_social(){
 	$redirect_success = $url.'?post='.$postid.'&action=edit&sendto_social=success';
 	
 	//make sure vars not empty
-	if(empty($postid) || empty($title) || empty($fbcopy) || empty($fbwall) || empty($slug) || empty($image)){
-		header('Location: '.$redirect_fail);exit;
+	if(empty($postid)){
+		header('Location: '.$redirect_fail.'&error=postid_empty');exit;
+	}
+	if(empty($title)){
+		header('Location: '.$redirect_fail.'&error=title_empty');exit;
+	}
+	if(empty($fbwall)){
+		header('Location: '.$redirect_fail.'&error=fbwall_empty');exit;
+	}
+	if(empty($slug)){
+		header('Location: '.$redirect_fail.'&error=slug_empty');exit;
+	}
+	if(empty($image)){
+		header('Location: '.$redirect_fail.'&error=image_empty');exit;
+	}
+	
+	if(empty($fbcopy)){
+		$fbcopy = '(No Facebook Copy)';
 	}
 	
 	//use site_url to build permalink
@@ -249,7 +306,7 @@ function send_email_to_social(){
 	
 	//second check for empty vars
 	if(empty($permalink)){
-		header('Location: '.$redirect_fail);exit;
+		header('Location: '.$redirect_fail.'&error=permalink_empty');exit;
 	} else {
 		$permalink .= '/ape_'.$wall_id.'/?utm_source=ape_'.$wall_id;
 	}
@@ -277,14 +334,7 @@ function send_email_to_social(){
 	
 	// subject
 	$subject = strtoupper($wall_id).' '.date('l').' #'.$wall_num.': '.ucwords($title);
-	$subject = html_entity_decode($subject,ENT_QUOTES,'UTF-8');
-	$subject = str_replace('’',"'",$subject);
-	$subject = str_replace('‘',"'",$subject);
-	$subject = str_replace('–',"-",$subject);
-	$subject = str_replace('—',"--",$subject);
-	$subject = str_replace('“','"',$subject);
-	$subject = str_replace('”','"',$subject);
-	$subject = str_replace('…','...',$subject);
+	$subject = replace_utf8($subject);
 	
 	// message & attachment
 	$message = "--".$uid."\r\n";
@@ -328,8 +378,21 @@ function send_email_to_editor(){
 	$redirect_success = admin_url('edit.php?sendto_editor=success');
 	
 	//make sure vars not empty
-	if(empty($postid) || empty($title) || empty($fbcopy) || empty($article_num) || empty($image)){
-		header('Location: '.$redirect_fail);exit;
+	if(empty($postid)){
+		header('Location: '.$redirect_fail.'&error=postid_empty');exit;
+	}
+	if(empty($title)){
+		header('Location: '.$redirect_fail.'&error=title_empty');exit;
+	}
+	if(empty($article_num)){
+		header('Location: '.$redirect_fail.'&error=articlenum_empty');exit;
+	}
+	if(empty($image)){
+		header('Location: '.$redirect_fail.'&error=image_empty');exit;
+	}
+	
+	if(empty($fbcopy)){
+		$fbcopy = '(No Facebook Copy)';
 	}
 	
 	$site_url = site_url();
@@ -347,7 +410,7 @@ function send_email_to_editor(){
 	
 	//second check for empty vars
 	if(empty($siteid)){
-		header('Location: '.$redirect_fail);exit;
+		header('Location: '.$redirect_fail.'&error=siteid_empty');exit;
 	}
 	
 	//send email
@@ -371,14 +434,7 @@ function send_email_to_editor(){
 	
 	// subject
 	$subject = strtoupper($siteid).' '.date('l').' #'.$article_num.': '.ucwords($title);
-	$subject = html_entity_decode($subject,ENT_QUOTES,'UTF-8');
-	$subject = str_replace('’',"'",$subject);
-	$subject = str_replace('‘',"'",$subject);
-	$subject = str_replace('–',"-",$subject);
-	$subject = str_replace('—',"--",$subject);
-	$subject = str_replace('“','"',$subject);
-	$subject = str_replace('”','"',$subject);
-	$subject = str_replace('…','...',$subject);
+	$subject = replace_utf8($subject);
 
 	// message & attachment
 	$message = "--".$uid."\r\n";
@@ -419,4 +475,16 @@ function get_user_email(){
 	$current_user = wp_get_current_user();
 	$user_info = get_userdata($current_user->ID);
 	return $current_user->user_email;
+}
+
+function replace_utf8($subject){
+	$subject = html_entity_decode($subject,ENT_QUOTES,'UTF-8');
+	$subject = str_replace('’',"'",$subject);
+	$subject = str_replace('‘',"'",$subject);
+	$subject = str_replace('–',"-",$subject);
+	$subject = str_replace('—',"--",$subject);
+	$subject = str_replace('“','"',$subject);
+	$subject = str_replace('”','"',$subject);
+	$subject = str_replace('…','...',$subject);
+	return $ubject;
 }
