@@ -486,5 +486,5 @@ function replace_utf8($subject){
 	$subject = str_replace('“','"',$subject);
 	$subject = str_replace('”','"',$subject);
 	$subject = str_replace('…','...',$subject);
-	return $ubject;
+	return $subject;
 }
