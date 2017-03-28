@@ -308,7 +308,7 @@ function send_email_to_social(){
 	if(empty($permalink)){
 		header('Location: '.$redirect_fail.'&error=permalink_empty');exit;
 	} else {
-		$permalink .= '/ape_'.$wall_id.'/?utm_source=ape_'.$wall_id;
+		$permalink2 = $permalink.'/ape_'.$wall_id.'/?utm_source=ape_'.$wall_id;
 	}
 	
 	//send email
@@ -340,7 +340,7 @@ function send_email_to_social(){
 	$message = "--".$uid."\r\n";
 	$message .= "Content-type:text/plain; charset=iso-8859-1\r\n";
 	$message .= "Content-Transfer-Encoding: 7bit\r\n\r\n";
-	$message .= "FB Copy:\r\n$fbcopy\r\n\r\n\r\n$permalink\r\n\r\n\r\nimg:\r\n$image\r\n\r\n";
+	$message .= "FB Copy:\r\n$fbcopy\r\n\r\n\r\n$permalink\r\n$permalink2\r\n\r\n\r\nimg:\r\n$image\r\n\r\n";
 	$message .= "--".$uid."\r\n";
 	$message .= "Content-Type: application/octet-stream; name=\"".$filename."\"\r\n";
 	$message .= "Content-Transfer-Encoding: base64\r\n";
