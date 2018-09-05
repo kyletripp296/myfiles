@@ -1,0 +1,30 @@
+<?php
+//https://brilliant.org/weekly-problems/2018-09-03/advanced/?p=1
+
+//keep an array to cache values for the f_of_n function
+$f_arr = array();
+//keep a sum, this will be our answer
+$sum = 0;
+//loop from 0 to 2018 as shown in the instructions
+for($i=0;$i<=2018;$i++){
+    //compute f_of_n and add to total
+    $sum += f_of_n($i);
+}
+//print answer
+echo 'answer: '.$sum;
+
+function f_of_n($n){
+    //load up global array
+    global $f_arr;
+    //return 1 if n less than 0
+    if($n<0){
+        return 1;
+    }
+    //check for value in array cache
+    if(isset($f_arr[$n])){
+        return $f_arr[$n];
+    }
+    //if not cached, compute, cache and return
+    $f_arr[$n] = 1 - (f_of_n($n-1)*f_of_n($n-3)*f_of_n($n-4));
+    return $f_arr[$n];
+}
