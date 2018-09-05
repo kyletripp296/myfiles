@@ -1,0 +1,16 @@
+<?php 
+//https://brilliant.org/weekly-problems/2018-09-03/advanced/?p=2
+
+//start looping from 2 up
+for($a=2;$a<100;$a++){
+    //calculate b as (a)^3+(a+1)^3+(a+2)^3
+    $b = pow($a,3)+pow($a+1,3)+pow($a+2,3);
+    //if b is a perfect square
+    if(sqrt($b)==floor(sqrt($b))){
+        //print our answer
+        echo 'Found next triplet: ('.$a.','.($a+1).','.($a+2).')<br>';
+        echo $a.'^3 + '.($a+1).'^3 + '.($a+2).'^3 = '.sqrt($b).'^2 = '.$b.'<br>';
+        echo 'Answer: '.(3*($a+1));
+        exit;
+    }
+}
