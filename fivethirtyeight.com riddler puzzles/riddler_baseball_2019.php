@@ -24,7 +24,6 @@ class Ballgame {
         for($i=1; $i<=9; $i++){
             $inning = new Inning();
             $inning_runs = $inning->play_inning();
-            //echo 'Inning #'.$i.' scored '.$inning_runs.'<br><br>-----<br><br>';
             $this->runs += $inning_runs;
         }
         return $this->runs;
