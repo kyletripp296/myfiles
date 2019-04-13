@@ -3,49 +3,43 @@
 set_time_limit(-1);
 include_once '../config.php';
 
+$tournament_winner = 'Virginia';
+$table_name = 'ncaam_2019';
+$txt_file = 'ncaam.txt';
+$reset_table = false;
+
 //timer
 $start = microtime(true);
 
-//reset table
-$sql = "drop table ncaam_2019";
-$mysqli->query($sql);
-$sql = "create table ncaam_2019 (winner varchar(256) NOT NULL, loser varchar(256) NOT NULL)";
-$mysqli->query($sql);
 
-//open file for reading
-$myfile = fopen("ncaam.txt", "r") or die("Unable to open file!");
+if($reset_table){
+	//reset table
+	$sql = "drop table $table_name";
+	$mysqli->query($sql);
+	$sql = "create table $table_name (winner varchar(256) NOT NULL, loser varchar(256) NOT NULL)";
+	$mysqli->query($sql);
 
-//define a chunk size
-$chunk_size = 5000;
-
-//read lines of file in chunks, inserting into db
-$values_arr = array();
-$i = 0;
-while($line = fgets($myfile)){
-	list($winner,$loser) = explode(' | ',$line);
-	$winner_sql = $mysqli->real_escape_string(trim($winner));
-	$loser_sql = $mysqli->real_escape_string(trim($loser));
-	$values_arr[] = "('$winner_sql','$loser_sql')";
-	$i++;
-	/*
-	if($i==$chunk_size){
-		$values = implode(',',$values_arr);
-		$sql = "insert into ncaam_2019 values $values";
-		$mysqli->query($sql);
-		$i=0;
-		$values_arr = array();
+	//open file for reading
+	$myfile = fopen($txt_file, "r") or die("Unable to open file!");
+	
+	//read lines of file in chunks, inserting into db
+	$values_arr = array();
+	$i = 0;
+	while($line = fgets($myfile)){
+		list($winner,$loser) = explode(' | ',$line);
+		$winner_sql = $mysqli->real_escape_string(trim($winner));
+		$loser_sql = $mysqli->real_escape_string(trim($loser));
+		$values_arr[] = "('$winner_sql','$loser_sql')";
 	}
-	*/
-}
-if($i){
 	$values = implode(',',$values_arr);
-	$sql = "insert into ncaam_2019 values $values";
+	$sql = "insert into $table_name values $values";
 	$mysqli->query($sql);
 }
 
+
 //query database for all teams, keep an array in the style of ['team_name'] => true
 $allteams = array();
-$sql = "select distinct loser from ncaam_2019 order by loser asc";
+$sql = "select distinct loser from $table_name order by loser asc";
 $result = $mysqli->query($sql);
 if($result->num_rows){
 	while($row = $result->fetch_assoc()){
@@ -54,7 +48,7 @@ if($result->num_rows){
 }
 
 //query database for a count of how many games were played
-$sql = "select count(1) as count from ncaam_2019";
+$sql = "select count(1) as count from $table_name";
 $result = $mysqli->query($sql);
 if($result->num_rows){
 	while($row = $result->fetch_assoc()){
@@ -66,22 +60,17 @@ if($result->num_rows){
 echo 'Processing '.count($allteams).' teams...<br>';
 echo 'Processing '.$num_games.' games...<br>';
 
-//who won the tournament?
-$winner = 'Virginia';
-
 //unset the winner from allteams, to exclude them from this search
-$allteams[$winner] = false;
+$allteams[$tournament_winner] = false;
 
 //create an array of arrays, known as tiers. the first array contains only the winner of the tournament.
-$tiers = array(array($winner));
+$tiers = array(array($tournament_winner));
 
-//start with a for loop from 0-1, 
+//build our tier view 
 for($i=0;$i<=count($tiers)-1;$i++){
 	if(count($tiers[$i])){
 		$tierteams = "'".implode("','",$tiers[$i])."'";
-		//$tierteams_sql = $mysqli->real_escape_string($tierteams);
-		$sql = "select distinct winner from ncaam_2019 where loser in ($tierteams)";
-		//echo $sql.'<br>';
+		$sql = "select distinct winner from $table_name where loser in ($tierteams)";
 		$result = $mysqli->query($sql);
 		if($result->num_rows){
 			while($row = $result->fetch_assoc()){
@@ -111,4 +100,4 @@ foreach($allteams as $key=>$value){
 echo $c.' teams are NOT transitive champions<br>';
 echo 'Tiers: <pre>'.print_r($tiers,true).'</pre>';
 echo 'Remaining teams: <pre>'.print_r($rteams,true).'</pre>';
-echo 'Time: '.(microtime(true)-$start).' seconds';
+echo 'Time: '.(microtime(true)-$start).' seconds<br>';
