@@ -1,6 +1,5 @@
 <?php 
 
-set_time_limit(-1);
 include_once '../config.php';
 
 $tournament_winner = 'Virginia';
@@ -10,7 +9,6 @@ $reset_table = false;
 
 //timer
 $start = microtime(true);
-
 
 if($reset_table){
 	//reset table
