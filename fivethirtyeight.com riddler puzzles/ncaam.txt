@@ -1,0 +1,6045 @@
+South Florida | Alabama A&M
+Iowa St | Alabama St
+Tulsa | Alcorn St
+Appalachian St | Mars Hill
+Austin Peay | Oakland City
+Ball St | Indiana St
+Cornell | Binghamton
+Boston College | WI Milwaukee
+Boston Univ | Northeastern
+Bowling Green | Tiffin
+Buffalo | St Francis PA
+Campbell | UNC Wilmington
+Missouri | Cent Arkansas
+Central Conn | Hartford
+Davidson | Cleveland St
+NJIT | Colgate
+W Michigan | Detroit
+Texas | E Illinois
+James Madison | E Mennonite
+Syracuse | E Washington
+Illinois St | FL Gulf Coast
+VA Commonwealth | Gardner Webb
+Penn | George Mason
+Gonzaga | Idaho St
+S Dakota St | Grand Canyon
+Stony Brook | G Washington
+Harvard | MIT
+UC Irvine | Idaho
+Notre Dame | IL Chicago
+Texas Tech | Incarnate Word
+MTSU | Lees-McRae
+Lehigh | Monmouth NJ
+Tennessee | Lenoir Rhyne
+Massachusetts | MA Lowell
+UAB | Mercer
+Michigan | Norfolk St
+NC State | Mt St Marys
+New Mexico St | N Dakota St
+New Hampshire | Rivier
+Samford | North Alabama
+North Carolina | Wofford
+Oregon St | UC Riverside
+UTEP | Permian Basin
+Pittsburgh | Youngstown St
+USC | Robert Morris
+Seton Hall | Wagner
+Virginia | Towson
+UTRGV | TX A&M Commerce
+Washington | WKU
+WI Green Bay | WI Lutheran
+Arizona St | CS Fullerton
+San Diego St | Ark Pine Bluff
+Rhode Island | Bryant
+Wisconsin | Coppin St
+Denver | Maine
+Xavier | IUPUI
+Utah St | Montana St
+Villanova | Morgan St
+San Francisco | UC Davis
+South Carolina | SC Upstate
+UCLA | PFW
+Auburn | South Alabama
+TX Southern | Baylor
+Purdue | Fairfield
+Georgetown | MD E Shore
+Kansas | Michigan St
+Louisiana Tech | Wichita St
+St Johns | Loyola MD
+Marquette | UMBC
+Memphis | Tennessee Tech
+Minnesota | NE Omaha
+New Orleans | Spring Hill
+Pacific | SIUE
+Providence | Siena
+Rice | St Leo
+UC Santa Barbara | Wyoming
+Fresno St | AK Anchorage
+Alabama | Southern Univ
+Chattanooga | Charlotte
+Col Charleston | Presbyterian
+East Carolina | Delaware St
+Duke | Kentucky
+Sam Houston St | E Texas Bap
+Temple | La Salle
+Loyola-Chicago | Missouri KC
+Old Dominion | Navy
+UNC Greensboro | NC A&T
+Stanford | Seattle
+St Louis | SE Missouri St
+VMI | Washington MD
+New Mexico | CS Northridge
+Georgia St | ETSU
+Lipscomb | Sewanee
+Akron | Cedarville
+Longwood | Randolph Col
+Oregon | Portland St
+San Diego | Weber St
+UT Arlington | UT Tyler
+Army | Marist
+Northwestern LA | Centenary
+Fordham | City Col NY
+Radford | Davis & Elkins
+Elon | Manhattan
+North Dakota | Northland
+Vanderbilt | Winthrop
+North Texas | Angelo St
+Northern Iowa | Bemidji St
+Dartmouth | Newbury
+LSU | SE Louisiana
+Nebraska | MS Valley St
+N Illinois | Rockford
+ULM | Jackson St
+S Carolina St | Brevard
+Morehead St | Kentucky Chr
+Indiana | Chicago St
+Clemson | Citadel
+UCF | Rider
+Florida A&M | Jacksonville
+Hampton | Mid-Atlantic Chr
+LIU Brooklyn | New Rochelle
+C Michigan | Concordia MI
+Furman | Bob Jones
+Air Force | J&W CO
+N Kentucky | Wilmington OH
+Holy Cross | Sacred Heart
+Maryland | Delaware
+Charleston So | Columbia Intl
+SF Austin | TX Wesleyan
+Missouri St | Oral Roberts
+Valparaiso | Concordia IL
+Nicholls St | Mississippi Col
+Lamar | Huston-Tillot
+Abilene Chr | Arlington Bap
+Loy Marymount | Westcliff
+Creighton | W Illinois
+Southern Utah | W Coast Bap
+TN Martin | Cumberland TN
+Florida St | Florida
+Utah Valley | Westminster UT
+Portland | Multnomah Bib
+Nevada | BYU
+Troy | Fort Valley St
+Coastal Car | Ferrum
+Louisiana | Virgin Islands
+E Michigan | Rochester MI
+Arizona | Houston Bap
+Bradley | WI Parkside
+Colorado St | Colorado Chr
+Dayton | North Florida
+William & Mary | High Point
+TAM C. Christi | Howard Payne
+St Marys CA | McNeese St
+St Edwards | UT San Antonio
+DePaul | Bethune-Cookman
+Howard | Washington Advt
+Bucknell | St Bonaventure
+Pepperdine | CS Dom. Hills
+Marshall | E Kentucky
+St Peters | Lafayette
+Florida Intl | Webber
+Wright St | W Carolina
+TCU | CS Bakersfield
+FL Atlantic | Florida Tech
+St Francis NY | Medgar Evers
+Texas A&M | Savannah St
+San Jose St | Life Pacific
+Ohio St | Cincinnati
+Ohio | Wilberforce
+Ga Southern | Carver Bib
+Kennesaw | Oglethorpe
+Cal Poly | Menlo
+Stetson | Johnson FL
+South Dakota | York NE
+S Dakota St | Alabama St
+Ark Little Rock | SE Oklahoma
+Drake | Buena Vista
+Cent Arkansas | Hendrix
+Connecticut | Morehead St
+Illinois | Evansville
+FL Gulf Coast | Southeastern FL
+Utah | Maine
+Siena | G Washington
+Northwestern | New Orleans
+Iowa | Missouri KC
+Seattle | Puget Sound
+Sam Houston St | SW Univ TX
+SMU | Northwestern LA
+Louisville | Nicholls St
+Notre Dame | Chicago St
+Liberty | ME Ft Kent
+UNC Asheville | St Andrews
+ETSU | Hiwassee
+PFW | Earlham
+Norfolk St | Mid-Atlantic Chr
+SF Austin | SW Assemb God
+Cornell | SUNY Canton
+Texas St | Air Force
+American Univ | George Mason
+Arizona St | McNeese St
+Mississippi St | Austin Peay
+NJIT | Binghamton
+Vermont | Boston Univ
+LIU Brooklyn | Brown
+NE Omaha | Buena Vista
+Colgate | Monmouth NJ
+Princeton | DeSales
+E Michigan | Drexel
+North Carolina | Elon
+Rutgers | F Dickinson
+Furman | Loyola-Chicago
+Virginia Tech | Gardner Webb
+VA Commonwealth | Hampton
+Northeastern | Harvard
+Hofstra | Mt St Marys
+Radford | IL Chicago
+Indiana | Montana St
+Indiana St | WI Green Bay
+Iowa St | Missouri
+Samford | Jacksonville St
+Kentucky | S Illinois
+Miami FL | Lehigh
+Massachusetts | New Hampshire
+Mercer | Piedmont
+MTSU | Milligan
+Missouri St | Robert Morris
+New Mexico St | UTEP
+N Kentucky | N Illinois
+Stanford | UNC Wilmington
+Tennessee | Louisiana
+Buffalo | West Virginia
+Yale | California
+Davidson | Dartmouth
+Utah St | Hartford
+Stony Brook | South Carolina
+Auburn | Washington
+St Johns | Bowling Green
+UCLA | Long Beach St
+Nevada | Pacific
+Penn St | North Florida
+Toledo | Oakland
+Penn | Rice
+Wichita St | Providence
+Iona | Albany NY
+Temple | Detroit
+James Madison | East Carolina
+Montana | Georgia St
+LSU | UNC Greensboro
+Oklahoma | UTRGV
+St Josephs PA | Old Dominion
+Pittsburgh | VMI
+UC Irvine | Texas A&M
+Texas | Arkansas
+Abilene Chr | Arkansas St
+Florida | Charleston So
+Oregon | E Washington
+Longwood | Richmond
+Prairie View | Santa Clara
+San Diego | UC Davis
+Hawaii | Portland
+Kansas St | Kennesaw
+Texas Tech | MS Valley St
+BYU | Utah Valley
+Weber St | Bethesda
+Florida Intl | J&W FL
+Clemson | NC Central
+C Michigan | Chicago St
+St Francis PA | Morgan St
+Georgia Tech | Lamar
+Coastal Car | Campbell
+Alcorn St | Blue Mtn
+TAM C. Christi | Our Lady Lake
+SE Louisiana | Wm Carey
+Oral Roberts | Southwestern KS
+Incarnate Word | St Francis IL
+Maryland | Navy
+Georgia | Savannah St
+Grambling | Jarvis Chr
+N Colorado | Colorado Col
+Cal Baptist | San Diego Chr
+CS Sacramento | Simpson CA
+North Texas | Humboldt St
+Akron | Youngstown St
+Colorado St | Ark Pine Bluff
+Belmont | Illinois St
+Idaho St | Boise St
+Bradley | SE Missouri St
+Fairfield | Bucknell
+Georgetown | Central Conn
+Charlotte | Oklahoma St
+Norfolk St | Clarion
+Marist | Columbia
+Delaware | St Peters
+Grand Canyon | Delaware St
+Xavier | Evansville
+Gonzaga | TX Southern
+Wofford | High Point
+Northern Arizona | Jacksonville
+San Francisco | Maine
+MA Lowell | Wagner
+Syracuse | Morehead St
+Murray St | Wright St
+Portland St | UC Riverside
+UMBC | Shenandoah
+Houston | Alabama A&M
+SC Upstate | Brevard
+Butler | Miami OH
+Dayton | Coppin St
+IUPUI | E Illinois
+Oregon St | Wyoming
+Villanova | Quinnipiac
+Southern Utah | San Jose St
+WKU | TN Martin
+Purdue | Ball St
+Marquette | Bethune-Cookman
+Duquesne | William & Mary
+Lafayette | La Salle
+NC State | MD E Shore
+Mississippi | W Michigan
+Baylor | Southern Univ
+E Kentucky | Chattanooga
+Col Charleston | W Carolina
+Michigan | Holy Cross
+Wake Forest | NC A&T
+Presbyterian | Tennessee Tech
+S Dakota St | Bemidji St
+Lipscomb | Tennessee St
+Incarnate Word | UT Tyler
+Houston Bap | Fordham
+Loy Marymount | UNLV
+North Dakota | WI Milwaukee
+Winthrop | SIUE
+UT Arlington | Northern Iowa
+Tulsa | S Carolina St
+St Louis | Troy
+ULM | Millsaps
+St Bonaventure | Jackson St
+CS Fullerton | W Coast Bap
+Long Beach St | Menlo
+Toledo | Wilberforce
+Kent | Cleveland St
+North Alabama | Blue Mtn
+North Texas | Portland
+Hawaii | Humboldt St
+Florida A&M | Tuskegee
+W Illinois | North Park
+Alabama | Appalachian St
+Alabama St | LaGrange
+Arizona | Cal Poly
+NJIT | Brown
+Colgate | Cornell
+Rutgers | Drexel
+Virginia | G Washington
+Mississippi St | Hartford
+South Alabama | Huntingdon
+Iowa | WI Green Bay
+Missouri St | Stetson
+N Kentucky | Wabash
+Towson | Wesley DE
+Dartmouth | Loyola MD
+TCU | Oral Roberts
+Michigan St | FL Gulf Coast
+Marshall | Hofstra
+N Dakota St | UC Santa Barbara
+Southern Miss | SMU
+Vanderbilt | USC
+Seattle | Bryant
+Connecticut | Missouri KC
+East Carolina | Lamar
+VMI | Goucher
+Louisiana Tech | Sam Houston St
+Duke | Army
+Creighton | ETSU
+Nebraska | SE Louisiana
+Washington St | Nicholls St
+St Marys CA | Utah Valley
+Florida St | Tulane
+North Texas | Hawaii
+Boston College | St Francis NY
+E Michigan | Goshen
+FL Atlantic | UCF
+Ohio St | PFW
+Montana St | Presentation
+Boston Univ | Emerson
+Howard | Central Penn
+Savannah St | Mid Georgia
+Northwestern | American Univ
+South Florida | Austin Peay
+Belmont | MTSU
+Binghamton | Misericordia
+VA Commonwealth | Bowling Green
+James Madison | Bridgewater VA
+Buffalo | S Illinois
+Butler | Detroit
+Ohio | Campbell
+Cent Arkansas | Univ Ozarks
+Grand Canyon | Jacksonville
+Youngstown St | Heidelberg
+Incarnate Word | TX Lutheran
+Iowa St | TX Southern
+Kansas | Vermont
+UMBC | Manhattan
+New Hampshire | Mt St Vincent
+North Carolina | Stanford
+South Dakota | Northern Arizona
+SE Missouri St | Quincy
+UTRGV | TAM C. Christi
+Kansas St | Denver
+DePaul | Morgan St
+Rice | Alabama A&M
+Arizona St | Long Beach St
+Duquesne | IL Chicago
+Penn St | Jacksonville St
+Minnesota | Utah
+Niagara | St Bonaventure
+Sacred Heart | W New England
+St Josephs PA | Monmouth NJ
+Oklahoma | UT San Antonio
+Arkansas | UC Davis
+Baylor | Prairie View
+Washington | San Diego
+Texas | ULM
+Samford | Kennesaw
+Citadel | Mid-Atlantic Chr
+Maryland | NC A&T
+Pittsburgh | Troy
+Miami OH | Midway
+New Orleans | Pensacola Chr
+Arkansas St | MO Baptist
+Montana | MT Tech
+San Francisco | Sonoma St
+UC Irvine | Life Pacific
+Presbyterian | Welch
+Cal Baptist | Oral Roberts
+Central Conn | MA Lowell
+Cleveland St | Urbana
+Wagner | Cortland St
+LIU Brooklyn | Fairfield
+Furman | Gardner Webb
+Ga Southern | George Mason
+Georgetown | Illinois
+Texas St | Hardin-Simmons
+Harvard | Massachusetts
+Lehigh | Marist
+Miami FL | SF Austin
+NC State | UNC Asheville
+Wisconsin | Xavier
+Col Charleston | Rhode Island
+Loyola MD | Delaware St
+South Carolina | Norfolk St
+UNLV | UC Riverside
+PFW | Manchester
+Pacific | CS Stanislaus
+Louisiana Tech | Harding
+Penn | Lafayette
+N Colorado | Pepperdine
+W Michigan | Oakland
+UNC Greensboro | UNC Wilmington
+Florida Intl | WI Milwaukee
+Temple | Georgia
+Georgia St | Mercer
+Providence | Holy Cross
+LSU | Memphis
+St Louis | North Alabama
+Ark Little Rock | Tennessee St
+New Mexico | Iona
+UC Santa Barbara | Cal Lutheran
+Longwood | MD E Shore
+Canisius | Bucknell
+Cincinnati | NC Central
+Colorado | Drake
+Loy Marymount | CS Northridge
+Winthrop | Pfeiffer
+Delaware | Chestnut Hill
+Nicholls St | Idaho
+Utah St | MS Valley St
+Texas Tech | SE Louisiana
+Louisville | Southern Univ
+BYU | Northwestern LA
+Savannah St | Tennessee Tech
+Chattanooga | Cumberland TN
+Wofford | Carver Bib
+Kent | Shawnee St
+Bethune-Cookman | Trinity Bap
+E Kentucky | Midway
+Charleston So | S Carolina St
+Illinois St | Chicago St
+Liberty | Trevecca Naz
+Tennessee | Georgia Tech
+California | Hampton
+Dartmouth | Elms
+Tulane | Coastal Car
+Howard | Regent
+Alabama St | Birmingham So
+Arizona | UTEP
+Bradley | Jacksonville St
+Bryant | St Peters
+Drexel | Bryn Athyn
+Colgate | Nazareth
+Colorado St | Montana St
+NJIT | Kean
+Loyola-Chicago | Niagara
+Vermont | Lyndon St
+Northern Arizona | NE Omaha
+St Marys CA | New Mexico St
+Radford | Notre Dame
+Oklahoma St | UT San Antonio
+Richmond | St Francis NY
+USC | Stetson
+Wright St | Toledo
+IUPUI | Boston College
+Navy | Coppin St
+Wyoming | Grambling
+Michigan | Villanova
+San Diego St | TX Southern
+Auburn | Mississippi Col
+Houston | Rice
+Indiana | Marquette
+Marshall | Mt St Marys
+UAB | New Orleans
+Boston Univ | Albany NY
+Duke | E Michigan
+Hofstra | NC A&T
+Nebraska | Seton Hall
+VMI | SC Upstate
+Seattle | Washington St
+SMU | W Carolina
+Florida | La Salle
+Indiana St | McKendree
+Kentucky | North Dakota
+Michigan St | ULM
+Samford | Miles
+Robert Morris | Mt Aloysius
+UTRGV | Prairie View
+North Texas | TX A&M Commerce
+Citadel | Johnson FL
+Clemson | Sam Houston St
+North Florida | Edward Waters
+W Illinois | Dominican IL
+F Dickinson | Queens NY
+Northeastern | Alabama
+Virginia Tech | Ball St
+Pittsburgh | Cent Arkansas
+Connecticut | Syracuse
+Delaware | Cornell
+Evansville | KY Wesleyan
+Gonzaga | Texas A&M
+Hartford | Quinnipiac
+IL Chicago | William & Mary
+Bowling Green | NC Central
+Davidson | Wichita St
+West Virginia | Monmouth NJ
+Purdue | Appalachian St
+DePaul | Penn St
+Pacific | Idaho St
+UC Irvine | Santa Clara
+TCU | Fresno St
+St Josephs PA | Wake Forest
+Belmont | Lipscomb
+Furman | North Greenville
+WKU | Valparaiso
+Abilene Chr | Denver
+C Michigan | CS Bakersfield
+Iowa | Oregon
+Elon | Milligan
+Utah | MS Valley St
+Weber St | San Jose St
+BYU | Oral Roberts
+San Diego | San Diego Chr
+Southern Miss | Troy
+UCF | CS Fullerton
+Ohio St | Creighton
+Presbyterian | Boyce
+Bethune-Cookman | Johnson FL
+Tennessee St | Carver Bib
+UMBC | Air Force
+American Univ | New Hampshire
+Austin Peay | Central Conn
+Northwestern | Binghamton
+Brown | MA Lowell
+Tulsa | Cal Baptist
+MTSU | Charleston So
+James Madison | Charlotte
+Texas | Citadel
+Youngstown St | Columbia
+Kansas St | E Kentucky
+WI Green Bay | E Washington
+Ga Southern | FL Atlantic
+FL Gulf Coast | S Dakota St
+Loyola-Chicago | Grambling
+High Point | South Dakota
+Howard | Massachusetts
+Montana | Incarnate Word
+SE Missouri St | Jacksonville
+Kansas | Louisiana
+Lehigh | Princeton
+Louisville | Vermont
+Loyola NO | McNeese St
+Murray St | Spalding
+N Kentucky | UNC Asheville
+Penn | Northern Iowa
+South Florida | Ohio
+Virginia | Coppin St
+Rhode Island | Harvard
+Richmond | IUPUI
+Mercer | TN Martin
+Miami OH | N Dakota St
+Niagara | Wyoming
+Siena | Norfolk St
+TAM C. Christi | UT Arlington
+Dayton | PFW
+Vanderbilt | Alcorn St
+Nevada | Ark Little Rock
+Butler | Mississippi
+Mississippi St | Long Beach St
+North Carolina | Tennessee Tech
+UNLV | Oakland
+Pepperdine | Towson
+St Johns | Rutgers
+Grand Canyon | Arkansas St
+South Alabama | Chattanooga
+Georgia | Sam Houston St
+Holy Cross | Stony Brook
+LSU | Louisiana Tech
+Temple | Loyola MD
+Morehead St | Missouri KC
+Oregon St | Old Dominion
+Longwood | Delaware St
+Sacred Heart | Army
+Cincinnati | WI Milwaukee
+Colorado | NE Omaha
+Fordham | Florida Intl
+Loy Marymount | Georgetown
+Baylor | Nicholls St
+Missouri | Kennesaw
+UCLA | St Francis PA
+Utah St | Utah Valley
+Georgia Tech | East Carolina
+Akron | Chicago St
+Manhattan | Coastal Car
+Gardner Webb | Savannah St
+Boise St | Jackson St
+Campbell | Florida A&M
+Maryland | Hofstra
+Liberty | Kent
+F Dickinson | NYIT
+Cleveland St | S Carolina St
+UNC Greensboro | J&W NC
+UCF | St Josephs PA
+Weber St | C Michigan
+Iowa | Connecticut
+Purdue | Davidson
+Wichita St | Appalachian St
+Valparaiso | Monmouth NJ
+Alabama | Ball St
+Virginia Tech | Northeastern
+Oregon | Syracuse
+Wake Forest | CS Fullerton
+WKU | West Virginia
+Miami FL | Bethune-Cookman
+E Michigan | Boston Univ
+IL Chicago | Bradley
+Cornell | NJIT
+Portland | CS Northridge
+Drake | Texas St
+Drexel | La Salle
+Wagner | Fairfield
+Michigan | G Washington
+Wisconsin | Houston Bap
+Jacksonville | South Alabama
+NC State | Maine
+N Kentucky | Manhattan
+Pittsburgh | North Alabama
+Wright St | North Florida
+Portland St | Willamette
+Furman | Villanova
+Memphis | Yale
+UC Davis | TAM C. Christi
+Brown | Sacred Heart
+Duquesne | Radford
+UC Santa Barbara | Montana St
+Providence | South Carolina
+Albany NY | Canisius
+SE Missouri St | Chattanooga
+Florida Intl | Columbia
+George Mason | Southern Univ
+Marquette | Presbyterian
+St Louis | Seton Hall
+New Mexico St | New Mexico
+W Michigan | Aquinas
+Lamar | Prairie View
+MA Lowell | Army
+ETSU | Winthrop
+Fordham | Youngstown St
+Rice | Northwestern LA
+North Texas | MD E Shore
+North Dakota | MN Morris
+Robert Morris | MS Valley St
+SE Louisiana | Stetson
+BYU | Alabama A&M
+N Illinois | IL Tech
+W Carolina | Hiwassee
+S Illinois | Ark Pine Bluff
+Notre Dame | William & Mary
+Coastal Car | UNC Asheville
+E Illinois | W Illinois
+Tennessee St | Fisk
+UC Riverside | UC Merced
+Lipscomb | SMU
+FL Atlantic | Towson
+Ga Southern | Pepperdine
+Incarnate Word | N Dakota St
+WI Green Bay | Morehead St
+Old Dominion | Kennesaw
+Montana | Miami OH
+Northern Iowa | E Kentucky
+CS Bakersfield | San Jose St
+E Washington | Missouri KC
+UMBC | High Point
+Stony Brook | Norfolk St
+Kent | Alcorn St
+Campbell | Austin Peay
+Samford | Cleveland St
+Oklahoma St | Col Charleston
+Evansville | TX Southern
+Hawaii | Northern Arizona
+San Francisco | LIU Brooklyn
+Manhattan | UNC Asheville
+UAB | West Alabama
+Navy | Bryant
+UT Arlington | UC Davis
+St Francis NY | Lafayette
+MA Lowell | Sacred Heart
+Michigan St | Tennessee Tech
+Minnesota | Texas A&M
+Jacksonville | Chattanooga
+Florida Intl | Youngstown St
+Georgetown | South Florida
+Kentucky | VMI
+Oklahoma | Wofford
+Southern Utah | Seattle
+Arkansas | Indiana
+Brown | Army
+Fordham | Columbia
+Delaware | Wilmington DE
+Troy | Cent Arkansas
+Ohio St | S Carolina St
+UNC Wilmington | Allen
+NC Central | Warren Wilson
+Maryland | Mt St Marys
+Idaho | Bethesda
+N Kentucky | Coastal Car
+Loy Marymount | Ohio
+Washington | Santa Clara
+Central Conn | Florida A&M
+Wake Forest | Valparaiso
+Ball St | Appalachian St
+Holy Cross | Siena
+N Dakota St | Towson
+CS Fullerton | Monmouth NJ
+Alabama | Wichita St
+Michigan | Providence
+FL Atlantic | Incarnate Word
+Air Force | South Dakota
+West Virginia | St Josephs PA
+South Carolina | G Washington
+Pepperdine | Miami OH
+Missouri | Oregon St
+Davidson | Northeastern
+C Michigan | San Jose St
+UCF | WKU
+Kansas St | Penn
+Ga Southern | Montana
+Virginia Tech | Purdue
+CS Bakersfield | Weber St
+Arizona | Iowa St
+Arizona St | Mississippi St
+Tulsa | Ark Little Rock
+Colgate | Binghamton
+Bowling Green | Hampton
+Washington St | Cal Poly
+Louisiana | Colorado St
+Delaware St | St Elizabeth
+Rutgers | E Michigan
+UTEP | E New Mexico
+Toledo | FL Gulf Coast
+Georgia | Illinois St
+Gonzaga | Illinois
+S Illinois | Howard
+Portland | Lewis & Clark
+Loyola-Chicago | Richmond
+Robert Morris | Stetson
+Tulane | S Dakota St
+South Alabama | SE Missouri St
+Texas Tech | USC
+UC Irvine | UT San Antonio
+Boston College | Wyoming
+Rider | Coppin St
+Detroit | Loyola MD
+Utah St | St Marys CA
+Auburn | Xavier
+Nevada | Cal Baptist
+Oakland | Defiance
+Long Beach St | Iona
+Duke | San Diego St
+East Carolina | UTRGV
+Georgia St | St Bonaventure
+Marshall | NC A&T
+Nebraska | Missouri St
+UCLA | Presbyterian
+VA Commonwealth | Temple
+Albany NY | SUNY Oneonta
+Charlotte | Longwood
+UNC Greensboro | Prairie View
+Creighton | Boise St
+Cincinnati | W Michigan
+Houston | Northwestern LA
+Utah Valley | Hartford
+North Carolina | St Francis PA
+Vanderbilt | Liberty
+Clemson | Akron
+Sam Houston St | Jackson St
+Florida St | Canisius
+St Johns | California
+Massachusetts | Ark Pine Bluff
+ETSU | Chicago St
+Charleston So | Trinity Bap
+Oral Roberts | Ecclesia
+Lamar | Arlington Bap
+Idaho St | Bethesda
+E Kentucky | Kennesaw
+High Point | Air Force
+South Dakota | UMBC
+Northern Iowa | Old Dominion
+Oregon St | Penn
+Kansas St | Missouri
+Belmont | Trevecca Naz
+NE Omaha | Bethune-Cookman
+Bradley | SMU
+Citadel | James Madison
+Connecticut | Cornell
+WI Milwaukee | LIU Brooklyn
+SF Austin | Marist
+NC State | St Peters
+Quinnipiac | New Hampshire
+NJIT | Wagner
+Radford | William & Mary
+CS Sacramento | UC Davis
+George Mason | NC Central
+Indiana | UT Arlington
+Morgan St | Navy
+Notre Dame | Duquesne
+Mercer | MD E Shore
+North Florida | Southern Miss
+UNLV | Pacific
+Penn St | Wright St
+Jacksonville St | W Carolina
+CS Northridge | Tennessee St
+Lipscomb | TCU
+Oregon | WI Green Bay
+Holy Cross | Albany NY
+San Diego | Colorado
+North Texas | Maine
+Mississippi | Nicholls St
+McNeese St | Mobile
+Ohio St | Samford
+North Alabama | Martin Meth
+VMI | Kentucky Chr
+PFW | S Carolina St
+Kent | Savannah St
+Louisiana Tech | Tougaloo
+North Dakota | Concordia NE
+Grambling | Champion Bap
+Washington | Texas A&M
+Minnesota | Santa Clara
+Coastal Car | Methodist
+MS Valley St | SE Louisiana
+Illinois St | Akron
+S Dakota St | UT San Antonio
+Colorado St | FL Gulf Coast
+Clemson | Georgia
+San Diego St | Xavier
+Jackson St | Chicago St
+Boise St | St Bonaventure
+UC Irvine | Tulane
+Loyola MD | Hampton
+Temple | California
+Iowa St | Illinois
+ETSU | Sam Houston St
+USC | Missouri St
+Creighton | Georgia St
+Detroit | Bowling Green
+Toledo | Louisiana
+St Johns | VA Commonwealth
+Duke | Auburn
+Texas Tech | Nebraska
+Gonzaga | Arizona
+Norfolk St | Regent
+Iowa | Alabama St
+Drexel | Boston Univ
+Brown | Salve Regina
+Dayton | Butler
+Texas St | Cal Poly
+Syracuse | Colgate
+New Mexico St | E New Mexico
+F Dickinson | Princeton
+FL Atlantic | Palm Beach Atl
+San Francisco | Harvard
+N Colorado | Incarnate Word
+Tennessee | Louisville
+Virginia | MTSU
+Youngstown St | Westminster PA
+Buffalo | Dartmouth
+Hofstra | CS Fullerton
+Lehigh | Siena
+Stony Brook | Molloy
+Vermont | Yale
+Kansas | Marquette
+Drake | Missouri KC
+NC A&T | Mt St Marys
+Pittsburgh | St Louis
+TAM C. Christi | St Marys TX
+Arkansas | Montana St
+Valparaiso | SIUE
+East Carolina | Prairie View
+Oklahoma | Florida
+Loy Marymount | Central Conn
+Kentucky | Winthrop
+Wisconsin | Stanford
+BYU | Rice
+Furman | S Wesleyan
+Georgia Tech | UTRGV
+South Florida | Florida A&M
+Jacksonville | FL Memorial
+Wofford | Coppin St
+TN Martin | W Illinois
+Army | NY Maritime
+Minnesota | Washington
+Portland | SC Upstate
+Gonzaga | Duke
+Utah Valley | Long Beach St
+Wyoming | Richmond
+Louisiana | Tulane
+Boston College | Loyola-Chicago
+Toledo | UC Irvine
+Creighton | Clemson
+Mississippi St | St Marys CA
+Xavier | Illinois
+Arizona St | Utah St
+Auburn | Arizona
+Bradley | Penn St
+SMU | Wright St
+Akron | St Bonaventure
+UT San Antonio | FL Gulf Coast
+Southern Miss | W Carolina
+Illinois St | Boise St
+S Dakota St | Colorado St
+Iona | Hartford
+Iowa St | San Diego St
+Jacksonville St | North Florida
+Georgia St | Georgia
+Fresno St | Northwestern
+Seton Hall | Grand Canyon
+Hawaii | Utah
+Miami FL | La Salle
+Massachusetts | S Illinois
+Oklahoma St | Memphis
+Texas | North Carolina
+Villanova | Canisius
+Michigan St | UCLA
+Pacific | UC Riverside
+LSU | Col Charleston
+Abilene Chr | Elon
+Florida St | UAB
+Nevada | Tulsa
+Wisconsin | Oklahoma
+Virginia | Dayton
+Florida | Stanford
+Butler | MTSU
+Ark Little Rock | Howard
+Ark Pine Bluff | Cal Baptist
+Rutgers | Boston Univ
+Portland | Cal Poly
+E Illinois | Gardner Webb
+Houston Bap | Wake Forest
+NW Nazarene | Idaho
+UTRGV | Lamar
+MA Lowell | MA Boston
+Wofford | Mars Hill
+N Illinois | Oral Roberts
+Charleston So | Coppin St
+Indiana | UC Davis
+IUPUI | St Francis NY
+Texas St | SC Upstate
+UNLV | Southern Utah
+Samford | PFW
+Mississippi | Baylor
+Oakland | James Madison
+Kent | Vanderbilt
+UC Santa Barbara | Portland St
+Purdue | Robert Morris
+WI Milwaukee | Albany NY
+UNC Wilmington | Arkansas St
+Florida Intl | Ave Maria
+Michigan | Chattanooga
+Seattle | Denver
+Texas A&M | South Alabama
+W Michigan | Southern Univ
+VMI | Stetson
+Arkansas | UT Arlington
+Kentucky | Tennessee St
+Abilene Chr | Pacific
+Northwestern LA | Alabama A&M
+Cincinnati | George Mason
+UC Riverside | Elon
+McNeese St | Mississippi Col
+Tennessee Tech | ULM
+Nicholls St | NC Central
+Old Dominion | Northern Iowa
+Georgia Tech | Prairie View
+Longwood | Fairfield
+Liberty | Alcorn St
+Grambling | Niagara
+Maryland | Marshall
+UNC Greensboro | Delaware
+Ohio St | Cleveland St
+Oklahoma | Dayton
+Villanova | Oklahoma St
+Memphis | Canisius
+Miami FL | Fresno St
+Virginia | Wisconsin
+North Carolina | UCLA
+Florida St | LSU
+Northwestern | La Salle
+Michigan St | Texas
+Marquette | Louisville
+Stanford | MTSU
+Col Charleston | UAB
+Utah | Grand Canyon
+Butler | Florida
+Kansas | Tennessee
+Nevada | Massachusetts
+Seton Hall | Hawaii
+S Illinois | Tulsa
+American Univ | UMBC
+Ohio | Austin Peay
+Ball St | Evansville
+Buffalo | Marist
+Georgetown | Campbell
+Citadel | South Florida
+Connecticut | New Hampshire
+Davidson | Northeastern
+Washington St | Delaware St
+Detroit | E Michigan
+Gardner Webb | UNC Wilmington
+G Washington | Manhattan
+Harvard | St Marys CA
+VA Commonwealth | Hofstra
+IL Chicago | WI Parkside
+Indiana St | WKU
+James Madison | N Illinois
+Kansas St | Lehigh
+NJIT | LIU Brooklyn
+NC State | Mercer
+Murray St | Missouri St
+Princeton | Monmouth NJ
+NE Omaha | Montana St
+Texas Tech | N Colorado
+Portland St | NW Nazarene
+Texas St | Portland
+Virginia Tech | St Francis PA
+Cal Poly | SC Upstate
+Colgate | Siena
+CS Sacramento | CS Fullerton
+San Francisco | Dartmouth
+Notre Dame | DePaul
+Stony Brook | Rhode Island
+Rider | Wagner
+Binghamton | Sacred Heart
+UC Santa Barbara | Idaho
+Providence | Iona
+UNC Greensboro | Louisiana Tech
+Oakland | Oral Roberts
+Santa Clara | San Jose St
+E Illinois | Arkansas St
+St Louis | Cent Arkansas
+High Point | East Carolina
+W Carolina | Jacksonville
+William & Mary | St Josephs PA
+ETSU | N Dakota St
+New Mexico | UTEP
+West Virginia | Valparaiso
+Abilene Chr | UC Riverside
+Denver | Longwood
+Illinois St | Lindenwood
+Colorado | Air Force
+Miami OH | Army
+Pacific | Elon
+Belmont | Kennesaw
+Utah Valley | North Dakota
+North Texas | St Peters
+Houston | BYU
+Seattle | Fairfield
+Troy | North Alabama
+Savannah St | Alcorn St
+San Diego | Jackson St
+Nebraska | W Illinois
+Bradley | Chicago St
+Hartford | W New England
+Missouri KC | Avila
+UCF | N Kentucky
+Loy Marymount | Florida A&M
+Penn | R Stockton
+Cincinnati | Mississippi
+NC Central | Southern Univ
+Nicholls St | W Michigan
+Howard | Cal Baptist
+MD E Shore | Central Penn
+Baylor | George Mason
+Ark Pine Bluff | Ark Little Rock
+Winthrop | Warren Wilson
+IUPUI | Grambling
+St Francis NY | Niagara
+New Orleans | Governors St
+Bowling Green | Drexel
+Brown | Bryant
+Bucknell | Vermont
+Central Conn | Pine Manor
+Columbia | St Josephs NY
+UNC Wilmington | E Illinois
+FL Atlantic | FL Gulf Coast
+Furman | UNC Asheville
+Hampton | Richmond
+SIUE | Incarnate Word
+Oral Roberts | James Madison
+Quinnipiac | Maine
+Morgan St | Mt St Marys
+PFW | Cleveland St
+Duquesne | MA Lowell
+Lafayette | F Dickinson
+Oregon St | Long Beach St
+N Illinois | Oakland
+Wichita St | Rice
+Arkansas St | Gardner Webb
+C Michigan | Siena Hts
+Lipscomb | Morehead St
+USC | CS Bakersfield
+Seattle | Longwood
+Fordham | Alabama A&M
+SF Austin | St Edwards
+Illinois | MS Valley St
+Towson | Loyola MD
+Liberty | Savannah St
+Fairfield | Denver
+Wm Carey | Southern Miss
+Samford | S Carolina St
+UAB | Canisius
+Villanova | Florida St
+Northwestern | Utah
+Fresno St | Hawaii
+Oklahoma St | LSU
+Col Charleston | Memphis
+Grand Canyon | La Salle
+Seton Hall | Miami FL
+Alabama | Murray St
+Appalachian St | W Salem St
+Bethune-Cookman | Stetson
+Radford | Glenville St
+Gonzaga | N Dakota St
+UT San Antonio | Houston Bap
+Iowa St | NE Omaha
+UTRGV | TAM C. Christi
+TCU | E Michigan
+Wofford | South Carolina
+Boston College | Minnesota
+California | Santa Clara
+Delaware | Louisiana Tech
+Pepperdine | Idaho St
+TX Southern | Oregon
+SE Louisiana | Louisiana Col
+Mississippi St | Alcorn St
+Nebraska | Clemson
+Ball St | Tiffin
+Drake | Boise St
+Davidson | Charlotte
+Citadel | High Point
+S Illinois | Colorado St
+Connecticut | MA Lowell
+Washington St | CS Northridge
+Penn | Delaware St
+Washington | E Washington
+Notre Dame | Illinois
+Ohio | Iona
+Iowa | Pittsburgh
+SMU | Lamar
+SE Missouri St | Missouri S&T
+N Kentucky | Morehead St
+Wisconsin | NC State
+Stony Brook | Norfolk St
+Tulsa | UT Arlington
+Baylor | South Dakota
+Marquette | Charleston So
+Providence | F Dickinson
+Sacred Heart | Hartford
+Louisville | Michigan St
+Nevada | Loyola-Chicago
+St Johns | MD E Shore
+Penn St | Virginia Tech
+American Univ | VMI
+Duke | Indiana
+UNC Wilmington | East Carolina
+Temple | Missouri
+Wake Forest | W Carolina
+ETSU | Ga Southern
+Abilene Chr | Howard Payne
+Wright St | Cedarville
+Florida | North Florida
+Cincinnati | Ark Pine Bluff
+Montana St | North Dakota
+ULM | Northwestern LA
+Georgia | Kennesaw
+Oklahoma | North Texas
+Vanderbilt | Savannah St
+San Diego St | Jackson St
+St Francis PA | Bloomsburg
+Elon | Central Penn
+Chattanooga | Hiwassee
+Mercer | Brewton-Parker
+UNC Greensboro | Greensboro
+Weber St | Benedictine AZ
+Southern Univ | Wiley
+Idaho | W Coast Bap
+Akron | Alabama St
+Arizona St | NE Omaha
+Cent Arkansas | Ark Little Rock
+Boston Univ | New Hampshire
+Northeastern | Bucknell
+Kent | Detroit
+NJIT | Drexel
+Tennessee | E Kentucky
+Georgetown | Richmond
+Vermont | G Washington
+UCLA | Hawaii
+Kentucky | Monmouth NJ
+Princeton | Maine
+Massachusetts | Quinnipiac
+Rutgers | Miami FL
+Michigan | North Carolina
+New Mexico St | UTEP
+WI Green Bay | N Illinois
+Toledo | North Alabama
+Stanford | Portland St
+Robert Morris | Youngstown St
+South Florida | Stetson
+UC Irvine | St Marys CA
+IUPUI | Bradley
+Rhode Island | Brown
+Yale | Bryant
+DePaul | Cleveland St
+N Colorado | Denver
+Evansville | Wyoming
+Gardner Webb | SC Upstate
+George Mason | Morgan St
+Hofstra | Siena
+Houston | UTRGV
+Indiana St | San Jose St
+Xavier | Miami OH
+West Virginia | Rider
+PFW | E Illinois
+Auburn | St Peters
+St Bonaventure | Canisius
+Cornell | Lafayette
+USC | Long Beach St
+Louisiana | New Orleans
+Texas St | Rice
+Southern Miss | South Alabama
+C Michigan | Sam Houston St
+Florida Intl | FL Gulf Coast
+Fresno St | Pacific
+Georgia St | Tulane
+Harvard | Holy Cross
+St Josephs PA | IL Chicago
+Seattle | Northwest WA
+Old Dominion | VA Commonwealth
+St Francis NY | Presbyterian
+Air Force | Missouri St
+Valparaiso | UNLV
+Mississippi | San Diego
+Army | Binghamton
+Colorado | Portland
+Creighton | Montana
+Winthrop | Tennessee Tech
+Nicholls St | Spring Hill
+Utah Valley | Western St CO
+Jacksonville St | Carver Bib
+W Illinois | SIUE
+Syracuse | Ohio St
+Col Charleston | S Carolina St
+Marshall | William & Mary
+Liberty | Navy
+MS Valley St | Rust
+NC Central | Christendom
+Virginia | Maryland
+Illinois St | BYU
+S Dakota St | Missouri KC
+Northwestern | Georgia Tech
+Florida St | Purdue
+Utah St | Northern Iowa
+UAB | Alabama A&M
+Arizona | Ga Southern
+Belmont | Samford
+Cal Baptist | UC Riverside
+Norfolk St | Hampton
+Idaho St | MT Western
+SMU | McNeese St
+James Madison | Coppin St
+Marist | Dartmouth
+UC Davis | Northern Arizona
+Boston College | Sacred Heart
+UC Santa Barbara | CS Sacramento
+NC A&T | Central Conn
+UCF | Alabama
+Chicago St | East-West
+TX Southern | Huston-Tillot
+Austin Peay | Troy
+LIU Brooklyn | Albany NY
+Campbell | Trinity Bap
+North Florida | Florida A&M
+Southern Utah | San Diego Chr
+Santa Clara | Jackson St
+Loy Marymount | Bethesda
+Wagner | American Univ
+Buffalo | WI Milwaukee
+South Florida | Colgate
+Wisconsin | Iowa
+St Francis PA | Niagara
+N Kentucky | UMBC
+Radford | Texas
+Vermont | Towson
+TCU | C Michigan
+Delaware | MD E Shore
+Pittsburgh | Duquesne
+Michigan St | Rutgers
+East Carolina | Appalachian St
+San Francisco | SF Austin
+South Carolina | Coastal Car
+Mississippi St | Dayton
+Minnesota | Oklahoma St
+Dartmouth | Albany NY
+Marist | LIU Brooklyn
+Morehead St | OH Chillicothe
+Akron | Detroit
+Austin Peay | Alabama A&M
+Evansville | Albion
+Arizona St | TX Southern
+WI Green Bay | Belmont
+Bethune-Cookman | FL Atlantic
+Binghamton | Hartwick
+Grand Canyon | Boise St
+Hartford | Bowling Green
+Bryant | New Hampshire
+Bucknell | Monmouth NJ
+St Marys CA | California
+Virginia Tech | Central Conn
+North Florida | Charleston So
+Col Charleston | Charlotte
+Citadel | Mercer
+Toledo | Cleveland St
+Syracuse | Cornell
+CS Sacramento | CS Northridge
+Davidson | UNC Wilmington
+Drexel | Robert Morris
+E Kentucky | High Point
+Northeastern | E Michigan
+George Mason | William & Mary
+Princeton | G Washington
+Loyola-Chicago | IL Chicago
+Indiana | Northwestern
+Indiana St | Wright St
+VA Commonwealth | Iona
+Jacksonville St | North Alabama
+Kansas | Stanford
+Kent | Norfolk St
+Louisville | Seton Hall
+St Peters | Maine
+MA Lowell | NJIT
+Texas Tech | Memphis
+Oregon St | Missouri St
+New Mexico St | Washington St
+Stony Brook | Quinnipiac
+Richmond | Wake Forest
+S Illinois | SIUE
+Texas St | UT San Antonio
+Utah | Tulsa
+Ball St | IUPUI
+Brown | Navy
+Siena | Harvard
+San Diego St | Illinois St
+Villanova | La Salle
+NC Central | McNeese St
+Yale | Miami FL
+N Colorado | Wyoming
+SC Upstate | W Michigan
+TN Martin | UNC Asheville
+Utah St | UC Irvine
+UTRGV | UT Arlington
+West Virginia | Youngstown St
+Pacific | Air Force
+Wichita St | Baylor
+Louisiana Tech | Houston Bap
+Marquette | Kansas St
+Kentucky | UNC Greensboro
+Lamar | Rice
+Ohio | Marshall
+Michigan | Purdue
+NC State | Vanderbilt
+Nevada | USC
+Santa Clara | Northern Arizona
+Xavier | Oakland
+Providence | Rhode Island
+Lehigh | Arkansas St
+Ark Little Rock | Sam Houston St
+St Louis | Butler
+Fresno St | Cal Poly
+Chattanooga | Tennessee Tech
+Duke | Stetson
+Seattle | E Washington
+Holy Cross | F Dickinson
+Furman | W Carolina
+LSU | Grambling
+Missouri KC | PFW
+Old Dominion | James Madison
+Presbyterian | NC A&T
+Louisiana | Southern Univ
+Temple | St Josephs PA
+Drake | N Dakota St
+Arkansas | Florida Intl
+New Mexico | Bradley
+Wofford | ETSU
+Lipscomb | MTSU
+WKU | Tennessee St
+Pepperdine | Abilene Chr
+CS Fullerton | Cal Lutheran
+South Dakota | CS Bakersfield
+Houston | Oregon
+San Diego | Long Beach St
+Longwood | VMI
+Murray St | Prairie View
+Army | Fairfield
+Boston Univ | Elon
+Cincinnati | UNLV
+Colorado | Colorado St
+Gonzaga | Creighton
+Fordham | Manhattan
+Idaho | North Dakota
+Mississippi | ULM
+UTEP | Northwestern LA
+Cal Baptist | MS Valley St
+St Bonaventure | Delaware St
+Utah Valley | Denver
+Hofstra | Kennesaw
+S Dakota St | Northern Iowa
+SE Louisiana | Tulane
+Weber St | BYU
+South Alabama | Florida A&M
+Gardner Webb | Savannah St
+St Johns | Georgia Tech
+Maryland | Penn St
+Loyola MD | Mt St Marys
+Miami OH | Wilberforce
+Chicago St | E Illinois
+Alcorn St | Rust
+Jacksonville | S Carolina St
+Liberty | Georgia St
+W Illinois | SE Missouri St
+Portland St | Portland Bible
+SF Austin | WI Milwaukee
+Buffalo | San Francisco
+Hampton | Regent
+Arizona | Connecticut
+Colgate | FL Gulf Coast
+Delaware | Columbia
+SMU | Oral Roberts
+Tennessee | TAM C. Christi
+Sacred Heart | Lafayette
+Washington | UC Santa Barbara
+East Carolina | MD E Shore
+Nebraska | Illinois
+Valparaiso | UC Riverside
+UCLA | Loy Marymount
+Missouri | UCF
+Southern Miss | Rust
+Ohio St | Minnesota
+Montana | Col of Idaho
+Vermont | George Mason
+Georgia | TX Southern
+Iowa St | N Dakota St
+Niagara | Pittsburgh
+Wisconsin | Rutgers
+St Francis NY | St Josephs NY
+UMBC | Coppin St
+Virginia | Morgan St
+Michigan St | Iowa
+Texas A&M | Northwestern LA
+Florida St | Troy
+Georgetown | Liberty
+ETSU | Reinhardt
+Delaware St | Cairn
+DePaul | Florida A&M
+CS Northridge | Pepperdine
+American Univ | St Francis PA
+Appalachian St | Howard
+Bradley | Ark Little Rock
+St Marys CA | Bethune-Cookman
+Boston Univ | MA Lowell
+Bucknell | La Salle
+Grambling | Centenary
+C Michigan | Youngstown St
+Dayton | Detroit
+E Illinois | Fontbonne
+James Madison | Radford
+Kansas | Wofford
+Mississippi St | McNeese St
+Memphis | S Dakota St
+Penn | Miami FL
+Michigan | Northwestern
+Seton Hall | New Hampshire
+UAB | North Alabama
+Syracuse | Northeastern
+Houston | Lamar
+Missouri | UT Arlington
+Auburn | UNC Asheville
+Providence | Boston College
+Indiana | Penn St
+Marquette | UTEP
+Georgia St | Alabama
+Arkansas St | Evansville
+Holy Cross | Massachusetts
+Jacksonville | Presbyterian
+Oklahoma | Notre Dame
+Belmont | Lipscomb
+High Point | Valparaiso
+New Mexico St | New Mexico
+Abilene Chr | Campbell
+Florida | West Virginia
+NJIT | Army
+Cincinnati | N Kentucky
+Colorado | South Dakota
+Davidson | Winthrop
+Furman | Elon
+Maine | Fordham
+Louisiana Tech | Prairie View
+SE Missouri St | MS Valley St
+Clemson | St Peters
+Incarnate Word | Trinity TX
+CS Bakersfield | UC Merced
+Texas Tech | Ark Pine Bluff
+Ball St | Loyola-Chicago
+Cleveland St | Bowling Green
+Butler | Brown
+Buffalo | Le Moyne
+UC Irvine | Cal Baptist
+San Francisco | California
+Canisius | Robert Morris
+Louisville | Cent Arkansas
+Colgate | Columbia
+Toledo | Detroit
+FL Atlantic | Mercer
+FL Gulf Coast | Oral Roberts
+Gonzaga | Washington
+G Washington | Towson
+Hofstra | Monmouth NJ
+Washington St | Idaho
+IL Chicago | Illinois St
+Louisiana | Loyola NO
+Stony Brook | Manhattan
+Missouri St | WKU
+North Carolina | UNC Wilmington
+Xavier | Ohio
+Tulsa | Oklahoma St
+Portland St | Portland
+Texas St | TAM C. Christi
+VA Commonwealth | Texas
+Air Force | Denver
+Morgan St | Binghamton
+Richmond | Coppin St
+Quinnipiac | Dartmouth
+Navy | Delaware
+Drexel | Loyola MD
+E Kentucky | SC Upstate
+Yale | Lehigh
+Miami OH | Wright St
+N Illinois | UC Davis
+TCU | SMU
+Wyoming | South Carolina
+Tulane | TN Martin
+PFW | Akron
+Connecticut | Lafayette
+Duquesne | Marshall
+Long Beach St | Southern Utah
+St Johns | Mt St Marys
+Vanderbilt | MTSU
+New Orleans | South Alabama
+Pacific | Permian Basin
+St Bonaventure | Siena
+Duke | Hartford
+Fresno St | Weber St
+Minnesota | Nebraska
+NC State | W Carolina
+Old Dominion | William & Mary
+St Josephs PA | Princeton
+S Illinois | St Louis
+Villanova | Temple
+Virginia Tech | VMI
+Arkansas | Colorado St
+San Diego | San Diego St
+Loy Marymount | CS Fullerton
+UTRGV | North Dakota
+CS Northridge | CS San Marcos
+North Texas | Indiana St
+BYU | Utah St
+Coastal Car | Hampton
+Citadel | J&W NC
+Ohio St | Illinois
+Stetson | W Illinois
+Wake Forest | Charlotte
+Drake | WI Milwaukee
+Iowa | Iowa St
+San Jose St | Bethune-Cookman
+Oakland | Fairfield
+UC Riverside | Pepperdine
+Seattle | NE Omaha
+Arizona | Utah Valley
+Gardner Webb | Bob Jones
+S Carolina St | Voorhees
+Purdue | Maryland
+Wofford | Kentucky Chr
+IUPUI | IU Kokomo
+Tennessee Tech | Warren Wilson
+Florida A&M | Fort Valley St
+Chicago St | Trinity Chr
+Columbia | Bryant
+George Mason | James Madison
+Missouri | Oral Roberts
+Nevada | Arizona St
+Idaho St | Santa Clara
+Louisiana Tech | SF Austin
+Massachusetts | Providence
+S Dakota St | Southern Univ
+St Marys CA | New Mexico
+Longwood | Frostburg St
+TCU | USC
+UNC Greensboro | Elon
+MA Lowell | ME Ft Kent
+Howard | American Univ
+Cent Arkansas | Ark Little Rock
+Cal Poly | Bethune-Cookman
+Boise St | C Washington
+Bowling Green | WI Green Bay
+Brown | Stony Brook
+Butler | N Illinois
+Cal Baptist | Caltech
+C Michigan | Southern Utah
+Portland | CS Sacramento
+Jacksonville St | Delaware St
+UMBC | Drexel
+E Kentucky | N Kentucky
+N Dakota St | E Washington
+Ga Southern | Mercer
+Syracuse | Georgetown
+Vermont | Harvard
+Hawaii | Hawaii Hilo
+Texas St | Houston Bap
+Indiana | Louisville
+Tulsa | Kansas St
+Kent | Wright St
+Seton Hall | Kentucky
+Penn | La Salle
+Lehigh | Mt St Marys
+LIU Brooklyn | St Peters
+Marist | Stetson
+Memphis | UAB
+UC Irvine | Montana
+Murray St | MTSU
+NJIT | St Francis NY
+UCLA | Notre Dame
+Ohio | Radford
+S Illinois | SE Missouri St
+South Alabama | Tulane
+W Michigan | Youngstown St
+Appalachian St | NC Central
+California | San Diego St
+E Michigan | Central St OH
+Dartmouth | Maine
+Northwestern | DePaul
+Furman | SC Upstate
+Hofstra | Rider
+Houston | Oklahoma St
+Illinois | UNLV
+Michigan | South Carolina
+West Virginia | Pittsburgh
+Siena | Robert Morris
+Utah St | Weber St
+Miami OH | PFW
+UC Santa Barbara | Ark Pine Bluff
+Auburn | Dayton
+Buffalo | St Bonaventure
+Penn St | Colgate
+Mississippi | Illinois St
+Quinnipiac | Lafayette
+Marquette | Wisconsin
+Toledo | Marshall
+Northeastern | Oakland
+Albany NY | Monmouth NJ
+Minnesota | Arkansas St
+Colorado St | Sam Houston St
+Duke | Yale
+Fresno St | Long Beach St
+Rhode Island | Holy Cross
+Missouri KC | South Dakota
+Morgan St | Towson
+Oklahoma | Wichita St
+Villanova | St Josephs PA
+W Carolina | UNC Asheville
+WKU | Arkansas
+ETSU | TN Martin
+Valparaiso | G Washington
+Abilene Chr | Schreiner
+CS Bakersfield | Idaho
+Michigan St | Florida
+Oregon | NE Omaha
+Army | Air Force
+Cincinnati | Xavier
+Colorado | IL Chicago
+Nebraska | Creighton
+Fordham | Rutgers
+Utah Valley | Northern Arizona
+North Texas | UT Arlington
+Florida St | Connecticut
+Gardner Webb | J&W NC
+TX Southern | Concordia TX
+E Illinois | W Illinois
+UCF | Grambling
+Indiana St | Truman St
+BYU | Utah
+Northern Iowa | Dubuque
+Loyola MD | Binghamton
+SIUE | Harris-Stowe
+Maryland | Loyola-Chicago
+Mississippi St | Clemson
+Austin Peay | Calvary Bib
+UT San Antonio | Mid-Am Chr
+NC A&T | Greensboro
+Alcorn St | Champion Bap
+Jacksonville | Mid Georgia
+William & Mary | Hampton
+Kansas | New Mexico St
+Pepperdine | Jackson St
+Central Conn | PSU Wilkes-Barre
+Alabama | Arizona
+Samford | Alabama A&M
+Evansville | Ball St
+Cleveland St | Notre Dame OH
+Col Charleston | Georgia C&S
+Columbia | Iona
+Tennessee | Gonzaga
+Montana St | Washington St
+Niagara | New Hampshire
+Virginia | VA Commonwealth
+Denver | Western St CO
+Nevada | Grand Canyon
+St Johns | Princeton
+Texas | Purdue
+Chattanooga | VMI
+Old Dominion | Fairfield
+LSU | Incarnate Word
+Iowa St | Southern Univ
+St Louis | Oregon St
+Santa Clara | Sonoma St
+Washington | Seattle
+Tennessee St | Coppin St
+Lipscomb | Navy
+San Diego | CS Northridge
+Duquesne | Longwood
+North Dakota | WI Milwaukee
+Georgia Tech | Florida A&M
+Wagner | New Rochelle
+Virginia Tech | S Carolina St
+Delaware | St Francis PA
+Wofford | Coastal Car
+Tennessee Tech | Hiwassee
+Alcorn St | Fisk
+Hofstra | Manhattan
+St Marys CA | CS Fullerton
+Dartmouth | Sacred Heart
+Pacific | Long Beach St
+Marshall | Morehead St
+Maine | ME Machias
+Ark Pine Bluff | Champion Bap
+Furman | Charleston So
+St Francis NY | MA Lowell
+Towson | UMBC
+WI Green Bay | WI Stout
+Denver | Wyoming
+Penn | Villanova
+Minnesota | North Florida
+Yale | Albany NY
+CS Sacramento | Holy Names
+Louisiana | Prairie View
+Ark Little Rock | Miles
+Colorado | New Mexico
+NJIT | Fordham
+ULM | Grambling
+Louisiana Tech | MS Valley St
+Southern Miss | Millsaps
+Maryland | Loyola MD
+UCF | Ga Southern
+Liberty | S Carolina St
+S Dakota St | Savannah St
+N Colorado | J&W CO
+Jackson St | Fisk
+Boise St | Alabama St
+South Dakota | Bellevue
+Boston College | Columbia
+Hartford | Bryant
+Stony Brook | LIU Brooklyn
+Murray St | S Illinois
+San Diego St | CS Dom. Hills
+Wichita St | Jacksonville St
+Rider | Norfolk St
+UNC Greensboro | Coppin St
+Georgia St | Chattanooga
+Houston | LSU
+Temple | Massachusetts
+Presbyterian | VMI
+Louisville | Lipscomb
+Oregon | San Diego
+F Dickinson | Army
+Texas Tech | Northwestern LA
+Mississippi | SE Louisiana
+BYU | Portland St
+IUPUI | Indiana NW
+DePaul | Chicago St
+Troy | Carver Bib
+San Francisco | E Washington
+North Alabama | Huntingdon
+Samford | Morehead St
+Dartmouth | Boston Univ
+McNeese St | NC Central
+Duquesne | MD E Shore
+Tulsa | New Orleans
+Rice | St Edwards
+Florida Intl | North Florida
+WI Milwaukee | Missouri KC
+Longwood | Averett
+CS Bakersfield | Lamar
+Gardner Webb | Kennesaw
+Campbell | Central Penn
+Wright St | Northwestern OH
+Wisconsin | Savannah St
+Santa Clara | MS Valley St
+CS Sacramento | Westcliff
+G Washington | Howard
+DePaul | IL Chicago
+Arkansas St | FL Atlantic
+Creighton | WI Green Bay
+North Dakota | Mayville St
+Ga Southern | Brewton-Parker
+Houston Bap | Arlington Bap
+South Florida | Appalachian St
+Arizona St | Georgia
+Belmont | UCLA
+Jacksonville | Bethune-Cookman
+Youngstown St | Binghamton
+E Illinois | Bradley
+Buffalo | S Illinois
+Indiana | Butler
+California | Cal Poly
+North Florida | Charleston So
+Citadel | SE Missouri St
+Col Charleston | VA Commonwealth
+Colgate | Marist
+Connecticut | Manhattan
+Ohio | Detroit
+Iowa St | Drake
+Xavier | E Kentucky
+Jacksonville St | Evansville
+Stanford | E Washington
+NJIT | F Dickinson
+Furman | UNC Wilmington
+SMU | Georgetown
+North Carolina | Gonzaga
+Grambling | Portland
+Texas | Grand Canyon
+Hampton | St Leo
+NE Omaha | Idaho
+Princeton | Iona
+Louisville | Kent
+Kentucky | Utah
+Tennessee | Memphis
+Michigan | W Michigan
+N Dakota St | Missouri St
+Toledo | MTSU
+Oral Roberts | Richmond
+Seton Hall | Rutgers
+St Francis NY | St Peters
+Texas St | UTRGV
+Wofford | UNC Asheville
+UC Irvine | Denver
+Kansas | Villanova
+San Jose St | Northern Arizona
+Rider | Robert Morris
+Austin Peay | PFW
+Marshall | Akron
+Baylor | Arizona
+Louisiana Tech | Louisiana
+Pittsburgh | MD E Shore
+NC State | Penn St
+UNC Greensboro | North Alabama
+Southern Utah | Pepperdine
+UC Santa Barbara | Rice
+Wichita St | Southern Miss
+Temple | Davidson
+Kansas St | Georgia St
+High Point | W Carolina
+LSU | St Marys CA
+Missouri KC | McNeese St
+Oklahoma | USC
+Old Dominion | Syracuse
+Arkansas | UT San Antonio
+Illinois | ETSU
+NC A&T | Tennessee St
+Texas Tech | Abilene Chr
+Dartmouth | Albany NY
+Oregon | Boise St
+San Diego | N Colorado
+Mississippi St | Cincinnati
+Loy Marymount | Portland St
+ULM | SF Austin
+Boston Univ | Nicholls St
+Iowa | Northern Iowa
+Kennesaw | Tennessee Tech
+Utah Valley | Weber St
+Clemson | Radford
+SC Upstate | S Carolina St
+Mt St Marys | Wilson
+Ohio St | Bucknell
+IUPUI | W Illinois
+Notre Dame | Purdue
+Liberty | Kentucky Chr
+Presbyterian | Trinity Bap
+Virginia Tech | Washington
+Auburn | UAB
+Murray St | Jackson St
+UNLV | BYU
+TN Martin | Brescia
+Northwestern LA | Southern Univ
+Utah St | Alabama St
+Texas A&M | Oregon St
+Nevada | S Dakota St
+Boston College | Fairfield
+Bowling Green | Findlay
+Illinois St | Cleveland St
+South Dakota | Colorado St
+Niagara | Cornell
+Tulsa | Dayton
+Stony Brook | Delaware
+FL Gulf Coast | UMBC
+Loyola-Chicago | Norfolk St
+Vermont | Northeastern
+UTEP | UC Riverside
+WI Milwaukee | WI Lutheran
+San Francisco | CS Fullerton
+TCU | Indiana St
+N Kentucky | Miami OH
+Rhode Island | West Virginia
+Providence | Central Conn
+Pacific | CS Northridge
+Duquesne | Maine
+Hartford | Oakland
+Michigan St | WI Green Bay
+St Johns | Wagner
+Mississippi | Chattanooga
+Houston | St Louis
+Nebraska | Oklahoma St
+UC Davis | Wm Jessup
+New Mexico | Cent Arkansas
+Canisius | Elon
+Fordham | Howard
+Hawaii | MS Valley St
+Winthrop | Hiwassee
+Troy | WKU
+Coastal Car | NC Central
+UCF | Stetson
+William & Mary | Peace
+Drexel | Quinnipiac
+Wake Forest | Davidson
+Drake | SIUE
+High Point | NC Wesleyan
+Samford | Houston Bap
+IL Chicago | Incarnate Word
+Montana | N Dakota St
+New Mexico St | N Colorado
+Tulane | TX Southern
+Morgan St | Wilmington DE
+Washington St | Rider
+Vanderbilt | Arizona St
+Oregon St | Pepperdine
+Seattle | Portland
+Ball St | Valparaiso
+Lipscomb | Covenant
+Cornell | Longwood
+Cal Baptist | SE Louisiana
+Gardner Webb | Georgia Tech
+N Illinois | W Illinois
+Florida St | SE Missouri St
+Utah | Florida A&M
+UT San Antonio | Bethany KS
+Northwestern | Chicago St
+UAB | Alcorn St
+Mt St Marys | American Univ
+Georgetown | Appalachian St
+Notre Dame | Binghamton
+Ga Southern | Bradley
+Buffalo | Syracuse
+Citadel | Campbell
+Connecticut | Drexel
+Murray St | Evansville
+S Dakota St | E Washington
+St Francis PA | Franciscan OH
+Jacksonville St | North Alabama
+Kansas | South Dakota
+Louisiana | McNeese St
+Missouri | Xavier
+Wright St | Morehead St
+Stetson | UNC Asheville
+Col Charleston | Siena
+Denver | Montana St
+Gonzaga | UT Arlington
+Stanford | San Jose St
+PFW | IUPUI
+SF Austin | Baylor
+Georgia | Oakland
+UNC Greensboro | Radford
+Rice | UTRGV
+Santa Clara | USC
+Vermont | St Bonaventure
+Sam Houston St | Alabama St
+Providence | Albany NY
+Arkansas St | Missouri St
+Butler | Presbyterian
+Charlotte | East Carolina
+TN Martin | Chattanooga
+Duke | Princeton
+South Florida | Florida Intl
+Iowa | W Carolina
+Akron | Tennessee St
+CS Bakersfield | Cal Poly
+Florida | Mercer
+Oklahoma | Creighton
+Marquette | North Dakota
+Elon | Kennesaw
+Northwestern LA | Louisiana Col
+North Texas | New Mexico
+ULM | Nicholls St
+Alabama | Liberty
+Oregon | Florida A&M
+Ohio St | Youngstown St
+Clemson | Charleston So
+New Orleans | Williams Bap
+TAM C. Christi | Huston-Tillot
+Loyola-Chicago | Benedictine IL
+South Alabama | Alabama A&M
+Arizona | Montana
+Memphis | Ark Little Rock
+Belmont | WKU
+Quinnipiac | Bethune-Cookman
+Gardner Webb | Brevard
+St Marys CA | Bucknell
+Fresno St | California
+Indiana | Cent Arkansas
+Cleveland St | Niagara
+Toledo | Cornell
+New Mexico St | CS Northridge
+Dayton | W Michigan
+Delaware St | Delaware
+UC Irvine | E Michigan
+F Dickinson | St Peters
+FL Gulf Coast | Keiser
+Hofstra | Stony Brook
+Miami FL | Houston Bap
+Lamar | TX Southern
+Marist | New Hampshire
+Mississippi St | Wofford
+San Francisco | Northern Arizona
+Tennessee | Samford
+Washington St | SIUE
+DePaul | Incarnate Word
+Drake | Rider
+Wichita St | Oral Roberts
+Virginia | South Carolina
+NC State | Auburn
+Penn St | Duquesne
+Kansas St | Southern Miss
+Lafayette | Rosemont
+NE Omaha | UC Santa Barbara
+Seton Hall | Sacred Heart
+St Johns | St Francis NY
+Cal Baptist | Southern Univ
+C Michigan | Missouri KC
+Georgia St | UNC Wilmington
+Virginia Tech | NC A&T
+St Louis | NC Central
+Old Dominion | Richmond
+Texas A&M | Valparaiso
+N Dakota St | Northland
+Loy Marymount | Boise St
+Cincinnati | UCLA
+Grambling | SE Louisiana
+Grand Canyon | Northern Iowa
+Utah Valley | Idaho St
+Florida St | North Florida
+FL Atlantic | Florida Col
+SC Upstate | Truett-McConnell
+Georgia Tech | Arkansas
+UC Riverside | Life Pacific
+Appalachian St | Milligan
+Notre Dame | Jacksonville
+N Kentucky | N Illinois
+UT San Antonio | TAM C. Christi
+Houston | Utah St
+Yale | Monmouth NJ
+Long Beach St | Pepperdine
+Pittsburgh | New Orleans
+Purdue | Ohio
+Holy Cross | Canisius
+PFW | Siena Hts
+CS Bakersfield | Portland St
+Seattle | Prairie View
+Creighton | Coe
+Fordham | James Madison
+Winthrop | MD E Shore
+North Texas | Ark Pine Bluff
+W Illinois | Chicago St
+Florida Intl | FL Memorial
+South Alabama | Mobile
+Duke | Texas Tech
+Albany NY | Manhattan
+Miami OH | S Carolina St
+Tennessee Tech | Savannah St
+Ball St | Howard
+Kennesaw | Southeastern FL
+La Salle | Alabama A&M
+South Florida | Alcorn St
+Austin Peay | Campbell
+Bethune-Cookman | Boston Univ
+Binghamton | LIU Brooklyn
+Butler | UC Irvine
+Oklahoma St | Cent Arkansas
+Washington | CS Sacramento
+Xavier | Detroit
+Iowa St | E Illinois
+Massachusetts | F Dickinson
+Radford | Ga Southern
+UMBC | Hood
+Lamar | Howard Payne
+Kent | Oregon St
+Louisville | Robert Morris
+Mercer | UNC Wilmington
+UNC Asheville | Milligan
+Norfolk St | UTEP
+USC | Southern Utah
+Bryant | Dartmouth
+California | San Jose St
+Gonzaga | Denver
+George Mason | Navy
+Morehead St | IUPUI
+MA Lowell | Loyola MD
+Alabama | Penn St
+Marquette | Buffalo
+Santa Clara | Idaho
+Princeton | Lafayette
+Michigan St | Oakland
+Mississippi | MTSU
+NE Omaha | Rice
+Northeastern | St Bonaventure
+Providence | Texas
+Southern Miss | South Dakota
+Bowling Green | W Carolina
+LSU | Furman
+Minnesota | NC A&T
+VMI | North Alabama
+Oklahoma | Northwestern
+Towson | Tulane
+ETSU | Wyoming
+Lipscomb | Vermont
+Abilene Chr | SE Missouri St
+Baylor | Oregon
+Longwood | Stetson
+ULM | Coppin St
+Liberty | Alabama St
+Chattanooga | Bryan
+Col Charleston | Coastal Car
+UCF | Illinois St
+Charleston So | J&W NC
+SF Austin | Arlington Bap
+Portland | Florida A&M
+IL Chicago | St Francis IL
+Troy | UAB
+Utah | Northern Arizona
+UT Arlington | Cal Poly
+E Washington | Corban
+Arizona St | Kansas
+Georgetown | Ark Little Rock
+Missouri St | Ark Pine Bluff
+Brown | Marist
+Central Conn | Maine
+Rutgers | Columbia
+SMU | Cornell
+CS Northridge | SIUE
+Weber St | Delaware St
+Drake | New Mexico St
+Evansville | WI Green Bay
+Fairfield | New Hampshire
+Miami FL | FL Atlantic
+Wisconsin | Grambling
+Harvard | G Washington
+Wagner | Hartford
+Richmond | High Point
+Hofstra | Rosemont
+Missouri | Illinois
+Indiana | Jacksonville
+Kentucky | North Carolina
+Lehigh | St Francis PA
+UTRGV | McNeese St
+Mississippi St | Wright St
+Montana | S Dakota St
+Mt St Marys | St Marys MD
+Tulsa | Oral Roberts
+Stony Brook | Quinnipiac
+San Francisco | Stanford
+WKU | St Marys CA
+Tennessee | Wake Forest
+Virginia | William & Mary
+WI Milwaukee | W Michigan
+Arizona | UC Davis
+Boston College | DePaul
+Bucknell | Rhode Island
+Villanova | Connecticut
+UNLV | Hawaii
+Yale | Iona
+West Virginia | Jacksonville St
+NC State | SC Upstate
+VA Commonwealth | Wichita St
+Nevada | Akron
+Auburn | Murray St
+Boise St | Pacific
+Long Beach St | Colorado St
+Duquesne | E Kentucky
+UC Santa Barbara | Idaho St
+Louisiana Tech | TAM C. Christi
+St Johns | Sacred Heart
+UNC Greensboro | Samford
+Syracuse | Arkansas St
+Nebraska | CS Fullerton
+Dayton | Presbyterian
+Temple | Drexel
+E Michigan | Siena Hts
+Fresno St | TN Martin
+Holy Cross | Siena
+Texas A&M | Marshall
+Old Dominion | Morgan St
+Arkansas | Texas St
+Memphis | Tennessee St
+Penn | New Mexico
+Florida | FL Gulf Coast
+Michigan | Air Force
+Niagara | Army
+Indiana St | Colorado
+Missouri KC | Elon
+UC Riverside | Loy Marymount
+Winthrop | S Illinois
+American Univ | MD E Shore
+Bradley | SE Louisiana
+Grand Canyon | MS Valley St
+Rider | N Colorado
+Northern Iowa | North Dakota
+Utah Valley | Sam Houston St
+Georgia | Georgia Tech
+Florida St | St Louis
+N Illinois | Chicago St
+Cincinnati | S Carolina St
+Davidson | Central Penn
+Iowa | Savannah St
+C Michigan | Jackson St
+Clemson | South Carolina
+Ohio St | UCLA
+Nicholls St | Mobile
+St Josephs PA | Loyola-Chicago
+Seton Hall | Maryland
+Kansas St | Vanderbilt
+San Diego St | BYU
+San Diego | Washington St
+TCU | Charlotte
+Hampton | Howard
+UTEP | Wyoming
+ETSU | Norfolk St
+Campbell | Alabama St
+Alabama A&M | Tulane
+Austin Peay | Liberty
+La Salle | Towson
+St Francis NY | Manhattan
+Houston | Coppin St
+SIUE | N Colorado
+Indiana St | UNLV
+CS Northridge | Rider
+Hawaii | Colorado
+Drake | San Diego
+TCU | Bucknell
+New Mexico St | Washington St
+Rhode Island | Charlotte
+Colorado | Charlotte
+Hawaii | Rhode Island
+Bucknell | UNLV
+TCU | Indiana St
+Creighton | Missouri KC
+Air Force | UC Riverside
+Hofstra | Delaware
+Detroit | Youngstown St
+Northeastern | Drexel
+Towson | Elon
+Gonzaga | North Alabama
+IL Chicago | Wright St
+William & Mary | James Madison
+Texas Tech | UTRGV
+NE Omaha | Denver
+N Kentucky | IUPUI
+NC State | Loyola MD
+Texas | UT Arlington
+Oakland | Cleveland St
+Virginia Tech | MD E Shore
+Kent | Albany NY
+East Carolina | NC A&T
+Marquette | Southern Univ
+Arkansas | Austin Peay
+Loy Marymount | UC Davis
+LSU | ULM
+Utah St | Eastern Oregon
+Georgia Tech | Kennesaw
+S Dakota St | W Illinois
+Hawaii | Alabama A&M
+G Washington | American Univ
+Princeton | Arizona St
+UAB | Ark Monticello
+Ball St | Delaware St
+Iowa | Bryant
+Buffalo | Canisius
+Cal Baptist | La Verne
+Miami FL | Campbell
+Oregon St | Central Conn
+Col Charleston | UNC Wilmington
+Pittsburgh | Colgate
+N Colorado | CS Sacramento
+North Carolina | Davidson
+Dayton | Ga Southern
+Drake | McKendree
+Kansas | E Michigan
+Weber St | E Washington
+Fayetteville St | UNC Asheville
+South Florida | F Dickinson
+FL Atlantic | Illinois
+Gardner Webb | Wake Forest
+Kansas St | George Mason
+Georgetown | Howard
+St Peters | Hampton
+Hartford | Marist
+Harvard | Mercer
+Robert Morris | Hood
+Texas St | Howard Payne
+Idaho St | Idaho
+Kentucky | Louisville
+Rutgers | Maine
+Missouri | Morehead St
+Montana | Northern Arizona
+Montana St | Southern Utah
+N Dakota St | South Dakota
+Niagara | Norfolk St
+Oklahoma St | TAM C. Christi
+Toledo | Penn
+Richmond | South Alabama
+UT San Antonio | SE Oklahoma
+WI Green Bay | WI Milwaukee
+WKU | Wisconsin
+Brown | San Diego St
+Siena | Cal Poly
+SC Upstate | Coker
+Notre Dame | Coppin St
+CS Northridge | Morgan St
+Xavier | DePaul
+Wyoming | Dixie St
+Houston | NJIT
+St Marys CA | San Jose St
+Auburn | North Florida
+Baylor | New Orleans
+Purdue | Belmont
+Mississippi | FL Gulf Coast
+Stanford | Long Beach St
+Louisiana Tech | Southern Miss
+MA Lowell | Sacred Heart
+Michigan St | N Illinois
+Nevada | Utah
+North Texas | Rice
+Pacific | UC Irvine
+Penn St | UMBC
+UC Santa Barbara | San Francisco
+Santa Clara | Washington St
+Seton Hall | St Johns
+Syracuse | St Bonaventure
+Tennessee | Tennessee Tech
+Arkansas St | Harding
+Seattle | California
+UNC Greensboro | Chattanooga
+CS Fullerton | Portland
+Nebraska | SW Minnesota
+Samford | VMI
+St Josephs PA | Wagner
+TX Southern | Texas A&M
+Wofford | W Carolina
+ETSU | Furman
+Vanderbilt | Tennessee St
+Abilene Chr | McMurry
+Oregon | Boise St
+Florida | Butler
+Longwood | Citadel
+San Diego | Grand Canyon
+PFW | North Dakota
+Winthrop | Prairie View
+Valparaiso | Purdue Northwest
+Utah Valley | Fresno St
+Jacksonville St | Reinhardt
+Stony Brook | Northern Iowa
+Louisiana | SE Louisiana
+Ohio St | High Point
+Mississippi St | BYU
+Georgia St | Mid Georgia
+Troy | Ark Pine Bluff
+Memphis | Florida A&M
+Lamar | Champion Bap
+Maryland | Radford
+Liberty | UCLA
+E Kentucky | Brescia
+Houston Bap | Dallas Chr
+Murray St | Bethel TN
+Jackson St | Miles
+Akron | Carnegie Mellon
+Alabama | SF Austin
+Michigan | Binghamton
+Detroit | Cleveland St
+New Mexico St | Colorado St
+Northwestern | Columbia
+Delaware | Northeastern
+Hofstra | Drexel
+E Illinois | North Alabama
+Elon | James Madison
+Georgia | Massachusetts
+N Kentucky | IL Chicago
+Missouri St | Wm Woods
+SIUE | Missouri S&T
+Oral Roberts | NE Omaha
+William & Mary | Towson
+W Michigan | UC Riverside
+Bowling Green | TN Martin
+Cornell | Navy
+Dartmouth | New Hampshire
+Miami OH | Evansville
+Wright St | IUPUI
+West Virginia | Lehigh
+Rhode Island | MTSU
+VA Commonwealth | Rider
+USC | UC Davis
+PFW | N Dakota St
+Minnesota | Mt St Marys
+Oakland | Youngstown St
+St Louis | Appalachian St
+Ohio | Florida Intl
+Holy Cross | Iona
+Presbyterian | Jacksonville
+LIU Brooklyn | Fordham
+W Illinois | Denver
+New Mexico | Univ of Southwest
+C Michigan | IN S Bend
+NC Central | Wilberforce
+Clemson | Lipscomb
+Northwestern LA | Champion Bap
+Cent Arkansas | Lyon
+Charleston So | Piedmont Bap
+Hartford | Boston College
+Weber St | Idaho
+Monmouth NJ | Penn
+Montana | Southern Utah
+Northern Arizona | Montana St
+N Colorado | Portland St
+Pepperdine | Alabama A&M
+MD E Shore | Chestnut Hill
+NJIT | Duquesne
+Virginia | Marshall
+Vanderbilt | UNC Asheville
+Albany NY | Niagara
+Sam Houston St | TX Lutheran
+South Carolina | North Greenville
+Gonzaga | CS Bakersfield
+UMBC | Centenary NJ
+Creighton | Providence
+E Washington | Idaho St
+Kent | Oberlin
+Radford | Mars Hill
+Virginia Tech | Notre Dame
+Washington | CS Fullerton
+San Diego St | CS Northridge
+St Johns | Marquette
+Florida St | Winthrop
+American Univ | Boston Univ
+Columbia | Binghamton
+Northern Iowa | Bradley
+Brown | Maine
+Georgetown | Butler
+TAM C. Christi | Cent Arkansas
+Wake Forest | Cornell
+Evansville | Drake
+North Carolina | Harvard
+High Point | Washington MD
+Houston Bap | Lamar
+McNeese St | Incarnate Word
+Loyola-Chicago | Indiana St
+Iowa St | Oklahoma St
+Texas | Kansas St
+S Illinois | Missouri St
+NE Omaha | N Dakota St
+Seton Hall | Xavier
+Boise St | Wyoming
+UNLV | Colorado St
+Vermont | Dartmouth
+South Dakota | Denver
+Villanova | DePaul
+Fresno St | San Jose St
+Texas Tech | West Virginia
+Michigan St | Northwestern
+Nevada | Utah St
+South Florida | Connecticut
+SMU | East Carolina
+Kansas | Oklahoma
+Maryland | Nebraska
+New Mexico | Air Force
+Houston | Tulsa
+Valparaiso | Illinois St
+Lehigh | Lafayette
+Abilene Chr | New Orleans
+Bucknell | Army
+Cincinnati | Tulane
+Yale | Kennesaw
+Nicholls St | Northwestern LA
+SF Austin | SE Louisiana
+Georgia Tech | SC Upstate
+Presbyterian | S Carolina St
+Prairie View | Huston-Tillot
+UCF | Temple
+North Florida | Florida National
+Campbell | Allen
+UC Santa Barbara | Bethesda
+South Alabama | Appalachian St
+Austin Peay | E Kentucky
+Jacksonville St | Belmont
+Bryant | St Francis NY
+Cal Baptist | New Mexico St
+Canisius | Marist
+Wagner | Central Conn
+WKU | Charlotte
+Wofford | Citadel
+WI Milwaukee | Cleveland St
+Col Charleston | Towson
+Montana | CS Sacramento
+Detroit | Wright St
+Drexel | Elon
+Idaho | E Washington
+Robert Morris | F Dickinson
+UAB | FL Atlantic
+Florida Intl | MTSU
+Furman | Mercer
+Texas St | Ga Southern
+Indiana | Illinois
+Iona | Monmouth NJ
+UNC Wilmington | James Madison
+Quinnipiac | Manhattan
+NC State | Miami FL
+Montana St | Portland St
+Murray St | Morehead St
+St Francis PA | Mt St Marys
+Weber St | Northern Arizona
+San Francisco | St Marys CA
+SIUE | SE Missouri St
+UC Irvine | UTRGV
+UT San Antonio | UTEP
+WI Green Bay | Youngstown St
+Navy | Colgate
+E Illinois | TN Martin
+Rider | Fairfield
+St Peters | Siena
+PFW | S Dakota St
+Purdue | Iowa
+Sacred Heart | LIU Brooklyn
+North Texas | Louisiana Tech
+Pepperdine | Loy Marymount
+Michigan | Penn St
+Minnesota | Wisconsin
+Oakland | N Kentucky
+Rice | Southern Miss
+Santa Clara | San Diego
+Arkansas St | Louisiana
+Chattanooga | W Carolina
+George Mason | St Josephs PA
+Georgia St | UT Arlington
+Holy Cross | Loyola MD
+Marshall | Old Dominion
+Memphis | Wichita St
+ETSU | Samford
+Tennessee Tech | Tennessee St
+CS Bakersfield | Seattle
+Arizona | Colorado
+Utah | Arizona St
+ULM | Ark Little Rock
+USC | California
+Oral Roberts | North Dakota
+UCLA | Stanford
+Grand Canyon | Utah Valley
+Delaware | William & Mary
+Stetson | Edward Waters
+Idaho St | Southern Utah
+BYU | Pacific
+Coastal Car | Troy
+Lincoln PA | Morgan St
+Ball St | Toledo
+IUPUI | IL Chicago
+SMU | Tulane
+Buffalo | E Michigan
+Cal Poly | Holy Names
+Cornell | J&W RI
+UC Riverside | Bethesda
+Akron | W Michigan
+Alabama | Kentucky
+Alabama St | Grambling
+TX Southern | Alcorn St
+Troy | Appalachian St
+Louisiana | Ark Little Rock
+Austin Peay | Morehead St
+Belmont | Tennessee Tech
+Binghamton | New Hampshire
+Virginia Tech | Boston College
+Boston Univ | Bucknell
+Bowling Green | Kent
+Indiana St | Bradley
+LIU Brooklyn | Bryant
+UTRGV | Cal Baptist
+Campbell | Gardner Webb
+High Point | Charleston So
+Furman | Citadel
+WI Green Bay | Cleveland St
+James Madison | Col Charleston
+Fresno St | Colorado St
+Montana St | CS Sacramento
+Delaware | Elon
+Norfolk St | Delaware St
+N Kentucky | Detroit
+Loyola-Chicago | Drake
+William & Mary | Drexel
+E Illinois | SIUE
+Murray St | E Kentucky
+Illinois St | Evansville
+Iona | Fairfield
+F Dickinson | St Francis PA
+FL Atlantic | MTSU
+UAB | Florida Intl
+VA Commonwealth | Fordham
+Tennessee | Georgia
+Hofstra | Northeastern
+N Colorado | Idaho
+Northern Arizona | Idaho St
+Iowa St | Kansas
+Texas Tech | Kansas St
+Lamar | TAM C. Christi
+La Salle | Massachusetts
+UMBC | Maine
+Stony Brook | MA Lowell
+Manhattan | Niagara
+Maryland | Rutgers
+Wofford | Mercer
+Monmouth NJ | St Peters
+Portland St | Montana
+N Illinois | Ohio
+North Florida | North Alabama
+North Carolina | Pittsburgh
+S Illinois | Northern Iowa
+Syracuse | Notre Dame
+Princeton | Penn
+Southern Utah | Weber St
+St Francis NY | Wagner
+UNC Wilmington | Towson
+UT San Antonio | UTEP
+Youngstown St | WI Milwaukee
+Utah St | Air Force
+NC Central | Bethune-Cookman
+Boise St | San Diego St
+Canisius | Siena
+C Michigan | Miami OH
+Yale | CS Northridge
+Rider | Quinnipiac
+SE Missouri St | TN Martin
+Texas | West Virginia
+UNLV | Wyoming
+TCU | Baylor
+Sacred Heart | Central Conn
+Marshall | Charlotte
+Davidson | Duquesne
+St Johns | Georgetown
+Gonzaga | Santa Clara
+New Orleans | Houston Bap
+Rice | Louisiana Tech
+Loy Marymount | Portland
+Morgan St | MD E Shore
+North Texas | Southern Miss
+Wright St | Oakland
+San Diego | Pacific
+San Francisco | Pepperdine
+Villanova | Providence
+Georgia St | Texas St
+Grand Canyon | Seattle
+Mississippi | Vanderbilt
+Oklahoma | Oklahoma St
+Old Dominion | WKU
+Presbyterian | SC Upstate
+W Carolina | Samford
+UNC Greensboro | VMI
+ETSU | Chattanooga
+Lipscomb | Jacksonville
+Jacksonville St | Tennessee St
+Valparaiso | Missouri St
+New Mexico | Nevada
+Tulsa | South Florida
+Sam Houston St | Abilene Chr
+South Carolina | Florida
+UC Davis | Holy Names
+Radford | Longwood
+Prairie View | Southern Univ
+Arizona | Utah
+Arizona St | Colorado
+ULM | Arkansas St
+Army | Lafayette
+Butler | Creighton
+UCLA | California
+East Carolina | Cincinnati
+North Dakota | Denver
+Northwestern LA | McNeese St
+Oregon St | Oregon
+Winthrop | UNC Asheville
+Washington | Washington St
+Ark Pine Bluff | MS Valley St
+Cent Arkansas | SE Louisiana
+CS Bakersfield | Utah Valley
+NJIT | Kennesaw
+Duke | Clemson
+Long Beach St | Bethesda
+Robert Morris | Mt St Marys
+South Alabama | Coastal Car
+Jackson St | Alabama A&M
+Incarnate Word | Nicholls St
+Michigan St | Ohio St
+UCF | Connecticut
+Georgia Tech | Wake Forest
+Virginia | Florida St
+Missouri KC | Chicago St
+Ga Southern | UT Arlington
+Coppin St | Savannah St
+NC A&T | S Carolina St
+Arkansas | Texas A&M
+Vermont | Albany NY
+Liberty | FL Gulf Coast
+Oral Roberts | W Illinois
+St Marys CA | BYU
+Florida A&M | Howard
+Colgate | American Univ
+Dayton | Richmond
+Northwestern | Illinois
+Michigan | Indiana
+Louisville | Miami FL
+S Dakota St | South Dakota
+DePaul | Seton Hall
+George Mason | St Bonaventure
+Marquette | Xavier
+Wisconsin | Penn St
+G Washington | St Josephs PA
+Navy | Holy Cross
+Houston | Memphis
+Iowa | Nebraska
+St Louis | Rhode Island
+Temple | Wichita St
+USC | Stanford
+Lehigh | Loyola MD
+N Dakota St | Dickinson St ND
+Alabama A&M | Grambling
+N Colorado | E Washington
+Fairfield | Niagara
+Coppin St | Delaware St
+TX Southern | Southern Univ
+Prairie View | Alcorn St
+Howard | MD E Shore
+Savannah St | Morgan St
+Norfolk St | Florida A&M
+Alabama St | Jackson St
+C Michigan | Akron
+E Michigan | Ball St
+Bowling Green | Ohio
+Buffalo | Toledo
+Drake | S Illinois
+Evansville | Loyola-Chicago
+North Alabama | FL Gulf Coast
+Missouri St | Indiana St
+Kent | W Michigan
+Kentucky | Texas A&M
+Marist | Manhattan
+Tennessee | Missouri
+Oklahoma St | Texas
+South Carolina | Mississippi St
+Yale | Skidmore
+Baylor | Iowa St
+Maryland | Minnesota
+Michigan St | Purdue
+Villanova | St Johns
+LSU | Alabama
+Duke | Wake Forest
+Texas Tech | Oklahoma
+San Diego St | Wyoming
+Valparaiso | Bradley
+UNLV | New Mexico
+Colorado St | Air Force
+Brown | Canisius
+N Illinois | Miami OH
+NC A&T | Mid-Atlantic Chr
+Illinois St | Northern Iowa
+North Carolina | NC State
+Stony Brook | Binghamton
+Virginia | Boston College
+Bucknell | Colgate
+Seton Hall | Butler
+Cornell | Towson
+CS Northridge | UC Riverside
+Davidson | George Mason
+Dayton | G Washington
+Xavier | Georgetown
+Hartford | UMBC
+Iowa | Northwestern
+VA Commonwealth | La Salle
+Pittsburgh | Louisville
+Vermont | Maine
+New Hampshire | MA Lowell
+American Univ | Navy
+Hawaii | CS Fullerton
+Fresno St | Utah St
+Kansas | TCU
+Kansas St | West Virginia
+Rhode Island | Richmond
+Mississippi | Auburn
+UC Santa Barbara | Cal Poly
+Duquesne | Fordham
+Lafayette | Loyola MD
+New Orleans | Lamar
+Nevada | San Jose St
+Sam Houston St | Cent Arkansas
+Georgia | Vanderbilt
+Lehigh | Holy Cross
+Temple | Houston
+St Louis | Massachusetts
+South Florida | Tulane
+St Bonaventure | St Josephs PA
+Lipscomb | North Florida
+Abilene Chr | McNeese St
+Florida | Arkansas
+Arizona | Stanford
+Arizona St | California
+Army | Boston Univ
+Marquette | Creighton
+TAM C. Christi | Northwestern LA
+Jacksonville | Kennesaw
+Nicholls St | SF Austin
+Liberty | Stetson
+Rutgers | Ohio St
+Virginia Tech | Georgia Tech
+Syracuse | Clemson
+Florida St | Miami FL
+Ark Little Rock | Troy
+Austin Peay | SE Missouri St
+Belmont | Morehead St
+Bryant | Mt St Marys
+Central Conn | F Dickinson
+Hampton | Charleston So
+Florida Intl | Charlotte
+Drexel | Col Charleston
+Delaware | UNC Wilmington
+Detroit | WI Green Bay
+Jacksonville St | E Illinois
+Northeastern | Elon
+E Washington | Montana
+Fairfield | St Peters
+New Mexico St | Grand Canyon
+Hofstra | William & Mary
+Montana St | Idaho
+IL Chicago | Youngstown St
+Michigan | Illinois
+Quinnipiac | Monmouth NJ
+Tennessee Tech | SIUE
+UT Arlington | Appalachian St
+IUPUI | Cleveland St
+S Dakota St | Denver
+Murray St | TN Martin
+North Texas | UTEP
+Radford | SC Upstate
+UC Irvine | UC Davis
+PFW | Oral Roberts
+Gonzaga | Pacific
+Louisiana Tech | UAB
+Southern Miss | MTSU
+WI Milwaukee | Oakland
+Santa Clara | Pepperdine
+UT San Antonio | Rice
+Wagner | Sacred Heart
+Wofford | UNC Greensboro
+Arkansas St | South Alabama
+Connecticut | SMU
+Memphis | East Carolina
+FL Atlantic | Old Dominion
+Furman | VMI
+Georgia St | Louisiana
+High Point | Presbyterian
+Mercer | W Carolina
+Nebraska | Penn St
+ETSU | Citadel
+Tennessee St | E Kentucky
+CS Bakersfield | UTRGV
+Longwood | UNC Asheville
+Winthrop | Campbell
+Cincinnati | Tulsa
+Colorado | Washington St
+Ga Southern | ULM
+NE Omaha | North Dakota
+UCLA | Oregon
+Oregon St | USC
+BYU | Portland
+Missouri KC | Cal Baptist
+Texas St | Coastal Car
+N Dakota St | W Illinois
+Washington | Utah
+St Francis PA | LIU Brooklyn
+Robert Morris | St Francis NY
+Maryland | Indiana
+Niagara | Iona
+N Kentucky | Wright St
+Rider | Canisius
+Siena | Marist
+Purdue | Wisconsin
+N Illinois | Akron
+Texas A&M | Alabama
+Ark Pine Bluff | Alabama St
+Bucknell | American Univ
+Texas St | Appalachian St
+Ark Little Rock | South Alabama
+Ohio | Ball St
+Belmont | E Kentucky
+Notre Dame | Boston College
+Bowling Green | C Michigan
+Missouri St | Bradley
+CS Northridge | Cal Poly
+Cent Arkansas | Lamar
+Central Conn | Mt St Marys
+Charlotte | FL Atlantic
+IL Chicago | Cleveland St
+Col Charleston | Delaware
+Colgate | Lehigh
+Idaho St | CS Sacramento
+Davidson | VA Commonwealth
+Detroit | WI Milwaukee
+UNC Wilmington | Drexel
+Hofstra | Elon
+E Michigan | Kent
+Indiana St | Evansville
+Wagner | F Dickinson
+North Florida | FL Gulf Coast
+Louisiana | Ga Southern
+Gonzaga | San Francisco
+Grand Canyon | UTRGV
+Richmond | G Washington
+Hampton | UNC Asheville
+Vermont | Hartford
+Loyola-Chicago | Illinois St
+Kansas St | Iowa St
+Jacksonville St | SIUE
+James Madison | Towson
+Louisville | North Carolina
+MA Lowell | UMBC
+Monmouth NJ | Manhattan
+Miami FL | Wake Forest
+Montana | N Colorado
+Murray St | SE Missouri St
+NC State | Pittsburgh
+Stony Brook | New Hampshire
+North Alabama | NJIT
+Northeastern | William & Mary
+Southern Utah | Northern Arizona
+S Dakota St | Oral Roberts
+Princeton | Penn
+Weber St | Portland St
+Texas Tech | Texas
+Toledo | W Michigan
+Air Force | San Diego St
+Austin Peay | TN Martin
+Boise St | San Jose St
+Boston Univ | Navy
+Buffalo | Miami OH
+Norfolk St | Coppin St
+UC Irvine | CS Fullerton
+Dartmouth | Harvard
+Gardner Webb | SC Upstate
+Youngstown St | IUPUI
+UT San Antonio | North Texas
+Oklahoma St | West Virginia
+Utah St | Wyoming
+Auburn | Georgia
+Kansas | Baylor
+Sacred Heart | Bryant
+DePaul | St Johns
+E Illinois | Tennessee Tech
+Nevada | Fresno St
+UNC Greensboro | Furman
+Georgetown | Providence
+Long Beach St | UC Davis
+Louisiana Tech | MTSU
+St Marys CA | Loy Marymount
+Marquette | Seton Hall
+Marshall | WKU
+New Orleans | McNeese St
+NC Central | MD E Shore
+Minnesota | Rutgers
+Mississippi | Mississippi St
+Oakland | WI Green Bay
+Pacific | Portland
+Pepperdine | San Diego
+UTEP | Rice
+Southern Miss | UAB
+UC Santa Barbara | UC Riverside
+Maine | Albany NY
+Troy | Arkansas St
+Chattanooga | Samford
+W Carolina | Citadel
+NC A&T | Delaware St
+Duquesne | St Josephs PA
+Old Dominion | Florida Intl
+Grambling | Southern Univ
+Holy Cross | Lafayette
+Houston | Wichita St
+Sam Houston St | Incarnate Word
+Kentucky | Vanderbilt
+St Louis | La Salle
+Oklahoma | TCU
+Radford | Presbyterian
+Temple | South Florida
+Wofford | VMI
+LSU | Arkansas
+Colorado St | New Mexico
+ETSU | Mercer
+Lipscomb | Stetson
+Morehead St | Tennessee St
+Valparaiso | S Illinois
+SMU | Tulsa
+Charleston So | Longwood
+Columbia | Elmira
+New Mexico St | CS Bakersfield
+Tennessee | Florida
+Prairie View | TX Southern
+Arizona | California
+Stanford | Arizona St
+Cincinnati | Connecticut
+Washington | Colorado
+Georgia St | ULM
+Winthrop | High Point
+Northwestern LA | SF Austin
+Utah | Washington St
+Abilene Chr | SE Louisiana
+MS Valley St | Alabama A&M
+Nicholls St | Houston Bap
+Utah Valley | Seattle
+BYU | Santa Clara
+Cal Baptist | Chicago St
+Virginia | Clemson
+Duke | Florida St
+Liberty | Jacksonville
+UT Arlington | Coastal Car
+Loyola MD | Army
+Iowa | Ohio St
+North Dakota | W Illinois
+Bethune-Cookman | Howard
+S Carolina St | Morgan St
+St Bonaventure | Fordham
+Georgia Tech | Syracuse
+Jackson St | Alcorn St
+Florida A&M | Savannah St
+St Francis NY | St Francis PA
+LIU Brooklyn | Robert Morris
+Xavier | Butler
+Iona | Canisius
+Dayton | Massachusetts
+Northern Iowa | Drake
+Quinnipiac | Fairfield
+St Peters | Marist
+Michigan | Northwestern
+George Mason | Rhode Island
+Rider | Niagara
+South Dakota | PFW
+Michigan St | Penn St
+Memphis | Tulane
+Villanova | Creighton
+Oregon | USC
+Oregon St | UCLA
+UCF | East Carolina
+South Carolina | Missouri
+Ark Pine Bluff | Alabama A&M
+Grambling | Alcorn St
+Norfolk St | Bethune-Cookman
+Kansas | Texas
+Maryland | Wisconsin
+N Colorado | Montana St
+NC Central | Delaware St
+Monmouth NJ | Siena
+Baylor | Oklahoma St
+Bucknell | Holy Cross
+Syracuse | Duke
+Nebraska | Indiana
+NC A&T | MD E Shore
+Alabama St | MS Valley St
+Pittsburgh | Florida St
+S Carolina St | Coppin St
+Jackson St | Southern Univ
+Akron | E Michigan
+Bowling Green | Ball St
+Buffalo | W Michigan
+C Michigan | N Illinois
+Kentucky | Georgia
+Illinois St | S Illinois
+Kent | Ohio
+Wake Forest | NC State
+North Carolina | Notre Dame
+Virginia | Virginia Tech
+TCU | West Virginia
+Marquette | Georgetown
+Providence | Seton Hall
+Purdue | Rutgers
+St Josephs PA | Davidson
+St Louis | Fordham
+LSU | Mississippi
+Tennessee | Arkansas
+Loyola-Chicago | Valparaiso
+San Diego St | New Mexico
+Mississippi St | Florida
+Cincinnati | South Florida
+Nevada | Boise St
+Brown | J&W RI
+Toledo | Miami OH
+Morgan St | Howard
+Alabama | Missouri
+Lehigh | American Univ
+UMBC | Binghamton
+Louisville | Boston College
+Drake | Bradley
+Campbell | UNC Asheville
+Cent Arkansas | Incarnate Word
+VA Commonwealth | Dayton
+Evansville | Missouri St
+George Mason | Massachusetts
+G Washington | La Salle
+Hartford | Maine
+Northern Iowa | Indiana St
+Iowa St | Texas Tech
+North Alabama | Jacksonville
+Vermont | New Hampshire
+North Florida | Stetson
+Air Force | UNLV
+Loyola MD | Boston Univ
+Butler | DePaul
+Denver | N Dakota St
+High Point | SC Upstate
+Utah St | San Jose St
+Auburn | Texas A&M
+Duquesne | Richmond
+Illinois | Minnesota
+Iowa | Penn St
+Navy | Lafayette
+Long Beach St | UC Irvine
+Rhode Island | St Bonaventure
+Temple | East Carolina
+Presbyterian | Hampton
+Houston | SMU
+Kansas St | Oklahoma
+Sam Houston St | TAM C. Christi
+South Carolina | Vanderbilt
+Tulsa | Connecticut
+Lipscomb | NJIT
+Abilene Chr | Houston Bap
+Army | Colgate
+St Johns | Creighton
+Longwood | Winthrop
+New Orleans | SF Austin
+S Dakota St | North Dakota
+SE Louisiana | Lamar
+McNeese St | Nicholls St
+MA Lowell | Albany NY
+Liberty | Kennesaw
+Clemson | Georgia Tech
+Wichita St | UCF
+Texas St | Ark Little Rock
+Austin Peay | SIUE
+Jacksonville St | Belmont
+Canisius | Quinnipiac
+Samford | Citadel
+N Kentucky | Cleveland St
+Northeastern | Col Charleston
+Hawaii | CS Northridge
+CS Sacramento | Northern Arizona
+Delaware | James Madison
+Drexel | Towson
+Murray St | E Illinois
+Monmouth NJ | Fairfield
+Florida Intl | WKU
+Radford | Gardner Webb
+Ga Southern | Troy
+Hofstra | UNC Wilmington
+Weber St | Idaho St
+WI Milwaukee | IL Chicago
+Manhattan | St Peters
+Morehead St | SE Missouri St
+MTSU | UT San Antonio
+Oral Roberts | South Dakota
+Southern Utah | Portland St
+UAB | UTEP
+Wright St | Youngstown St
+CS Fullerton | UC Riverside
+E Kentucky | TN Martin
+IUPUI | WI Green Bay
+Siena | Niagara
+San Diego | Portland
+Southern Miss | Charlotte
+Marshall | FL Atlantic
+Gonzaga | Loy Marymount
+San Francisco | Pacific
+UC Santa Barbara | UC Davis
+UT Arlington | Arkansas St
+Chattanooga | Mercer
+Georgia St | South Alabama
+Old Dominion | Louisiana Tech
+Michigan St | Nebraska
+New Mexico St | Seattle
+UNC Greensboro | W Carolina
+ETSU | VMI
+Tennessee St | Tennessee Tech
+Oregon | Arizona
+Arizona St | Oregon St
+Washington St | California
+Washington | Stanford
+Utah Valley | UTRGV
+St Marys CA | Santa Clara
+NE Omaha | W Illinois
+Grand Canyon | Chicago St
+CS Bakersfield | Missouri KC
+BYU | Pepperdine
+Iona | Marist
+Northwestern | Rutgers
+Toledo | Ohio
+Villanova | Xavier
+St Louis | St Josephs PA
+Buffalo | E Michigan
+Maryland | Ohio St
+Tennessee | Alabama
+Alabama St | Alabama A&M
+E Illinois | Austin Peay
+Ball St | C Michigan
+Bethune-Cookman | Delaware St
+Vermont | Binghamton
+Fresno St | Boise St
+Colgate | Boston Univ
+Bowling Green | W Michigan
+Robert Morris | Bryant
+Bucknell | Lehigh
+Campbell | Charleston So
+Canisius | Fairfield
+St Francis PA | Central Conn
+Wright St | Cleveland St
+Hofstra | Col Charleston
+Cornell | Columbia
+UC Irvine | CS Northridge
+Southern Utah | CS Sacramento
+Davidson | Richmond
+Towson | Delaware
+Drexel | James Madison
+E Kentucky | SE Missouri St
+Elon | William & Mary
+Illinois St | Evansville
+E Washington | Montana St
+LIU Brooklyn | F Dickinson
+WKU | FL Atlantic
+George Mason | Fordham
+Wofford | Furman
+Gardner Webb | Hampton
+Ga Southern | South Alabama
+Gonzaga | Portland
+Grambling | TX Southern
+MA Lowell | Hartford
+UC Riverside | Hawaii
+Montana | Idaho
+WI Green Bay | IL Chicago
+Loyola-Chicago | Indiana St
+Iowa St | Oklahoma St
+Kent | N Illinois
+Stony Brook | Maine
+VA Commonwealth | Massachusetts
+Mercer | Samford
+Wisconsin | Michigan
+Missouri | Texas A&M
+Mt St Marys | Wagner
+MTSU | UTEP
+Murray St | SIUE
+Weber St | N Colorado
+Niagara | Quinnipiac
+N Kentucky | Youngstown St
+North Alabama | Stetson
+Northeastern | UNC Wilmington
+Northern Arizona | Portland St
+Syracuse | Pittsburgh
+Radford | UNC Asheville
+UAB | UT San Antonio
+Virginia Tech | Wake Forest
+UT Arlington | Ark Little Rock
+Yale | Brown
+UC Davis | Cal Poly
+Utah St | Colorado St
+Coppin St | NC Central
+DePaul | Seton Hall
+WI Milwaukee | IUPUI
+West Virginia | Kansas
+Kansas St | TCU
+Rhode Island | La Salle
+Rider | Manhattan
+Morehead St | TN Martin
+St Marys CA | San Diego
+UNLV | San Jose St
+Nevada | Air Force
+Lafayette | American Univ
+Baylor | Texas Tech
+Butler | St Johns
+Charlotte | Louisiana Tech
+CS Fullerton | Long Beach St
+Dayton | St Bonaventure
+Oakland | Detroit
+Marshall | Florida Intl
+Purdue | Indiana
+Jacksonville St | Tennessee Tech
+Loy Marymount | Pepperdine
+Minnesota | Penn St
+TAM C. Christi | New Orleans
+North Texas | Rice
+Santa Clara | Pacific
+St Francis NY | Sacred Heart
+UMBC | Albany NY
+Texas St | Arkansas St
+Southern Univ | Ark Pine Bluff
+Chattanooga | Citadel
+Connecticut | Tulane
+Duke | Virginia
+Troy | Georgia St
+Loyola MD | Holy Cross
+Houston | South Florida
+Sam Houston St | Houston Bap
+LSU | South Carolina
+Memphis | SMU
+Mississippi St | Vanderbilt
+NC A&T | Morgan St
+Texas | Oklahoma
+Old Dominion | Southern Miss
+Penn | Temple
+UTRGV | Seattle
+VMI | W Carolina
+NJIT | Jacksonville
+Mississippi | Arkansas
+Belmont | Tennessee St
+UNC Greensboro | ETSU
+New Mexico | Wyoming
+Valparaiso | Northern Iowa
+Florida | Georgia
+Presbyterian | Longwood
+Abilene Chr | Northwestern LA
+Arizona | Oregon St
+Arizona St | Oregon
+Army | Navy
+Washington | California
+Cincinnati | Wichita St
+SF Austin | Incarnate Word
+N Dakota St | North Dakota
+Winthrop | SC Upstate
+Stanford | Washington St
+USC | UCLA
+Alcorn St | MS Valley St
+Cent Arkansas | Nicholls St
+FL Gulf Coast | Kennesaw
+SE Louisiana | McNeese St
+New Mexico St | Utah Valley
+San Francisco | BYU
+Coastal Car | Appalachian St
+W Illinois | PFW
+Howard | S Carolina St
+Norfolk St | Savannah St
+North Carolina | Miami FL
+UCF | Tulsa
+NC State | Notre Dame
+ULM | Louisiana
+Miami OH | Akron
+Louisville | Georgia Tech
+MD E Shore | Florida A&M
+Prairie View | Jackson St
+Liberty | North Florida
+Grand Canyon | Missouri KC
+CS Bakersfield | Chicago St
+Kentucky | Auburn
+Bradley | S Illinois
+Drake | Missouri St
+Iowa | Illinois
+Monmouth NJ | Iona
+NE Omaha | South Dakota
+Denver | Oral Roberts
+Duquesne | G Washington
+Marquette | Providence
+Utah | Colorado
+Boston College | Florida St
+Alcorn St | Ark Pine Bluff
+Bryant | St Francis PA
+Robert Morris | Central Conn
+F Dickinson | Mt St Marys
+FL Gulf Coast | Stetson
+Harvard | Howard
+N Colorado | Idaho St
+Kansas | Iowa St
+St Francis NY | LIU Brooklyn
+Marist | Manhattan
+NJIT | North Florida
+North Carolina | Virginia Tech
+NC Central | Morgan St
+Baylor | West Virginia
+Bethune-Cookman | MD E Shore
+WKU | Marshall
+Michigan St | Maryland
+Sacred Heart | Wagner
+Old Dominion | Charlotte
+NC A&T | Coppin St
+Rutgers | Nebraska
+Presbyterian | SC Upstate
+Prairie View | Grambling
+Radford | Longwood
+Creighton | Georgetown
+Winthrop | UNC Asheville
+Lipscomb | Kennesaw
+Southern Univ | MS Valley St
+TX Southern | Jackson St
+Norfolk St | S Carolina St
+Florida A&M | Delaware St
+Liberty | North Alabama
+Akron | C Michigan
+Bowling Green | E Michigan
+N Illinois | Buffalo
+Northwestern | Indiana
+Kansas St | Texas Tech
+Kent | Toledo
+Kentucky | Mississippi St
+St Peters | Niagara
+Ohio | W Michigan
+Virginia | Wake Forest
+Villanova | Butler
+Alabama | Mississippi
+South Carolina | Auburn
+Michigan | Minnesota
+Air Force | Boise St
+Duke | Pittsburgh
+Fresno St | San Diego St
+South Florida | Wichita St
+UNLV | New Mexico
+Florida | Texas A&M
+Florida St | Clemson
+Georgia Tech | Notre Dame
+Miami OH | Ball St
+MA Lowell | Binghamton
+Bradley | Illinois St
+UC Riverside | Cal Poly
+Davidson | G Washington
+George Mason | Dayton
+Drake | Evansville
+Florida Intl | FL Atlantic
+La Salle | Fordham
+Hartford | New Hampshire
+UC Irvine | Hawaii
+Wisconsin | Illinois
+Lamar | Incarnate Word
+S Illinois | Northern Iowa
+UMBC | Vermont
+Lehigh | Navy
+Rhode Island | VA Commonwealth
+Wyoming | San Jose St
+TCU | Texas
+Cent Arkansas | New Orleans
+Colgate | Lafayette
+Nevada | Colorado St
+CS Northridge | Long Beach St
+Marquette | DePaul
+St Bonaventure | Massachusetts
+Providence | Xavier
+Stony Brook | Albany NY
+Duquesne | St Louis
+Houston | East Carolina
+LSU | Georgia
+Oklahoma | Oklahoma St
+St Josephs PA | Richmond
+Tennessee | Vanderbilt
+Arkansas | Missouri
+Indiana St | Valparaiso
+SF Austin | Abilene Chr
+Army | Holy Cross
+South Dakota | North Dakota
+Sam Houston St | Northwestern LA
+SE Louisiana | Houston Bap
+TAM C. Christi | Nicholls St
+Purdue | Ohio St
+Bucknell | Loyola MD
+UCF | Tulane
+Missouri St | Loyola-Chicago
+American Univ | Boston Univ
+Belmont | Murray St
+Bryant | Central Conn
+Canisius | Monmouth NJ
+Radford | Charleston So
+UT San Antonio | Charlotte
+Col Charleston | Elon
+CS Sacramento | Idaho
+IL Chicago | Detroit
+E Kentucky | Jacksonville St
+Portland St | E Washington
+F Dickinson | St Francis NY
+Hofstra | James Madison
+Montana | Idaho St
+Jacksonville | North Florida
+Mt St Marys | LIU Brooklyn
+Louisville | NC State
+Syracuse | Miami FL
+Weber St | Montana St
+N Colorado | Southern Utah
+S Dakota St | N Dakota St
+NJIT | Stetson
+N Kentucky | WI Green Bay
+Towson | Northeastern
+San Francisco | Portland
+Wofford | Samford
+SIUE | SE Missouri St
+Louisiana | South Alabama
+Wagner | St Francis PA
+UNC Wilmington | William & Mary
+Wright St | WI Milwaukee
+E Illinois | TN Martin
+Siena | Fairfield
+Hampton | SC Upstate
+UAB | North Texas
+NE Omaha | PFW
+UNC Greensboro | Citadel
+CS Fullerton | UC Santa Barbara
+Gonzaga | Santa Clara
+Michigan St | Iowa
+IUPUI | Oakland
+Louisiana Tech | Marshall
+San Diego | Loy Marymount
+Morehead St | Tennessee Tech
+Rice | MTSU
+Robert Morris | Sacred Heart
+WKU | Southern Miss
+Arkansas St | Appalachian St
+Campbell | Presbyterian
+Furman | Chattanooga
+Texas St | Georgia St
+Temple | Memphis
+Mercer | VMI
+Old Dominion | UTEP
+Austin Peay | Tennessee St
+Lipscomb | FL Gulf Coast
+CS Bakersfield | Cal Baptist
+Longwood | High Point
+USC | Arizona
+Arizona St | UCLA
+Colorado | California
+Cincinnati | Tulsa
+Winthrop | Gardner Webb
+Washington | Oregon
+Oregon St | Washington St
+ULM | Troy
+North Alabama | Kennesaw
+Utah Valley | Missouri KC
+Seattle | Chicago St
+Coastal Car | Ark Little Rock
+UT Arlington | Ga Southern
+Utah | Stanford
+BYU | St Marys CA
+Buffalo | Kent
+Michigan | Indiana
+Quinnipiac | Marist
+Yale | Brown
+Iona | Rider
+Creighton | Butler
+Akron | N Illinois
+Alabama St | Alcorn St
+American Univ | Bucknell
+Appalachian St | Ark Little Rock
+Ark Pine Bluff | TX Southern
+Belmont | Austin Peay
+Ohio | Ball St
+Binghamton | Maine
+Boston College | Wake Forest
+Lehigh | Boston Univ
+Missouri St | Bradley
+F Dickinson | Bryant
+Grand Canyon | Cal Baptist
+Hampton | Campbell
+LIU Brooklyn | Central Conn
+Charleston So | Gardner Webb
+UTEP | Charlotte
+Cleveland St | Youngstown St
+Toledo | C Michigan
+Col Charleston | William & Mary
+Colorado St | Fresno St
+Columbia | Cornell
+E Washington | CS Sacramento
+Dayton | Fordham
+Delaware | Drexel
+SE Missouri St | E Illinois
+Elon | UNC Wilmington
+E Michigan | W Michigan
+Northern Iowa | Evansville
+FL Atlantic | Florida Intl
+Samford | Furman
+Ga Southern | Texas St
+George Mason | G Washington
+Georgia | Texas
+High Point | UNC Asheville
+Hofstra | Towson
+McNeese St | Houston Bap
+Portland St | Idaho
+Montana St | Idaho St
+Jacksonville St | Morehead St
+Northeastern | James Madison
+Kentucky | Kansas
+Texas A&M | Kansas St
+Louisville | Pittsburgh
+Niagara | Monmouth NJ
+Montana | Weber St
+St Francis NY | Mt St Marys
+N Colorado | Northern Arizona
+N Dakota St | Oral Roberts
+S Dakota St | NE Omaha
+UMBC | New Hampshire
+New Mexico St | UTRGV
+N Kentucky | WI Milwaukee
+Wisconsin | Northwestern
+Virginia | Notre Dame
+Robert Morris | Wagner
+Vermont | Stony Brook
+Virginia Tech | Syracuse
+Louisiana | Troy
+UC Irvine | UC Riverside
+Wright St | WI Green Bay
+Air Force | San Jose St
+Morgan St | Bethune-Cookman
+Boise St | Wyoming
+CS Fullerton | Cal Poly
+Harvard | Dartmouth
+IUPUI | Detroit
+Hawaii | UC Davis
+Siena | Manhattan
+North Texas | MTSU
+Oklahoma St | South Carolina
+San Diego | San Francisco
+San Diego St | UNLV
+TN Martin | SIUE
+Tennessee | West Virginia
+PFW | Denver
+Baylor | Alabama
+Mississippi St | Auburn
+VA Commonwealth | Duquesne
+Tennessee Tech | E Kentucky
+Oakland | IL Chicago
+New Orleans | Incarnate Word
+Iowa St | Mississippi
+UC Santa Barbara | Long Beach St
+Louisiana Tech | WKU
+Loy Marymount | Santa Clara
+Marquette | Xavier
+Southern Miss | Marshall
+Norfolk St | MD E Shore
+UNC Greensboro | Mercer
+Pacific | Portland
+Rutgers | Penn St
+UAB | Rice
+St Bonaventure | Richmond
+St Francis PA | Sacred Heart
+Alabama A&M | Southern Univ
+Wofford | Chattanooga
+Citadel | VMI
+Connecticut | Wichita St
+Davidson | St Louis
+South Florida | East Carolina
+Georgia St | UT Arlington
+Holy Cross | Navy
+Sam Houston St | Lamar
+LSU | Missouri
+NC A&T | NC Central
+Oklahoma | Vanderbilt
+UT San Antonio | Old Dominion
+SMU | Tulane
+Texas Tech | Arkansas
+Drake | Valparaiso
+ETSU | W Carolina
+Murray St | Tennessee St
+Utah St | New Mexico
+Abilene Chr | Cent Arkansas
+TCU | Florida
+SC Upstate | Longwood
+UCLA | Arizona
+USC | Arizona St
+Army | Lafayette
+Utah | California
+Stanford | Colorado
+Washington | Oregon St
+Presbyterian | Winthrop
+South Alabama | ULM
+Prairie View | MS Valley St
+SE Louisiana | Northwestern LA
+Pepperdine | St Marys CA
+Savannah St | S Carolina St
+Howard | Delaware St
+Illinois | Maryland
+Ohio St | Nebraska
+Duke | Georgia Tech
+Loyola MD | Colgate
+NC State | Clemson
+Albany NY | Hartford
+Utah Valley | Chicago St
+Miami OH | Bowling Green
+Florida A&M | Coppin St
+W Illinois | South Dakota
+Jackson St | Grambling
+Penn | St Josephs PA
+Missouri KC | Seattle
+Coastal Car | Arkansas St
+Fairfield | Iona
+FL Gulf Coast | North Florida
+Illinois St | Indiana St
+Loyola-Chicago | S Illinois
+Quinnipiac | St Peters
+Rider | Marist
+Massachusetts | Rhode Island
+Villanova | Seton Hall
+Providence | DePaul
+Georgetown | St Johns
+Minnesota | Iowa
+Purdue | Michigan St
+NJIT | North Alabama
+Houston | Tulsa
+Lipscomb | Stetson
+Princeton | Wesley DE
+Cincinnati | Temple
+Oregon | Washington St
+Liberty | Jacksonville
+Memphis | UCF
+Florida St | Miami FL
+Alabama A&M | Alcorn St
+Northern Arizona | Southern Utah
+Coppin St | Bethune-Cookman
+Texas Tech | TCU
+Alabama St | Southern Univ
+Baylor | Oklahoma
+Duke | Notre Dame
+Prairie View | Ark Pine Bluff
+TX Southern | MS Valley St
+NC Central | Savannah St
+Florida A&M | Morgan St
+Howard | MD E Shore
+Alabama | Mississippi St
+Buffalo | Ball St
+C Michigan | E Michigan
+Texas | Kansas
+Maryland | Northwestern
+Virginia | NC State
+N Illinois | Ohio
+Tennessee | South Carolina
+Dayton | St Josephs PA
+Kentucky | Vanderbilt
+Wisconsin | Nebraska
+Arkansas | Georgia
+Missouri St | Valparaiso
+CS Bakersfield | UC Santa Cruz
+Boise St | Colorado St
+Nevada | UNLV
+North Carolina | Georgia Tech
+Lipscomb | Liberty
+Toledo | Miami OH
+Michigan | Ohio St
+Clemson | Pittsburgh
+Hartford | Binghamton
+Syracuse | Boston College
+Bradley | Evansville
+Campbell | Radford
+Niagara | Canisius
+Illinois St | Drake
+NJIT | FL Gulf Coast
+G Washington | Fordham
+Gardner Webb | High Point
+Houston Bap | Incarnate Word
+Rutgers | Indiana
+S Illinois | Indiana St
+Jacksonville | Stetson
+La Salle | Massachusetts
+Louisville | Wake Forest
+Loyola-Chicago | Northern Iowa
+Maine | MA Lowell
+Virginia Tech | Miami FL
+MTSU | UAB
+UMBC | Stony Brook
+San Diego St | Air Force
+American Univ | Loyola MD
+Bucknell | Navy
+CS Fullerton | CS Northridge
+Villanova | DePaul
+Fresno St | Wyoming
+Iowa St | West Virginia
+Utah St | San Jose St
+UNC Asheville | SC Upstate
+PFW | South Dakota
+Auburn | Missouri
+Marquette | Butler
+Duquesne | Rhode Island
+Minnesota | Illinois
+Lehigh | Lafayette
+Seton Hall | Providence
+Albany NY | New Hampshire
+Boston Univ | Holy Cross
+Charleston So | Presbyterian
+LSU | Texas A&M
+Richmond | St Louis
+Wichita St | SMU
+Tulsa | Memphis
+Abilene Chr | TAM C. Christi
+Florida | Mississippi
+Hampton | Longwood
+Colgate | Army
+SF Austin | Cent Arkansas
+St Johns | Creighton
+UCLA | Washington St
+Washington | USC
+Utah Valley | Cal Baptist
+Kennesaw | North Florida
+Lamar | Nicholls St
+Sam Houston St | SE Louisiana
+New Orleans | Northwestern LA
+Appalachian St | Louisiana
+Belmont | SE Missouri St
+Bryant | Wagner
+Cal Poly | UC Riverside
+Central Conn | St Francis NY
+Furman | Citadel
+Detroit | Cleveland St
+Col Charleston | James Madison
+CS Sacramento | Idaho St
+Elon | Delaware
+William & Mary | Drexel
+E Illinois | E Kentucky
+Manhattan | Fairfield
+F Dickinson | LIU Brooklyn
+Georgetown | Xavier
+Marist | Iona
+Jacksonville St | Murray St
+Wofford | Mercer
+SIUE | Morehead St
+S Dakota St | Oral Roberts
+Portland St | Weber St
+St Francis PA | Robert Morris
+Towson | UNC Wilmington
+WKU | UT San Antonio
+Monmouth NJ | Siena
+Rider | St Peters
+Austin Peay | Tennessee Tech
+Rice | Charlotte
+FL Atlantic | Louisiana Tech
+Southern Miss | Florida Intl
+Hawaii | Long Beach St
+Loy Marymount | Pacific
+Marshall | UTEP
+Sacred Heart | Mt St Marys
+Youngstown St | Oakland
+Purdue | Penn St
+Pepperdine | Portland
+UC Irvine | UC Santa Barbara
+W Carolina | Chattanooga
+East Carolina | Tulane
+Houston | Temple
+Old Dominion | North Texas
+UNC Greensboro | VMI
+ETSU | Samford
+Tennessee St | TN Martin
+Arizona St | Arizona
+Oregon St | Colorado
+Oregon | Utah
+Coastal Car | ULM
+UTRGV | Chicago St
+UCF | Connecticut
+New Mexico St | Missouri KC
+Gonzaga | BYU
+Bowling Green | Buffalo
+Canisius | Quinnipiac
+Princeton | Columbia
+Cornell | Penn
+IL Chicago | Wright St
+Iowa | Michigan
+Wisconsin | Maryland
+WI Green Bay | WI Milwaukee
+Brown | Dartmouth
+Harvard | Yale
+IUPUI | N Kentucky
+Davidson | St Bonaventure
+North Dakota | W Illinois
+Colorado St | Air Force
+Akron | Ohio
+TX Southern | Alabama St
+Grambling | Ark Pine Bluff
+Austin Peay | Jacksonville St
+Kent | Ball St
+Notre Dame | Boston College
+Boston Univ | Colgate
+S Illinois | Bradley
+Harvard | Brown
+Central Conn | Bryant
+Butler | Seton Hall
+CS Northridge | Cal Poly
+Wofford | Citadel
+C Michigan | W Michigan
+Col Charleston | Towson
+Penn | Columbia
+Princeton | Cornell
+Weber St | CS Sacramento
+Youngstown St | Detroit
+Drake | Indiana St
+Drexel | Elon
+Morehead St | E Illinois
+SIUE | E Kentucky
+E Washington | Southern Utah
+Fairfield | Marist
+F Dickinson | Robert Morris
+FL Gulf Coast | Jacksonville
+Furman | Mercer
+Gardner Webb | UNC Asheville
+VA Commonwealth | George Mason
+High Point | Hampton
+Stony Brook | Hartford
+Northeastern | Hofstra
+Houston Bap | TAM C. Christi
+Northern Arizona | Idaho
+Idaho St | Portland St
+Illinois St | Loyola-Chicago
+Iowa St | Texas
+James Madison | UNC Wilmington
+Kansas | Texas Tech
+Kansas St | Oklahoma St
+Lamar | McNeese St
+La Salle | Richmond
+Wagner | LIU Brooklyn
+North Carolina | Louisville
+Vermont | MA Lowell
+Manhattan | St Peters
+Northern Iowa | Missouri St
+Montana | Montana St
+MTSU | UAB
+Virginia Tech | NC State
+Toledo | N Illinois
+Syracuse | Pittsburgh
+South Alabama | Troy
+Tennessee | Texas A&M
+WKU | UTEP
+Belmont | TN Martin
+Bethune-Cookman | NC Central
+Charleston So | SC Upstate
+North Texas | Charlotte
+Coppin St | Morgan St
+Yale | Dartmouth
+South Carolina | Georgia
+Gonzaga | San Diego
+Siena | Iona
+Navy | Loyola MD
+Monmouth NJ | Rider
+San Diego St | San Jose St
+UT Arlington | Texas St
+UC Davis | UC Riverside
+Utah St | UNLV
+PFW | Oral Roberts
+Auburn | Alabama
+Baylor | TCU
+Nevada | Boise St
+Bucknell | Lafayette
+Oakland | Cleveland St
+Dayton | Duquesne
+DePaul | Providence
+Southern Miss | FL Atlantic
+Florida Intl | Louisiana Tech
+UC Santa Barbara | Hawaii
+New Orleans | Incarnate Word
+Indiana | Michigan St
+UC Irvine | Long Beach St
+UT San Antonio | Marshall
+Mississippi St | Mississippi
+Murray St | Tennessee Tech
+Pacific | Pepperdine
+Santa Clara | Portland
+Sacred Heart | St Francis NY
+Albany NY | Binghamton
+Alcorn St | Southern Univ
+American Univ | Holy Cross
+Arkansas St | Ark Little Rock
+Cal Baptist | Seattle
+Duke | St Johns
+Georgia St | Ga Southern
+Illinois | Nebraska
+St Josephs PA | Massachusetts
+South Florida | Memphis
+Missouri | Vanderbilt
+West Virginia | Oklahoma
+Old Dominion | Rice
+Rhode Island | St Louis
+Samford | W Carolina
+Temple | Tulane
+Arkansas | LSU
+ETSU | Chattanooga
+Evansville | Valparaiso
+Fresno St | New Mexico
+Lipscomb | North Alabama
+Tennessee St | SE Missouri St
+Wichita St | Tulsa
+Prairie View | Alabama A&M
+Campbell | Longwood
+Grand Canyon | CS Bakersfield
+Kentucky | Florida
+Appalachian St | ULM
+Lehigh | Army
+Northwestern LA | Cent Arkansas
+Cincinnati | SMU
+Colorado | Oregon
+Oregon St | Utah
+Radford | Winthrop
+Sam Houston St | SF Austin
+USC | Washington St
+Stetson | Kennesaw
+SE Louisiana | Nicholls St
+BYU | Loy Marymount
+St Marys CA | San Francisco
+Coastal Car | Louisiana
+St Francis PA | Mt St Marys
+Norfolk St | Howard
+Ohio St | Rutgers
+Florida St | Georgia Tech
+Miami OH | E Michigan
+Virginia | Miami FL
+William & Mary | Delaware
+Washington | UCLA
+MD E Shore | S Carolina St
+Savannah St | Delaware St
+Jackson St | MS Valley St
+New Mexico St | Chicago St
+Florida A&M | NC A&T
+Liberty | NJIT
+UTRGV | Missouri KC
+N Dakota St | W Illinois
+IL Chicago | N Kentucky
+Maine | New Hampshire
+Quinnipiac | Niagara
+S Dakota St | Denver
+Villanova | Georgetown
+Wright St | IUPUI
+Purdue | Minnesota
+Connecticut | East Carolina
+Stanford | California
+Creighton | Xavier
+NE Omaha | North Dakota
+Clemson | Wake Forest
+TX Southern | Alabama A&M
+Marist | Canisius
+Colgate | Lehigh
+E Washington | Northern Arizona
+Southern Utah | Idaho
+Louisville | Virginia Tech
+Montana St | N Colorado
+Siena | Fairfield
+Texas Tech | West Virginia
+Penn St | Northwestern
+Bethune-Cookman | NC A&T
+Iowa St | Oklahoma
+Prairie View | Alabama St
+Grambling | MS Valley St
+Florida A&M | NC Central
+Savannah St | MD E Shore
+Delaware St | S Carolina St
+Jackson St | Ark Pine Bluff
+Toledo | Akron
+Ball St | N Illinois
+Bowling Green | W Michigan
+Loyola-Chicago | Drake
+Kansas St | Kansas
+Michigan | Rutgers
+Tennessee | Missouri
+Wake Forest | Pittsburgh
+Kent | Miami OH
+Kentucky | South Carolina
+Manhattan | Rider
+Illinois | Michigan St
+St Johns | Marquette
+Duke | Boston College
+St Louis | Dayton
+Utah St | Fresno St
+La Salle | St Josephs PA
+Valparaiso | Illinois St
+New Mexico | San Diego St
+Auburn | Florida
+Arkansas | Vanderbilt
+Liberty | Stetson
+Florida St | Syracuse
+North Carolina | NC State
+Alabama | Georgia
+Stony Brook | Binghamton
+Bradley | Northern Iowa
+Indiana St | Evansville
+FL Gulf Coast | North Alabama
+Fordham | Massachusetts
+Ga Southern | Louisiana
+Richmond | George Mason
+VA Commonwealth | G Washington
+Hartford | UMBC
+Vermont | Maine
+MA Lowell | New Hampshire
+Miami FL | Notre Dame
+Missouri St | S Illinois
+Air Force | Wyoming
+Navy | American Univ
+UNLV | Boise St
+UC Irvine | CS Fullerton
+Davidson | Rhode Island
+TCU | Oklahoma St
+Texas | Baylor
+Lafayette | Boston Univ
+Nevada | Colorado St
+UC Santa Barbara | CS Northridge
+St Bonaventure | Duquesne
+Georgetown | Providence
+Wisconsin | Minnesota
+Mississippi | Texas A&M
+Temple | Connecticut
+Wichita St | East Carolina
+LSU | Mississippi St
+Maryland | Nebraska
+Sam Houston St | McNeese St
+Lipscomb | North Florida
+Abilene Chr | Lamar
+Holy Cross | Army
+Oregon | California
+Colorado | UCLA
+Villanova | Creighton
+ULM | Georgia St
+SF Austin | Houston Bap
+N Dakota St | North Dakota
+Utah | USC
+Jacksonville | Kennesaw
+SE Louisiana | TAM C. Christi
+Clemson | Georgia Tech
+Bucknell | Loyola MD
+New Orleans | Northwestern LA
+Texas St | Appalachian St
+Ark Little Rock | Troy
+Austin Peay | SIUE
+Belmont | E Kentucky
+High Point | Campbell
+MTSU | Charlotte
+WI Green Bay | Cleveland St
+Col Charleston | Delaware
+N Kentucky | Detroit
+Drexel | UNC Wilmington
+Murray St | E Illinois
+Hofstra | Elon
+Montana St | E Washington
+FL Atlantic | UTEP
+UT San Antonio | Florida Intl
+Gonzaga | San Francisco
+UTRGV | Grand Canyon
+Radford | Hampton
+Montana | Idaho
+Idaho St | Northern Arizona
+Iowa | Indiana
+LIU Brooklyn | Mt St Marys
+Monmouth NJ | St Peters
+N Colorado | Portland St
+Northeastern | William & Mary
+Southern Utah | Weber St
+St Francis NY | Wagner
+Youngstown St | WI Milwaukee
+UC Davis | Cal Poly
+Oral Roberts | Denver
+TN Martin | Jacksonville St
+Robert Morris | Bryant
+Sacred Heart | F Dickinson
+Hawaii | Long Beach St
+San Diego | Loy Marymount
+North Texas | Marshall
+Wright St | Oakland
+Santa Clara | Pepperdine
+WKU | Rice
+UNC Greensboro | Samford
+SE Missouri St | Tennessee Tech
+South Alabama | Arkansas St
+Chattanooga | VMI
+Furman | W Carolina
+Old Dominion | UAB
+Presbyterian | UNC Asheville
+South Florida | SMU
+Wofford | ETSU
+Tennessee St | Morehead St
+New Mexico St | CS Bakersfield
+Gardner Webb | Longwood
+Washington | Arizona
+Washington St | Arizona St
+Winthrop | Charleston So
+Cincinnati | Memphis
+Stanford | Oregon St
+St Francis PA | Central Conn
+Ohio St | Penn St
+Houston | UCF
+PFW | W Illinois
+UT Arlington | Coastal Car
+NE Omaha | South Dakota
+Cal Baptist | Chicago St
+BYU | Portland
+St Marys CA | Pacific
+Akron | Kent
+Penn | Brown
+Harvard | Columbia
+Quinnipiac | Iona
+Marist | Niagara
+Canisius | Rider
+Cornell | Dartmouth
+Siena | Manhattan
+Yale | Princeton
+St Josephs PA | St Louis
+ULM | Ga Southern
+Louisiana | Georgia St
+Ark Pine Bluff | Alabama St
+Ark Little Rock | South Alabama
+Austin Peay | E Illinois
+Ball St | W Michigan
+Belmont | Morehead St
+Bethune-Cookman | Norfolk St
+Binghamton | New Hampshire
+Syracuse | Boston College
+Bucknell | Boston Univ
+Toledo | Bowling Green
+Bradley | Indiana St
+Brown | Princeton
+Buffalo | C Michigan
+Butler | Georgetown
+Charleston So | UNC Asheville
+Charlotte | UAB
+Citadel | Mercer
+Cleveland St | WI Milwaukee
+Col Charleston | Drexel
+Cornell | Harvard
+N Colorado | CS Sacramento
+Massachusetts | Davidson
+Delaware | UNC Wilmington
+Wright St | Detroit
+Drake | Northern Iowa
+Northeastern | Elon
+E Michigan | N Illinois
+S Illinois | Evansville
+Montana | E Washington
+Monmouth NJ | Fairfield
+F Dickinson | St Francis NY
+UT San Antonio | FL Atlantic
+UTEP | Florida Intl
+Gonzaga | St Marys CA
+New Mexico St | Grand Canyon
+Richmond | G Washington
+UC Irvine | Hawaii
+Radford | High Point
+Hofstra | William & Mary
+Montana St | Idaho
+Illinois | Rutgers
+TAM C. Christi | Incarnate Word
+Jacksonville St | SE Missouri St
+Towson | James Madison
+Kansas | Oklahoma St
+Kentucky | Mississippi St
+Wagner | LIU Brooklyn
+Stony Brook | MA Lowell
+North Carolina | Miami FL
+Michigan | Wisconsin
+Texas A&M | Missouri
+Murray St | SIUE
+NC State | Pittsburgh
+North Florida | North Alabama
+Weber St | Northern Arizona
+Youngstown St | WI Green Bay
+UT Arlington | Appalachian St
+Boise St | San Jose St
+Campbell | SC Upstate
+Wyoming | Colorado St
+Dartmouth | Columbia
+CS Fullerton | UC Riverside
+Dayton | Rhode Island
+N Dakota St | Denver
+DePaul | Xavier
+Fresno St | UNLV
+IL Chicago | IUPUI
+TCU | Iowa St
+Lehigh | Navy
+Miami OH | Ohio
+WKU | North Texas
+Yale | Penn
+San Diego St | Utah St
+Texas | West Virginia
+Alabama | Vanderbilt
+Kansas St | Baylor
+Long Beach St | Cal Poly
+Central Conn | Robert Morris
+Duquesne | Fordham
+Mississippi | Georgia
+Southern Miss | Louisiana Tech
+Loy Marymount | Portland
+Marquette | Villanova
+Rice | Marshall
+NC Central | MD E Shore
+Michigan St | Minnesota
+Mt St Marys | Sacred Heart
+N Kentucky | Oakland
+Pepperdine | San Diego
+Providence | St Johns
+San Francisco | Santa Clara
+VA Commonwealth | St Bonaventure
+TN Martin | Tennessee Tech
+UC Davis | UC Santa Barbara
+Troy | Arkansas St
+LSU | Auburn
+UNC Greensboro | Chattanooga
+NC A&T | Delaware St
+Duke | Virginia
+Presbyterian | Gardner Webb
+Grambling | Southern Univ
+Old Dominion | MTSU
+Purdue | Nebraska
+Texas Tech | Oklahoma
+Samford | VMI
+Wichita St | Tulane
+Wofford | W Carolina
+South Carolina | Arkansas
+E Kentucky | Tennessee St
+Furman | ETSU
+Lipscomb | Jacksonville
+Nevada | New Mexico
+Tulsa | Temple
+Sam Houston St | Abilene Chr
+UTRGV | CS Bakersfield
+Tennessee | Florida
+TX Southern | Prairie View
+American Univ | Army
+Washington St | Arizona
+Arizona St | Washington
+Oregon St | California
+Colorado | USC
+Seton Hall | Creighton
+Winthrop | Hampton
+Lamar | SF Austin
+Northwestern LA | McNeese St
+S Dakota St | North Dakota
+Utah | UCLA
+Alabama A&M | MS Valley St
+SE Louisiana | Cent Arkansas
+Kennesaw | NJIT
+Nicholls St | New Orleans
+BYU | Pacific
+Liberty | FL Gulf Coast
+S Carolina St | Morgan St
+Clemson | Virginia Tech
+Vermont | Albany NY
+Colgate | Loyola MD
+Florida St | Louisville
+Southern Utah | Idaho St
+Savannah St | Coppin St
+Texas St | Coastal Car
+Alcorn St | Jackson St
+St Francis PA | Bryant
+Cal Baptist | Missouri KC
+Howard | Florida A&M
+Canisius | St Peters
+George Mason | La Salle
+Missouri St | Illinois St
+Iona | Niagara
+Iowa | Northwestern
+UMBC | Maine
+Oral Roberts | South Dakota
+Siena | Rider
+Memphis | Connecticut
+South Florida | East Carolina
+Lafayette | Holy Cross
+Loyola-Chicago | Valparaiso
+Houston | Cincinnati
+Oregon | Stanford
+Ohio St | Indiana
+UCF | SMU
+Notre Dame | Georgia Tech
+Ark Pine Bluff | Alabama A&M
+Grambling | Alcorn St
+Bucknell | Lehigh
+CS Sacramento | Portland St
+Virginia | North Carolina
+NC Central | Delaware St
+Kansas | TCU
+Baylor | Oklahoma
+NC A&T | MD E Shore
+Alabama St | MS Valley St
+Savannah St | Morgan St
+Norfolk St | Florida A&M
+Howard | Bethune-Cookman
+S Carolina St | Coppin St
+Southern Univ | Jackson St
+Buffalo | Akron
+Mississippi St | Alabama
+Boston College | Pittsburgh
+Bowling Green | C Michigan
+Davidson | Fordham
+Drake | S Illinois
+E Michigan | Ohio
+Texas A&M | Georgia
+Kansas St | Texas
+W Michigan | N Illinois
+Quinnipiac | Rider
+St Johns | Butler
+Marquette | DePaul
+Maryland | Purdue
+Penn St | Michigan
+Michigan St | Wisconsin
+UNLV | Air Force
+Duke | Louisville
+LSU | Kentucky
+St Bonaventure | St Josephs PA
+Missouri | Arkansas
+San Diego St | Colorado St
+Cal Baptist | Bethesda
+UMBC | Binghamton
+Fresno St | Boise St
+Bradley | Loyola-Chicago
+Campbell | Hampton
+Houston Bap | Cent Arkansas
+Gardner Webb | Charleston So
+Missouri St | Evansville
+FL Gulf Coast | NJIT
+George Mason | Massachusetts
+Seton Hall | Georgetown
+Hartford | Maine
+Northern Iowa | Illinois St
+Jacksonville | Stetson
+NC State | Syracuse
+Vermont | New Hampshire
+Rutgers | Northwestern
+Texas Tech | Oklahoma St
+VA Commonwealth | Richmond
+Loyola MD | American Univ
+UC Davis | CS Northridge
+Iona | Siena
+UNC Asheville | SC Upstate
+Tennessee | South Carolina
+Utah St | Wyoming
+Mississippi | Auburn
+CS Fullerton | Long Beach St
+La Salle | Duquesne
+Lafayette | Navy
+Villanova | Providence
+Colgate | Holy Cross
+Memphis | East Carolina
+St Louis | G Washington
+Nebraska | Minnesota
+Sam Houston St | TAM C. Christi
+Temple | SMU
+Indiana St | Valparaiso
+New Mexico | San Jose St
+Florida | Vanderbilt
+Longwood | High Point
+Colorado | Arizona St
+Army | Boston Univ
+UCLA | California
+Xavier | Creighton
+Lamar | Northwestern LA
+SF Austin | McNeese St
+Winthrop | Presbyterian
+Stanford | USC
+Abilene Chr | Nicholls St
+SE Louisiana | Incarnate Word
+North Florida | Kennesaw
+Liberty | Lipscomb
+Miami FL | Clemson
+Florida St | Wake Forest
+UCF | South Florida
+MA Lowell | Albany NY
+Virginia Tech | Georgia Tech
+Ga Southern | South Alabama
+Georgia St | Troy
+Murray St | Austin Peay
+Hawaii | Cal Poly
+Wagner | Central Conn
+IL Chicago | Cleveland St
+Hofstra | Col Charleston
+CS Sacramento | Southern Utah
+Delaware | Towson
+Detroit | WI Milwaukee
+James Madison | Drexel
+E Illinois | SIUE
+Morehead St | E Kentucky
+St Francis PA | F Dickinson
+N Colorado | Idaho
+Montana St | Idaho St
+St Francis NY | LIU Brooklyn
+Montana | Weber St
+Mt St Marys | Robert Morris
+WKU | MTSU
+N Dakota St | Oral Roberts
+NE Omaha | S Dakota St
+Northeastern | UNC Wilmington
+Portland St | Northern Arizona
+Ark Little Rock | UT Arlington
+FL Atlantic | North Texas
+Youngstown St | IUPUI
+TN Martin | SE Missouri St
+PFW | Denver
+Sacred Heart | Bryant
+Florida Intl | Rice
+Furman | UNC Greensboro
+Gonzaga | Loy Marymount
+Jacksonville St | Tennessee Tech
+Louisiana Tech | UTEP
+UAB | Marshall
+WI Green Bay | Oakland
+San Francisco | Pepperdine
+Southern Miss | UT San Antonio
+UC Riverside | UC Santa Barbara
+Texas St | Arkansas St
+Houston | Connecticut
+Mercer | W Carolina
+UTRGV | Seattle
+Wofford | VMI
+Belmont | Tennessee St
+ETSU | Citadel
+Tulsa | Tulane
+Utah | Arizona
+BYU | San Diego
+Illinois | Ohio St
+Missouri KC | Grand Canyon
+CS Bakersfield | Chicago St
+New Mexico St | Utah Valley
+St Marys CA | Santa Clara
+Kent | W Michigan
+Cornell | Brown
+Buffalo | Toledo
+Canisius | Fairfield
+Harvard | Princeton
+Iona | St Peters
+Manhattan | Niagara
+Marist | Quinnipiac
+Wright St | N Kentucky
+Yale | Columbia
+Penn | Dartmouth
+Rider | Monmouth NJ
+Davidson | St Josephs PA
+Ga Southern | Troy
+Georgia St | South Alabama
+Ball St | Akron
+Alabama St | Alabama A&M
+Colgate | American Univ
+Texas St | Ark Little Rock
+Austin Peay | Morehead St
+Belmont | Tennessee Tech
+Lehigh | Boston Univ
+Bowling Green | N Illinois
+Bradley | Illinois St
+Brown | Columbia
+F Dickinson | Bryant
+St Francis NY | Central Conn
+Charleston So | Radford
+C Michigan | Ohio
+Col Charleston | Northeastern
+Northern Arizona | CS Sacramento
+VA Commonwealth | Dayton
+James Madison | Delaware
+WI Green Bay | Detroit
+Towson | Drexel
+SE Missouri St | E Illinois
+Murray St | E Kentucky
+William & Mary | Elon
+Kent | E Michigan
+E Washington | N Colorado
+Stetson | FL Gulf Coast
+TX Southern | Grambling
+High Point | Hampton
+Vermont | Hartford
+Harvard | Penn
+Hawaii | UC Riverside
+UNC Wilmington | Hofstra
+Montana | Idaho St
+Youngstown St | IL Chicago
+S Illinois | Indiana St
+Iowa | Rutgers
+Iowa St | Kansas St
+Kentucky | Tennessee
+UMBC | MA Lowell
+Michigan | Maryland
+Weber St | Montana St
+Wagner | Mt St Marys
+S Dakota St | N Dakota St
+Stony Brook | New Hampshire
+North Florida | NJIT
+North Carolina | Wake Forest
+Virginia | Notre Dame
+Texas | Oklahoma St
+Virginia Tech | Pittsburgh
+San Francisco | Portland
+Portland St | Southern Utah
+St Francis PA | Robert Morris
+UAB | WKU
+Utah St | Air Force
+San Diego St | Boise St
+Butler | DePaul
+Cleveland St | IUPUI
+Yale | Cornell
+CS Fullerton | CS Northridge
+Princeton | Dartmouth
+Florida Intl | North Texas
+Fordham | Rhode Island
+Gonzaga | San Diego
+Kansas | West Virginia
+W Michigan | Miami OH
+Norfolk St | NC Central
+UNLV | San Jose St
+TN Martin | SIUE
+South Carolina | Texas A&M
+NE Omaha | PFW
+Texas Tech | Baylor
+Coppin St | MD E Shore
+Duquesne | G Washington
+FL Atlantic | Rice
+Minnesota | Indiana
+LIU Brooklyn | Sacred Heart
+UC Davis | Long Beach St
+Louisiana Tech | UT San Antonio
+Marshall | MTSU
+Mississippi | Missouri
+Nevada | Wyoming
+New Orleans | TAM C. Christi
+Oakland | WI Milwaukee
+Santa Clara | Pacific
+Purdue | Penn St
+St Marys CA | Pepperdine
+Xavier | Providence
+Southern Miss | UTEP
+UC Irvine | UC Santa Barbara
+Wofford | UNC Greensboro
+Arkansas St | UT Arlington
+Ark Pine Bluff | Southern Univ
+Auburn | Vanderbilt
+Holy Cross | Bucknell
+Presbyterian | Campbell
+Old Dominion | Charlotte
+Samford | Chattanooga
+W Carolina | Citadel
+Duke | NC State
+Furman | VMI
+LSU | Georgia
+Lamar | Sam Houston St
+St Louis | La Salle
+New Mexico St | Seattle
+Oklahoma | TCU
+Temple | South Florida
+Mississippi St | Arkansas
+Drake | Valparaiso
+ETSU | Mercer
+Fresno St | New Mexico
+Jacksonville St | Tennessee St
+Abilene Chr | Incarnate Word
+Florida | Alabama
+Longwood | SC Upstate
+Arizona St | Utah
+Navy | Army
+USC | California
+Gardner Webb | Winthrop
+North Dakota | Oral Roberts
+Northwestern LA | SF Austin
+Oregon St | Oregon
+Stanford | UCLA
+Washington | Washington St
+MS Valley St | Alcorn St
+Houston Bap | Nicholls St
+Lipscomb | Kennesaw
+SE Louisiana | McNeese St
+BYU | Loy Marymount
+Grand Canyon | Chicago St
+Appalachian St | Coastal Car
+Prairie View | Jackson St
+Louisville | Clemson
+Florida St | Georgia Tech
+Liberty | North Alabama
+South Dakota | W Illinois
+Bethune-Cookman | S Carolina St
+NC A&T | Howard
+UCF | Memphis
+Missouri KC | CS Bakersfield
+Utah Valley | UTRGV
+Louisiana | ULM
+Nebraska | Northwestern
+Florida A&M | Savannah St
+Boston College | Miami FL
+Manhattan | Canisius
+Northern Iowa | Evansville
+Niagara | Fairfield
+Missouri St | Loyola-Chicago
+Marist | Monmouth NJ
+Quinnipiac | Siena
+Rider | St Peters
+St Bonaventure | George Mason
+Lafayette | Loyola MD
+St Johns | Villanova
+Albany NY | Maine
+Houston | Tulane
+Tulsa | East Carolina
+Colorado | Arizona
+Cincinnati | Wichita St
+Seton Hall | Creighton
+Michigan St | Ohio St
+Ark Pine Bluff | Alcorn St
+E Washington | Idaho
+Wisconsin | Illinois
+Virginia | Virginia Tech
+Kansas St | West Virginia
+Oklahoma St | TCU
+Boston Univ | Holy Cross
+Norfolk St | NC A&T
+Prairie View | Grambling
+MS Valley St | Southern Univ
+TX Southern | Jackson St
+S Carolina St | Florida A&M
+Savannah St | Bethune-Cookman
+NC Central | Howard
+Bowling Green | Akron
+Texas A&M | Alabama
+Drake | Bradley
+Colgate | Bucknell
+Buffalo | Ohio
+C Michigan | Kent
+Dayton | Davidson
+E Michigan | Toledo
+Iona | Quinnipiac
+Maryland | Iowa
+Kentucky | Missouri
+New Mexico St | Texas A&M Intl
+Wake Forest | Notre Dame
+UTRGV | Wayland
+VA Commonwealth | Rhode Island
+Siena | St Peters
+Baylor | Iowa St
+Purdue | Indiana
+South Carolina | Mississippi
+Penn St | Nebraska
+Tennessee | Vanderbilt
+UNLV | Wyoming
+Miami OH | Ball St
+Florida St | Clemson
+South Florida | Florida Col
+Air Force | Fresno St
+NC State | Boston College
+McNeese St | Cent Arkansas
+Loyola-Chicago | Evansville
+Richmond | Fordham
+Mississippi St | Georgia
+G Washington | Massachusetts
+Indiana St | Illinois St
+Lamar | Incarnate Word
+North Florida | Jacksonville
+Syracuse | Louisville
+Northern Iowa | Missouri St
+NJIT | Stetson
+Xavier | Seton Hall
+Colorado St | San Jose St
+South Dakota | Denver
+Georgetown | Villanova
+Lafayette | American Univ
+Marquette | Butler
+Long Beach St | CS Northridge
+St Bonaventure | La Salle
+Michigan St | Rutgers
+San Diego St | Nevada
+Providence | St Johns
+North Carolina | Duke
+Memphis | Tulane
+Auburn | Arkansas
+FL Gulf Coast | Lipscomb
+Utah St | New Mexico
+Valparaiso | S Illinois
+Wichita St | Tulsa
+Florida | LSU
+Arizona St | Stanford
+Lehigh | Army
+Washington St | Colorado
+Creighton | DePaul
+Houston Bap | Northwestern LA
+TAM C. Christi | SF Austin
+Washington | Utah
+North Alabama | Kennesaw
+New Orleans | SE Louisiana
+Sam Houston St | Nicholls St
+NE Omaha | W Illinois
+Ohio St | Northwestern
+Georgia Tech | Pittsburgh
+Austin Peay | SE Missouri St
+Belmont | E Illinois
+Binghamton | MA Lowell
+Bryant | Wagner
+Grand Canyon | Cal Baptist
+UC Irvine | Cal Poly
+Campbell | High Point
+Mt St Marys | Central Conn
+Wright St | Cleveland St
+William & Mary | Col Charleston
+CS Sacramento | Weber St
+Elon | UNC Wilmington
+Southern Utah | E Washington
+Gardner Webb | UNC Asheville
+Hartford | New Hampshire
+Hofstra | Towson
+Northern Arizona | Idaho
+Portland St | Idaho St
+Jacksonville St | Morehead St
+Northeastern | James Madison
+Robert Morris | LIU Brooklyn
+Mercer | Samford
+N Kentucky | Youngstown St
+St Francis PA | St Francis NY
+UMBC | Vermont
+Charleston So | SC Upstate
+CS Fullerton | UC Davis
+Loyola MD | Navy
+Murray St | TN Martin
+San Diego | Portland
+Louisiana | UT Arlington
+S Dakota St | PFW
+E Kentucky | Tennessee Tech
+F Dickinson | Sacred Heart
+Gonzaga | Pepperdine
+UC Santa Barbara | Hawaii
+Michigan | Minnesota
+St Marys CA | Pacific
+Albany NY | Stony Brook
+Georgia St | Appalachian St
+Chattanooga | Citadel
+SMU | Connecticut
+UNC Greensboro | W Carolina
+ETSU | VMI
+SIUE | Tennessee St
+Hampton | Longwood
+Arizona | California
+USC | Oregon
+UCLA | Oregon St
+Radford | Winthrop
+ULM | Texas St
+San Francisco | BYU
+Ga Southern | Coastal Car
+Cincinnati | UCF
+Utah Valley | Chicago St
+Seattle | Missouri KC
+Ohio | Bowling Green
+Brown | Harvard
+Buffalo | Kent
+Canisius | Monmouth NJ
+Columbia | Penn
+Princeton | Cornell
+WI Green Bay | IL Chicago
+Iowa | Indiana
+Iona | Manhattan
+St Peters | Marist
+Yale | Dartmouth
+Davidson | Rhode Island
+IUPUI | WI Milwaukee
+Rider | Niagara
+Alcorn St | Alabama St
+Ga Southern | Appalachian St
+TX Southern | Ark Pine Bluff
+C Michigan | Ball St
+Belmont | SIUE
+Vermont | Binghamton
+Bradley | Evansville
+Bryant | Mt St Marys
+Cal Poly | Hawaii
+Citadel | Samford
+Cleveland St | N Kentucky
+Col Charleston | Elon
+Princeton | Columbia
+Penn | Cornell
+Portland St | CS Sacramento
+Drexel | Delaware
+Jacksonville St | E Kentucky
+E Michigan | W Michigan
+E Washington | Northern Arizona
+F Dickinson | Wagner
+Wofford | Furman
+High Point | Gardner Webb
+VA Commonwealth | G Washington
+Hampton | Radford
+Hartford | MA Lowell
+James Madison | Hofstra
+Southern Utah | Idaho
+Missouri St | Indiana St
+NJIT | Jacksonville
+Texas Tech | Kansas
+Kansas St | Oklahoma St
+Lamar | TAM C. Christi
+Richmond | La Salle
+Virginia | Louisville
+Stony Brook | Maine
+Montana | Montana St
+Murray St | SE Missouri St
+NE Omaha | N Dakota St
+New Mexico St | UTRGV
+Toledo | N Illinois
+Stetson | North Alabama
+Northeastern | Towson
+Wisconsin | Northwestern
+Virginia Tech | Notre Dame
+Robert Morris | St Francis NY
+S Dakota St | South Dakota
+South Alabama | Troy
+Texas St | Louisiana
+William & Mary | UNC Wilmington
+Wright St | Youngstown St
+Air Force | San Jose St
+Austin Peay | TN Martin
+Utah St | Boise St
+Boston Univ | Loyola MD
+Brown | Dartmouth
+Colgate | Navy
+Colorado St | Wyoming
+CS Northridge | UC Davis
+Harvard | Yale
+TCU | Iowa St
+Mississippi St | South Carolina
+Norfolk St | Morgan St
+San Diego St | UNLV
+Kentucky | Auburn
+Baylor | West Virginia
+Sacred Heart | Central Conn
+UC Santa Barbara | CS Fullerton
+MD E Shore | Delaware St
+Oakland | Detroit
+Duquesne | George Mason
+St Bonaventure | Fordham
+Nevada | Fresno St
+Mississippi | Georgia
+Penn St | Illinois
+Long Beach St | UC Riverside
+Loy Marymount | Pacific
+Marquette | Providence
+New Orleans | McNeese St
+Morehead St | Tennessee Tech
+Pepperdine | Portland
+Santa Clara | San Francisco
+St Johns | Seton Hall
+Alabama | Vanderbilt
+Southern Univ | Alabama A&M
+Albany NY | UMBC
+Arkansas St | Ark Little Rock
+Mercer | Chattanooga
+Dayton | St Louis
+Duke | Syracuse
+East Carolina | Tulane
+Houston | South Florida
+Sam Houston St | Houston Bap
+LSU | Tennessee
+Massachusetts | St Josephs PA
+Memphis | Wichita St
+Purdue | Nebraska
+Oklahoma | Texas
+Presbyterian | UNC Asheville
+VMI | W Carolina
+Texas A&M | Arkansas
+Tennessee St | E Illinois
+Northern Iowa | Valparaiso
+Temple | Tulsa
+Cal Baptist | CS Bakersfield
+Campbell | Longwood
+Florida | Missouri
+Winthrop | Charleston So
+Washington | Colorado
+Creighton | Georgetown
+North Dakota | Denver
+SF Austin | Incarnate Word
+UCLA | Oregon
+Oregon St | USC
+UT Arlington | ULM
+Utah | Washington St
+SE Louisiana | Abilene Chr
+Nicholls St | Cent Arkansas
+FL Gulf Coast | Kennesaw
+Utah Valley | Missouri KC
+Prairie View | MS Valley St
+St Marys CA | San Diego
+Akron | Miami OH
+Seattle | Chicago St
+Coastal Car | Georgia St
+Clemson | Boston College
+LIU Brooklyn | St Francis PA
+Maryland | Ohio St
+Miami FL | Georgia Tech
+North Carolina | Florida St
+Bethune-Cookman | Florida A&M
+Howard | Coppin St
+NC A&T | S Carolina St
+NC Central | Savannah St
+North Florida | Liberty
+Jackson St | Grambling
+W Illinois | Oral Roberts
+Gonzaga | BYU
+Old Dominion | WKU
+UAB | Southern Miss
+Florida Intl | FL Atlantic
+MTSU | Charlotte
+Louisiana Tech | North Texas
+Rice | UTEP
+Iona | Canisius
+Illinois St | Drake
+Fairfield | Manhattan
+IL Chicago | WI Milwaukee
+S Illinois | Loyola-Chicago
+Quinnipiac | Monmouth NJ
+NC State | Wake Forest
+St Peters | Niagara
+IUPUI | WI Green Bay
+Siena | Marist
+Xavier | Villanova
+Michigan St | Michigan
+Rutgers | Minnesota
+Holy Cross | Lehigh
+American Univ | Army
+Arizona | Stanford
+Arizona St | California
+Cincinnati | Connecticut
+UNC Greensboro | ETSU
+Bucknell | Lafayette
+UCF | SMU
+Alcorn St | Alabama A&M
+Kansas | Kansas St
+N Colorado | Montana
+Delaware St | Coppin St
+Alabama St | Southern Univ
+Iowa St | Oklahoma
+Prairie View | Ark Pine Bluff
+TX Southern | MS Valley St
+Florida St | Notre Dame
+Howard | Morgan St
+NC Central | S Carolina St
+NC A&T | Savannah St
+Lipscomb | NJIT
+Buffalo | Akron
+Toledo | Ball St
+C Michigan | E Michigan
+Dayton | Massachusetts
+Indiana | Wisconsin
+North Alabama | Jacksonville
+Kent | Ohio
+Mississippi St | Missouri
+N Illinois | W Michigan
+North Carolina | Syracuse
+North Florida | Stetson
+Alabama | South Carolina
+Rhode Island | G Washington
+West Virginia | TCU
+Providence | Butler
+Virginia Tech | Duke
+LSU | Texas A&M
+Memphis | Temple
+Utah St | San Diego St
+Kentucky | Arkansas
+VA Commonwealth | St Louis
+Ohio St | Iowa
+Wake Forest | Miami FL
+Liberty | Kennesaw
+Miami OH | Bowling Green
+San Jose St | New Mexico
+Utah Valley | Seattle
+Lehigh | American Univ
+Hartford | Binghamton
+Colorado St | Boise St
+Boston College | Louisville
+Niagara | Canisius
+Charleston So | UNC Asheville
+CS Northridge | UC Riverside
+La Salle | Davidson
+Drake | Indiana St
+S Illinois | Evansville
+George Mason | Richmond
+Radford | High Point
+Lamar | Houston Bap
+Illinois St | Missouri St
+Loyola-Chicago | Northern Iowa
+MA Lowell | Maine
+Texas Tech | Oklahoma St
+Stony Brook | UMBC
+Navy | Bucknell
+Campbell | SC Upstate
+Georgetown | DePaul
+Fresno St | Wyoming
+Auburn | Georgia
+Baylor | Texas
+Boston Univ | Lafayette
+St Bonaventure | Duquesne
+Purdue | Illinois
+Villanova | Marquette
+Penn St | Maryland
+Tennessee | Mississippi
+Nevada | UNLV
+New Hampshire | Albany NY
+Colgate | Holy Cross
+Houston | East Carolina
+St Josephs PA | Fordham
+Gardner Webb | Presbyterian
+Sam Houston St | New Orleans
+Bradley | Valparaiso
+Abilene Chr | TAM C. Christi
+Grand Canyon | E New Mexico
+Florida | Vanderbilt
+Cent Arkansas | SF Austin
+Cincinnati | SMU
+McNeese St | Nicholls St
+Clemson | Pittsburgh
+Virginia | Georgia Tech
+UCF | South Florida
+Army | Loyola MD
+Northwestern LA | Incarnate Word
+Ga Southern | Ark Little Rock
+E Kentucky | Austin Peay
+St Francis NY | Bryant
+LIU Brooklyn | Central Conn
+CS Sacramento | E Washington
+Northeastern | Delaware
+Hofstra | Drexel
+Jacksonville St | E Illinois
+Elon | James Madison
+F Dickinson | Mt St Marys
+Furman | Samford
+Portland St | Idaho
+Murray St | Morehead St
+N Colorado | Weber St
+South Dakota | N Dakota St
+Oral Roberts | NE Omaha
+N Kentucky | WI Milwaukee
+St Marys CA | Portland
+SIUE | Tennessee Tech
+St Francis PA | Wagner
+Texas St | Troy
+William & Mary | Towson
+WI Green Bay | Wright St
+Belmont | TN Martin
+CS Fullerton | Cal Poly
+Detroit | IUPUI
+San Diego | San Francisco
+UT Arlington | South Alabama
+UC Irvine | UC Davis
+UNC Greensboro | Citadel
+Gonzaga | Pacific
+Oakland | IL Chicago
+Long Beach St | UC Santa Barbara
+Loy Marymount | Santa Clara
+Minnesota | Northwestern
+Sacred Heart | Robert Morris
+Xavier | St Johns
+Georgia St | Arkansas St
+Seattle | Cal Baptist
+Wofford | Chattanooga
+Wichita St | Connecticut
+VMI | Mercer
+Michigan | Nebraska
+SE Missouri St | Tennessee St
+Tulsa | Tulane
+ULM | Appalachian St
+Arizona | Oregon St
+Oregon | Arizona St
+California | Washington
+Hampton | Winthrop
+North Dakota | PFW
+Stanford | Washington St
+UCLA | USC
+New Mexico St | Missouri KC
+UTRGV | Chicago St
+Louisiana | Coastal Car
+Denver | W Illinois
+WKU | UAB
+Marshall | Louisiana Tech
+FL Atlantic | North Texas
+Old Dominion | UT San Antonio
+Bowling Green | Kent
+Columbia | Brown
+Fairfield | Marist
+FL Gulf Coast | Jacksonville
+Harvard | Penn
+Monmouth NJ | Manhattan
+Quinnipiac | St Peters
+Buffalo | Miami OH
+Canisius | Siena
+Yale | Cornell
+Princeton | Dartmouth
+Rhode Island | Dayton
+Iona | Rider
+Lipscomb | North Alabama
+Kennesaw | Stetson
+Liberty | NJIT
+Ohio | Akron
+TX Southern | Alabama St
+Ark Pine Bluff | Grambling
+Murray St | Austin Peay
+Ball St | W Michigan
+Belmont | SE Missouri St
+Binghamton | Maine
+Loyola-Chicago | Bradley
+Brown | Cornell
+LIU Brooklyn | Bryant
+Campbell | Radford
+F Dickinson | Central Conn
+Cleveland St | Youngstown St
+Toledo | C Michigan
+Col Charleston | UNC Wilmington
+CS Northridge | Hawaii
+Idaho | CS Sacramento
+Davidson | Fordham
+Hofstra | Delaware
+IL Chicago | Detroit
+Drake | Missouri St
+Northeastern | Drexel
+Morehead St | E Kentucky
+Elon | Towson
+E Michigan | N Illinois
+E Washington | Portland St
+Georgetown | Seton Hall
+Gonzaga | St Marys CA
+Harvard | Princeton
+High Point | UNC Asheville
+Houston Bap | McNeese St
+N Colorado | Idaho St
+S Illinois | Illinois St
+TAM C. Christi | Incarnate Word
+Indiana St | Northern Iowa
+Rutgers | Iowa
+Texas | Iowa St
+Jacksonville St | SIUE
+William & Mary | James Madison
+Kansas | Oklahoma St
+Tennessee | Kentucky
+Montana | Southern Utah
+Montana St | Northern Arizona
+Mt St Marys | St Francis NY
+UMBC | New Hampshire
+N Kentucky | WI Green Bay
+Virginia | Pittsburgh
+VA Commonwealth | Richmond
+Robert Morris | Wagner
+Wofford | Samford
+South Alabama | Texas St
+Vermont | Stony Brook
+Syracuse | Wake Forest
+UC Irvine | UC Riverside
+Wright St | WI Milwaukee
+Air Force | Wyoming
+UNLV | Boise St
+Navy | Boston Univ
+Villanova | Butler
+Columbia | Yale
+Norfolk St | Coppin St
+UC Davis | CS Fullerton
+Penn | Dartmouth
+Morgan St | Delaware St
+NE Omaha | Denver
+Hampton | SC Upstate
+Missouri | South Carolina
+San Diego St | San Jose St
+Texas Tech | TCU
+UT Arlington | Troy
+N Dakota St | PFW
+Auburn | Mississippi St
+Kansas St | Baylor
+Long Beach St | Cal Poly
+Colgate | Lafayette
+Duquesne | Massachusetts
+Tennessee Tech | E Illinois
+St Bonaventure | G Washington
+Indiana | Michigan St
+Oakland | IUPUI
+Loy Marymount | San Francisco
+UNC Greensboro | Mercer
+Utah St | Nevada
+Pacific | Pepperdine
+Wisconsin | Penn St
+Santa Clara | Portland
+Sacred Heart | St Francis PA
+LSU | Alabama
+Southern Univ | Alcorn St
+American Univ | Holy Cross
+Ga Southern | Arkansas St
+Georgia St | Ark Little Rock
+Charleston So | Presbyterian
+Furman | Chattanooga
+VMI | Citadel
+Duke | Miami FL
+St Louis | George Mason
+St Josephs PA | La Salle
+Oklahoma | West Virginia
+Texas A&M | Vanderbilt
+Arkansas | Mississippi
+New Mexico | Colorado St
+ETSU | W Carolina
+Evansville | Valparaiso
+TN Martin | Tennessee St
+Abilene Chr | Cent Arkansas
+Prairie View | Alabama A&M
+Grand Canyon | CS Bakersfield
+Georgia | Florida
+Gardner Webb | Longwood
+Oregon | Arizona
+Bucknell | Army
+California | Washington St
+Cincinnati | Memphis
+Colorado | Utah
+Lamar | SF Austin
+South Dakota | North Dakota
+Utah Valley | Cal Baptist
+New Orleans | Nicholls St
+SE Louisiana | Northwestern LA
+North Carolina | Clemson
+BYU | San Diego
+Hartford | Albany NY
+Florida St | NC State
+Purdue | Ohio St
+New Mexico St | Chicago St
+Coastal Car | ULM
+UCF | Houston
+Bethune-Cookman | S Carolina St
+NC A&T | Florida A&M
+S Dakota St | W Illinois
+MS Valley St | Jackson St
+UTRGV | Missouri KC
+Loyola MD | Lehigh
+Howard | Savannah St
+St Peters | Fairfield
+Illinois | Northwestern
+Louisville | Notre Dame
+Manhattan | Quinnipiac
+Michigan | Maryland
+Rider | Marist
+Siena | Niagara
+DePaul | St Johns
+Connecticut | South Florida
+Wichita St | SMU
+Temple | Tulane
+Tulsa | East Carolina
+Arizona St | Oregon St
+Creighton | Marquette
+Washington | Stanford
+Georgia Tech | Boston College
+Appalachian St | Louisiana
+Florida Intl | Louisiana Tech
+Charlotte | UTEP
+Rice | MTSU
+WKU | Southern Miss
+Marshall | North Texas
+UT San Antonio | UAB
+TX Southern | Alabama A&M
+Norfolk St | Delaware St
+Idaho St | Weber St
+Montana | Northern Arizona
+Montana St | Southern Utah
+Virginia | Syracuse
+Texas Tech | Texas
+Kansas St | TCU
+MD E Shore | Morgan St
+Prairie View | Alabama St
+Grambling | MS Valley St
+Jackson St | Ark Pine Bluff
+North Florida | North Alabama
+Liberty | Jacksonville
+NJIT | FL Gulf Coast
+Lipscomb | Kennesaw
+Akron | Bowling Green
+E Michigan | Ball St
+Buffalo | Ohio
+Butler | Xavier
+N Illinois | C Michigan
+VA Commonwealth | George Mason
+Stony Brook | Hartford
+New Hampshire | Maine
+Vermont | MA Lowell
+Miami FL | Pittsburgh
+Tennessee | Mississippi St
+Toledo | W Michigan
+Kent | Miami OH
+South Carolina | Texas A&M
+Auburn | Alabama
+Kentucky | Mississippi
+Minnesota | Purdue
+Albany NY | Binghamton
+Duke | Wake Forest
+Wichita St | East Carolina
+Oklahoma | Kansas
+Michigan St | Nebraska
+Rhode Island | St Josephs PA
+Abilene Chr | SF Austin
+North Carolina | Boston College
+Utah St | Colorado St
+Nevada | Air Force
+Florida St | Virginia Tech
+Hampton | Longwood
+Charleston So | SC Upstate
+Presbyterian | UNC Asheville
+Holy Cross | Lafayette
+Boston Univ | Loyola MD
+WI Green Bay | IL Chicago
+Wright St | IUPUI
+Dayton | La Salle
+Fordham | G Washington
+Missouri | Georgia
+Houston Bap | Incarnate Word
+Massachusetts | Richmond
+TAM C. Christi | McNeese St
+DePaul | Georgetown
+Fresno St | San Diego St
+West Virginia | Iowa St
+Wyoming | San Jose St
+Oklahoma St | Baylor
+Davidson | St Bonaventure
+Long Beach St | UC Riverside
+Seton Hall | Marquette
+Penn St | Rutgers
+Cent Arkansas | Sam Houston St
+St Louis | Duquesne
+South Florida | Tulane
+Arkansas | Vanderbilt
+New Mexico | Boise St
+LSU | Florida
+Creighton | Providence
+Oregon | Washington St
+Washington | Oregon St
+SE Louisiana | New Orleans
+Nicholls St | Northwestern LA
+Northwestern | Ohio St
+Clemson | Notre Dame
+Georgia Tech | NC State
+Louisiana Tech | FL Atlantic
+Marshall | Florida Intl
+Rice | Charlotte
+Southern Miss | Old Dominion
+UT San Antonio | WKU
+MTSU | UTEP
+LIU Brooklyn | Sacred Heart
+F Dickinson | Wagner
+N Kentucky | Detroit
+Oakland | Youngstown St
+Morehead St | SIUE
+TN Martin | E Illinois
+Robert Morris | St Francis NY
+St Francis PA | Bryant
+Grambling | Alabama St
+TX Southern | Alcorn St
+Appalachian St | Troy
+Louisiana | Ark Little Rock
+Cal Baptist | UTRGV
+UC Irvine | Cal Poly
+CS Sacramento | Montana St
+E Washington | Idaho St
+Weber St | Idaho
+Indiana | Illinois
+Wisconsin | Iowa
+Portland St | Montana
+N Colorado | Southern Utah
+Coppin St | Morgan St
+Hawaii | UC Davis
+UC Santa Barbara | CS Northridge
+MD E Shore | Delaware St
+Temple | Connecticut
+Houston | SMU
+NC A&T | NC Central
+Seattle | CS Bakersfield
+Prairie View | Southern Univ
+Arkansas St | ULM
+California | Stanford
+Colorado | UCLA
+Utah | USC
+Utah Valley | Grand Canyon
+Coastal Car | South Alabama
+Jackson St | Alabama A&M
+Savannah St | S Carolina St
+UCF | Cincinnati
+Florida A&M | Bethune-Cookman
+Howard | Norfolk St
+Lehigh | Army
+Navy | American Univ
+Valparaiso | Indiana St
+Gardner Webb | High Point
+Illinois St | Evansville
+St Peters | Marist
+Manhattan | Fairfield
+Monmouth NJ | Niagara
+Pepperdine | Pacific
+San Diego | Portland
+Liberty | North Florida
+Lipscomb | NJIT
+Radford | Presbyterian
+Charleston So | Winthrop
+Campbell | Hampton
+Bucknell | Holy Cross
+Colgate | Boston Univ
+Austin Peay | Morehead St
+Jacksonville St | TN Martin
+Kent | Akron
+N Illinois | Ball St
+Buffalo | Bowling Green
+Brown | Princeton
+C Michigan | W Michigan
+Cornell | Harvard
+Toledo | E Michigan
+Virginia Tech | Miami FL
+Columbia | Dartmouth
+Ohio | Miami OH
+Penn | Yale
+VA Commonwealth | St Josephs PA
+Maryland | Minnesota
+Bradley | Missouri St
+VMI | W Carolina
+Samford | Citadel
+Northern Iowa | S Illinois
+Loyola-Chicago | Valparaiso
+Radford | Charleston So
+Drake | Illinois St
+Iona | St Peters
+Belmont | Austin Peay
+Gardner Webb | Campbell
+Pepperdine | Loy Marymount
+Canisius | Manhattan
+Murray St | Jacksonville St
+San Diego | Santa Clara
+Boise St | Air Force
+Grambling | Alabama A&M
+South Alabama | Appalachian St
+NC State | Boston College
+Penn | Brown
+New Mexico St | Cal Baptist
+Harvard | Columbia
+UC Irvine | CS Northridge
+Montana | CS Sacramento
+Davidson | Richmond
+E Washington | Weber St
+La Salle | Fordham
+George Mason | G Washington
+TAM C. Christi | Houston Bap
+Idaho St | Idaho
+Texas Tech | Iowa St
+Lamar | McNeese St
+Virginia | Louisville
+Mississippi St | Texas A&M
+Portland St | Montana St
+Northern Arizona | N Colorado
+Pittsburgh | Notre Dame
+UNLV | Colorado St
+Cornell | Dartmouth
+Hawaii | CS Fullerton
+Fresno St | San Jose St
+South Carolina | Georgia
+Rhode Island | Massachusetts
+Oklahoma St | West Virginia
+Yale | Princeton
+Seton Hall | Villanova
+TCU | Texas
+UT Arlington | Texas St
+UC Riverside | UC Davis
+Auburn | Tennessee
+Kansas | Baylor
+Providence | Butler
+UC Santa Barbara | Cal Poly
+Dayton | Duquesne
+Georgetown | Marquette
+Michigan St | Michigan
+Mississippi | Missouri
+Nevada | San Diego St
+Purdue | Northwestern
+Xavier | St Johns
+Louisiana | Arkansas St
+North Carolina | Duke
+Georgia St | Ga Southern
+Seattle | Grand Canyon
+Kansas St | Oklahoma
+LSU | Vanderbilt
+Southern Univ | TX Southern
+St Bonaventure | St Louis
+Wichita St | Tulane
+Arkansas | Alabama
+Memphis | Tulsa
+Wyoming | New Mexico
+Abilene Chr | Incarnate Word
+Prairie View | Alcorn St
+Kentucky | Florida
+Arizona St | Arizona
+ULM | Ark Little Rock
+Cent Arkansas | Northwestern LA
+Colorado | USC
+Creighton | DePaul
+Oregon | Washington
+Oregon St | Washington St
+Sam Houston St | SF Austin
+Utah | UCLA
+Ark Pine Bluff | MS Valley St
+Utah Valley | CS Bakersfield
+Nicholls St | SE Louisiana
+Clemson | Syracuse
+Florida St | Wake Forest
+Missouri KC | Chicago St
+Temple | UCF
+Jackson St | Alabama St
+Troy | Coastal Car
+Marshall | FL Atlantic
+UAB | Old Dominion
+MTSU | UTEP
+Southern Miss | UT San Antonio
+Florida Intl | North Texas
+Charlotte | Rice
+ETSU | Chattanooga
+James Madison | Towson
+UNC Wilmington | Elon
+W Illinois | S Dakota St
+Furman | Mercer
+NE Omaha | North Dakota
+Siena | Rider
+UMBC | Albany NY
+Hartford | MA Lowell
+Vermont | Maine
+Binghamton | Stony Brook
+F Dickinson | Robert Morris
+St Francis PA | LIU Brooklyn
+Monmouth NJ | Quinnipiac
+Wofford | VMI
+Bradley | Loyola-Chicago
+UNC Greensboro | Samford
+Northern Iowa | Drake
+Murray St | Belmont
+Pepperdine | San Francisco
+San Diego | BYU
+Indiana | Rutgers
+Penn St | Illinois
+Connecticut | East Carolina
+Nebraska | Iowa
+SMU | South Florida
+Houston | Cincinnati
+Wisconsin | Ohio St
+Delaware | William & Mary
+N Dakota St | Oral Roberts
+Col Charleston | Drexel
+PFW | South Dakota
+Colgate | Navy
+Bucknell | Lehigh
+Liberty | Lipscomb
+Gardner Webb | Radford
+Hofstra | James Madison
+Bradley | Northern Iowa
+Wofford | ETSU
+Northeastern | UNC Wilmington
+Iona | Siena
+UNC Greensboro | Furman
+Monmouth NJ | Canisius
+Wright St | WI Green Bay
+N Kentucky | Oakland
+Delaware St | Savannah St
+C Michigan | W Michigan
+Ball St | E Michigan
+Akron | Miami OH
+N Illinois | Ohio
+Gonzaga | Pepperdine
+St Marys CA | San Diego
+Hofstra | Delaware
+Wofford | UNC Greensboro
+N Dakota St | W Illinois
+Northeastern | Col Charleston
+Iona | Monmouth NJ
+NE Omaha | PFW
+S Carolina St | MD E Shore
+Coppin St | Morgan St
+TX Southern | Southern Univ
+Miami FL | Wake Forest
+Notre Dame | Georgia Tech
+Pittsburgh | Boston College
+Vermont | Binghamton
+F Dickinson | St Francis PA
+UMBC | Hartford
+South Alabama | Arkansas St
+ULM | Appalachian St
+Grambling | Ark Pine Bluff
+Prairie View | Alcorn St
+Alabama St | Jackson St
+Northeastern | Hofstra
+N Kentucky | Wright St
+N Dakota St | NE Omaha
+St Marys CA | Gonzaga
+CS Sacramento | Northern Arizona
+NC State | Clemson
+G Washington | Massachusetts
+Boise St | Colorado St
+Southern Utah | Idaho St
+USC | Arizona
+Richmond | Fordham
+New Mexico | Wyoming
+Montana St | Idaho
+Colorado | California
+Lamar | Houston Bap
+Missouri | Georgia
+TCU | Oklahoma St
+Providence | Butler
+Air Force | San Jose St
+Louisiana Tech | FL Atlantic
+UAB | MTSU
+Cent Arkansas | TAM C. Christi
+Texas A&M | Vanderbilt
+West Virginia | Oklahoma
+UCLA | Stanford
+St Johns | DePaul
+North Texas | Florida Intl
+Marshall | Rice
+Oregon | Washington St
+Nebraska | Rutgers
+Colgate | Bucknell
+Illinois | Northwestern
+Virginia Tech | Miami FL
+Norfolk St | S Carolina St
+Louisville | Notre Dame
+NC A&T | Coppin St
+Syracuse | Pittsburgh
+Rhode Island | La Salle
+Iowa St | Baylor
+Florida | Arkansas
+Xavier | Creighton
+New Mexico St | Chicago St
+UC Santa Barbara | CS Northridge
+Weber St | Portland St
+San Diego St | UNLV
+UTRGV | CS Bakersfield
+CS Fullerton | UC Davis
+St Josephs PA | Duquesne
+Alabama | Mississippi
+Howard | Bethune-Cookman
+Kansas | Texas
+Utah Valley | Missouri KC
+UC Irvine | UC Riverside
+Seton Hall | Georgetown
+Grand Canyon | Seattle
+Long Beach St | Hawaii
+Ohio St | Indiana
+Connecticut | South Florida
+Memphis | Tulane
+Minnesota | Penn St
+SMU | Tulsa
+Wichita St | East Carolina
+Buffalo | Akron
+C Michigan | Kent
+NC Central | Delaware St
+N Illinois | Toledo
+Bowling Green | Ball St
+South Alabama | Louisiana
+ULM | Coastal Car
+Villanova | Providence
+Virginia | NC State
+Montana | CS Sacramento
+Florida St | Virginia Tech
+Kansas St | TCU
+George Mason | G Washington
+Nebraska | Maryland
+Auburn | Missouri
+Washington | USC
+Nevada | Boise St
+Colorado | Oregon St
+New Orleans | Lamar
+North Carolina | Louisville
+West Virginia | Texas Tech
+Marquette | St Johns
+Old Dominion | Louisiana Tech
+UAB | UT San Antonio
+Southern Utah | N Colorado
+St Louis | Richmond
+SE Louisiana | Cent Arkansas
+Mississippi St | Texas A&M
+Duke | Syracuse
+Arizona St | UCLA
+Utah St | New Mexico
+Iowa | Illinois
+WKU | North Texas
+Southern Miss | Marshall
+E Washington | Montana St
+Oregon | Utah
+Fresno St | Air Force
+Prairie View | Grambling
+TX Southern | Alabama St
+Houston | Connecticut
+Rhode Island | VA Commonwealth
+Michigan St | Ohio St
+Florida | LSU
+Old Dominion | UAB
+Memphis | UCF
+St Bonaventure | George Mason
+Wisconsin | Nebraska
+Auburn | South Carolina
+WKU | Southern Miss
+Davidson | St Josephs PA
+New Orleans | Sam Houston St
+Texas St | South Alabama
+Norfolk St | Howard
+Villanova | Xavier
+Buffalo | C Michigan
+Kentucky | Alabama
+Florida St | Virginia
+Cincinnati | SMU
+Iowa St | Kansas St
+Minnesota | Purdue
+Montana | Weber St
+NC Central | NC A&T
+St Louis | Dayton
+Abilene Chr | SE Louisiana
+Ga Southern | ULM
+Tennessee | Mississippi St
+Duke | North Carolina
+Wichita St | Temple
+Kansas | West Virginia
+Seton Hall | Marquette
+Washington | Colorado
+San Diego St | Nevada
+New Mexico St | UTRGV
+Bowling Green | N Illinois
+Michigan | Iowa
+UC Irvine | Long Beach St
+E Washington | Southern Utah
+Oregon | Arizona St
+Utah St | Fresno St
+Grand Canyon | Utah Valley
+CS Fullerton | UC Santa Barbara
+Harvard | Penn
+Yale | Princeton
+Vermont | UMBC
+Auburn | Florida
+Michigan St | Wisconsin
+St Bonaventure | Rhode Island
+NC Central | Norfolk St
+Tennessee | Kentucky
+Houston | Memphis
+Michigan | Minnesota
+St Louis | Davidson
+Georgia St | Texas St
+Cincinnati | Wichita St
+Iowa St | Kansas
+Utah St | San Diego St
+Prairie View | TX Southern
+Villanova | Seton Hall
+UT Arlington | Ga Southern
+Buffalo | Bowling Green
+Montana | E Washington
+Duke | Florida St
+Old Dominion | WKU
+Abilene Chr | New Orleans
+New Mexico St | Grand Canyon
+Oregon | Washington
+UC Irvine | CS Fullerton
+Yale | Harvard
+Auburn | Tennessee
+St Louis | St Bonaventure
+Georgia St | UT Arlington
+Cincinnati | Houston
+Michigan St | Michigan
+NJIT | Quinnipiac
+F Dickinson | Prairie View
+Belmont | Temple
+NC State | Hofstra
+Lipscomb | Davidson
+UNC Greensboro | Campbell
+Indiana | St Francis PA
+Clemson | Wright St
+Marshall | IUPUI
+Robert Morris | Cornell
+Memphis | San Diego
+Creighton | Loyola-Chicago
+Arkansas | Providence
+Texas | S Dakota St
+Utah Valley | CS Northridge
+Colorado | Dayton
+N Dakota St | NC Central
+Arizona St | St Johns
+Xavier | Toledo
+Norfolk St | Alabama
+Harvard | Georgetown
+Wichita St | Furman
+West Virginia | Grand Canyon
+Coastal Car | Howard
+South Florida | Stony Brook
+Longwood | Southern Miss
+Brown | UAB
+WI Green Bay | ETSU
+TX Southern | New Orleans
+DePaul | C Michigan
+UTRGV | Grambling
+Nebraska | Butler
+TCU | Sam Houston St
+Loy Marymount | Cal Baptist
+Presbyterian | Seattle
+Florida St | Vermont
+Murray St | Marquette
+Baylor | Syracuse
+Purdue | Old Dominion
+Villanova | St Marys CA
+Kansas | Northeastern
+Auburn | New Mexico St
+Kentucky | Abilene Chr
+Wofford | Seton Hall
+Michigan | Montana
+Florida | Nevada
+Michigan St | Bradley
+Minnesota | Louisville
+LSU | Yale
+Charleston So | FL Atlantic
+Hampton | St Francis NY
+ULM | Kent
+CS Bakersfield | CS Fullerton
+Maryland | Belmont
+Gonzaga | F Dickinson
+Tennessee | Colgate
+Iowa | Cincinnati
+Texas Tech | N Kentucky
+UC Irvine | Kansas St
+Oregon | Wisconsin
+Oklahoma | Mississippi
+Virginia | Gardner Webb
+Houston | Georgia St
+Ohio St | Iowa St
+Washington | Utah St
+North Carolina | Iona
+Virginia Tech | St Louis
+Liberty | Mississippi St
+UCF | VA Commonwealth
+Southern Utah | Drake
+Buffalo | Arizona St
+Duke | N Dakota St
+Creighton | Memphis
+Florida Intl | Texas St
+Indiana | Arkansas
+LSU | Maryland
+Lipscomb | UNC Greensboro
+Kentucky | Wofford
+Michigan | Florida
+Florida St | Murray St
+Gonzaga | Baylor
+Michigan St | Minnesota
+Purdue | Villanova
+Auburn | Kansas
+Wichita St | Clemson
+Texas | Xavier
+NC State | Harvard
+TCU | Nebraska
+Tennessee | Iowa
+North Carolina | Washington
+Duke | UCF
+Texas Tech | Buffalo
+Virginia Tech | Liberty
+Virginia | Oklahoma
+Houston | Ohio St
+Oregon | UC Irvine
+Presbyterian | Robert Morris
+Coastal Car | West Virginia
+South Florida | Utah Valley
+DePaul | Longwood
+Colorado | Norfolk St
+Loy Marymount | Brown
+TX Southern | UTRGV
+CS Bakersfield | Southern Utah
+Marshall | Presbyterian
+Hampton | Charleston So
+WI Green Bay | Florida Intl
+Wichita St | Indiana
+TCU | Creighton
+Lipscomb | NC State
+DePaul | Coastal Car
+Texas | Colorado
+Purdue | Tennessee
+Gonzaga | Florida St
+Texas Tech | Michigan
+Virginia | Oregon
+South Florida | Loy Marymount
+TX Southern | ULM
+Hampton | NJIT
+Michigan St | LSU
+Auburn | North Carolina
+Duke | Virginia Tech
+Kentucky | Houston
+WI Green Bay | CS Bakersfield
+Texas Tech | Gonzaga
+Virginia | Purdue
+Auburn | Kentucky
+Michigan St | Duke
+Lipscomb | Wichita St
+Texas | TCU
+South Florida | DePaul
+Marshall | Hampton
+WI Green Bay | TX Southern
+DePaul | South Florida
+Marshall | WI Green Bay
+Texas | Lipscomb
+South Florida | DePaul
+Virginia | Auburn
+Texas Tech | Michigan St
+Virginia | Texas Tech
