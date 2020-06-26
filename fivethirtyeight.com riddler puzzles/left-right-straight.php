@@ -33,6 +33,10 @@ foreach($b as $path){
 //print results
 echo 'Left/Right: '.$acount.'/'.count($a).' = '.number_format(100*($acount/count($a)),2).'%<br>';
 echo 'Left/Right/Straight: '.$bcount.'/'.count($b).' = '.number_format(100*($bcount/count($b)),2).'%<br>';
+/*
+Left/Right: 512/1024 = 50.00%
+Left/Right/Straight: 14763/59049 = 25.00%
+*/
 
 //start at direction 0, given a string of 0's, 1's and 2's if 0 turn left, if 1 turn right, if 2 continue straight, return true if direction is still 0 at end of string
 function testPath($s){
