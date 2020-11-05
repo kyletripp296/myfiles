@@ -1,0 +1,168 @@
+//Placement
+.site-navigation {
+  background: map-get($colors,altNavy);
+}
+.main-menu {
+  grid-row-start: 1;
+  grid-row-end: 1;
+  position: relative;
+  height: 60px;
+  @include size('lg') {
+    height: 110px;
+  }
+  &__logo {
+    grid-column-start: 1;
+    grid-column-end: 6;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-self: center;
+    svg {
+      height: 40px;
+      width: 236px;
+    }
+    @include cols(1,4,'md');
+    @include size ('lg') {
+      svg {
+        height: 55px;
+        width: 326px;
+      }
+    }
+
+
+  }
+  &__items {
+    grid-column-start: 1;
+    grid-column-end: 7;
+    left: -20px;
+    width: calc(100% + 40px);
+    position: relative;
+    @include cols(1,9,'md');
+    @include size('md') {
+      left: -35px;
+      width: calc(100% + 70px);
+    }
+    @include cols(5,13,'lg');
+
+  }
+  &__hamburger {
+    position: absolute;
+    justify-self: end;
+    align-self: center;
+    grid-row: 1;
+    grid-column-start: 6;
+    grid-column-end: 7;
+
+    @include cols(8,9,'md');
+
+    @include size('lg') {
+      display: none;
+    }
+  }
+}
+.main-menu__items__item__child {
+  display: none;
+}
+.second-level--on +div+ul {
+  display: block;
+  background: map-get($colors,altNavy);
+  height: auto;
+  max-height: 100vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+
+//States
+
+.main-menu {
+  position: relative;
+  @extend .z-over;
+  .main-menu__items {
+    top: -360px;
+    transition: top .5s ease-in-out;
+    @include size('lg') {
+      top: 0;
+      transition: none;
+    }
+  }
+}
+
+.main-menu--on {
+  position: relative;
+  .main-menu__items {
+    top: 60px;
+    @extend .z-behind;
+    opacity: 1;
+    position: absolute;
+    background-color:map-get($colors,altDarkNavy);
+    height: 100vh;
+    padding:0;
+
+  }
+  .main-menu__items__item {
+    position: relative;
+  }
+}
+
+//Expanders
+.main-menu__items__item > .expander {
+  display: inline-flex;
+  position: absolute;
+  right: 0;
+  width: 60px;
+  height: 90px;
+  // background: map-get($colors,darkGray);
+  // border-bottom: 1px solid map-get($colors,ultraLightGray);
+}
+
+.expander div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+//Desktop MENU
+@include size('lg') {
+  .main-menu__items {
+    left: 0;
+    overflow: visible;
+    justify-content: flex-end;
+  }
+  .main-menu__items__item--has-children.hover {
+    position: relative;
+   .main-menu__items__item__child {
+     display: block;
+     position:  absolute;
+     top: 100%;
+     height: 300px;
+     width: 360px;
+     z-index: 2;
+     > a {
+       color: map-get($colors,black);
+     }
+   }
+ }
+}
+
+
+//Dealing with Let's Talk
+.main-menu--on .main-menu__items__item {
+	order: 2;
+
+}
+.letstalk {
+  order: 1;
+  margin-top: 30px;
+  @include size('md') {
+    margin-top: unset;
+    margin-bottom: unset;
+    position: absolute !important;
+    right: 48px;
+    opacity: 1;
+  }
+  @include size('lg') {
+    position: relative !important;
+    right: unset;
+  }
+}

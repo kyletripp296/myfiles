@@ -1,0 +1,226 @@
+
+//Grid System
+$lgMaxWidth: 1440;
+$lgCols: 12;
+$lgColWidth: 76;
+$lgGutterWidth:40;
+$lgColWidth: percentage($lgColWidth / $lgMaxWidth);
+$lgGutters: percentage($lgGutterWidth / $lgMaxWidth);
+
+$mdMaxWidth: 768;
+$mdCols: 12;
+$mdColWidth: 36;
+$mdGutterWidth: 30;
+$mdColWidth: percentage($mdColWidth / $mdMaxWidth);
+$mdGutters: percentage($mdGutterWidth / $mdMaxWidth);
+
+$smMaxWidth: 335;
+$smCols: 6;
+$smColWidth: 36;
+$smGutterWidth: 20;
+$smColsWidth: percentage($smColWidth / $smMaxWidth);
+$smGutters: percentage($smGutterWidth / $smMaxWidth);
+
+body {
+  margin:0;
+}
+
+//Some Containers
+.window {
+  width: 100%;
+}
+.wall {
+  max-width:1600px;
+  margin-left:auto;
+  margin-right:auto;
+}
+.container {
+  max-width:1520px;
+  margin-left:auto;
+  margin-right:auto;
+}
+.wrapper {
+  width: calc(100% - 40px);
+  margin-left: 20px;
+  margin-right: 20px;
+  display: grid;
+  grid-template-columns: repeat($smCols,minmax(0,1fr));
+  grid-column-gap: $smGutters;
+  & div {
+    margin-left: $smGutters;
+    margin-right: $smGutters;
+    @supports (display:grid) {
+      margin-left: unset;
+      margin-right: unset;
+    }
+  }
+  & div:first-of-type {
+    margin-left: 0;
+  }
+  & div:last-of-type {
+    margin-right: 0;
+  }
+
+  @include size('md') {
+    width: calc(100% - 70px );
+    margin-left: 35px;
+    margin-right: 35px;
+    grid-template-columns: repeat($mdCols, minmax(0,1fr));
+    grid-column-gap: $mdGutters;
+    & div {
+      margin-left: $mdGutters;
+      margin-right: $mdGutters;
+      @supports (display:grid) {
+        margin-left: unset;
+        margin-right: unset;
+      }
+    }
+    & div:first-of-type {
+      margin-left: 0;
+    }
+    & div:last-of-type {
+      margin-right: 0;
+    }
+  }
+  @include size('lg') {
+    width: calc(100% - 80px);
+    margin-left:40px;
+    margin-right:40px;
+    grid-template-columns:repeat($lgCols, minmax(0,1fr));
+    grid-column-gap: $lgGutters;
+    & div {
+      margin-left: $lgGutters;
+      margin-right: $lgGutters;
+      @supports (display:grid) {
+        margin-left: unset;
+        margin-right: unset;
+      }
+    }
+    & div:first-of-type {
+      margin-left: 0;
+    }
+    & div:last-of-type {
+      margin-right: 0;
+    }
+  }
+}
+
+.wrapper--flex {
+  @extend .wrapper;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.inline-wrapper {
+  @extend .wrapper;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  max-width: 100%;
+}
+.inline-flex {
+  display: flex;
+  width: 100%;
+}
+@mixin flex-cols( $size ) {
+  @include size($size) {
+    grid-template-columns: repeat(auto-fit, minmax(12%, 1fr));
+
+    & > div {
+      grid-column-start: initial;
+      grid-column-end: initial;
+    }
+  }
+}
+@mixin cols($start,$end,$size) {
+  @include size($size) {
+    grid-column-start: $start;
+    grid-column-end: $end;
+  }
+}
+
+@mixin fullcontainer {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  grid-column: span 4;
+  @include size('md') {
+    grid-column: span 8;
+  }
+  @include size('lg') {
+    grid-column: span 12;
+  }
+
+}
+
+//We use border box. Not content box.
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/*
+.sample-component {
+  @extend .wrapper;
+  grid-template-rows:180px 1fr 1fr;
+
+  @include size('md') {
+    grid-template-rows: 120px 500px;
+    grid-template-rows:repeat(3, 1fr);
+  }
+  @include size('lg') {
+
+  }
+  &__headline {
+    display:inline-grid;
+    grid-column:span 4;
+    grid-row:span 1;
+    grid-row-start: 3;
+    @include cols(5,9,'md');
+    @include cols(7,13,'lg');
+    @include size('md') {
+      grid-row-start:1;
+      grid-row-end: 1;
+    }
+  }
+  &__text {
+    grid-column: span 4;
+    grid-row-start: 4;
+    @include size('md') {
+      grid-column-start: 5;
+      grid-column-end: 13;
+      grid-row-start:2;
+      grid-row-end:4;
+    }
+    @include size('lg') {
+      grid-column-start: 7;
+    }
+  }
+  &__image {
+    grid-column: span 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    img {
+      width:100%;
+      height:100%;
+      object-fit:cover;
+      object-position:center;
+    }
+    @include size('md') {
+      grid-column: span 4;
+      grid-row-start:1;
+      grid-row-end:3;
+    }
+    @include size ('lg') {
+      grid-column: span 6;
+    }
+  }
+
+}
+*/

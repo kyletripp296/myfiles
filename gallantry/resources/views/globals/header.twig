@@ -1,0 +1,66 @@
+{% block header %}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/f41d249dea.js" crossorigin="anonymous"></script>
+  {{ function('wp_head') }}
+</head>
+<body class="{{ body_class }}">
+  {% include 'resources/views/globals/sprite.twig' %}
+  {% import 'resources/views/macros/icons.twig' as icons %}
+  {# {% macro icons(name,modifier) %} #}
+  <nav class="site-navigation">
+      <div class="container">
+        <div class="wrapper main-menu">
+          <div class="main-menu__logo">
+            {{icons.icons('logo')}}
+          </div>
+
+          <ul class="main-menu__items">
+            {% for item in header.items %}
+            <li class="main-menu__items__item{% if item.children %} main-menu__items__item--has-children{% endif %} {{item.classes|join (" ")}}">
+              <a class="{% if item.children %} second-level {% endif %}" href="{{item.link}}">{{item.name}}</a>{% if item.children %}
+              <div class="expander">
+                <div class="expander__plus">
+                    {{icons.icons('plus')}}
+                </div>
+                <div class="expander__minus">
+                    {{icons.icons('minus')}}
+                </div>
+              </div>
+              {% endif %}
+              {% if item.children %}
+                <ul class="main-menu__items__item__child">
+                  {% for grand in item.children %}
+                    <li class="main-menu__items__item__child__item {{grand.classes|join (" ")}}">
+                        <a href="{{grand.link}}">{{grand.name}}</a>
+                    </li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </li>
+            {% endfor %}
+            <div class="main-menu__cta letstalk">
+              <a class="btn" href="{{headercta.link}}">{{headercta.text}}</a>
+            </div>
+          </ul>
+          <div class="main-menu__hamburger hamburger">
+            <span class="hamburger__bars hamburger__bars--1"></span>
+            <span class="hamburger__bars hamburger__bars--2"></span>
+            <span class="hamburger__bars hamburger__bars--3"></span>
+          </div>
+        </div>
+      </div>
+  </nav>
+
+  <section class="hero hero--stripe container--full">
+    <div class="container">
+      <div class="wrapper">
+
+      </div>
+    </div>
+
+  </section>
+  {% endblock %}

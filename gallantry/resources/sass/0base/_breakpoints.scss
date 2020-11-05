@@ -1,0 +1,21 @@
+//Breakpoints
+$breakpoints: (
+  'superxl': 1600px,
+  'xl': 1440px,
+  'lgplus' : 1220px,
+  'lg': 1024px,
+  'md': 768px,
+  'sm': 667px,
+  'xs': 375px,
+  'superxs': 320px
+);
+
+@mixin size($breakpoint) {
+  // If the key exists in the map
+  @if map-has-key($breakpoints, $breakpoint) {
+    // Prints a media query based on the value
+    @media (min-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  }
+}

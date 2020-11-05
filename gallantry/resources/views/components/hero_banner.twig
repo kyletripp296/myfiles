@@ -1,0 +1,39 @@
+{% import 'resources/views/macros/cards.twig' as cards %}
+{# cards.build( cardData ) #}
+
+{% block herobanner %}
+<section class="hero-banner">
+  <div class="hero-banner__banner">
+    <div class="container">
+      <div class="wrapper">
+        <div class="hero-banner__content">
+          {% if fields.dimensions is not empty %}
+            <div class="hero-banner__dimensions">
+              {% for dimension in fields.dimensions %}
+                <div class="hero-banner__dimensions__dimension hero-banner__dimensions__dimension--{{ dimension.color }}">
+                  <div class="hero-banner__dimensions__dimension__text hero-banner__dimensions__dimension__text--{{ dimension.color }}">
+                    {{ dimension.dimension }}
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+          {% endif %}
+
+          {% if fields.tagline %}
+            <div class="hero-banner__tagline">
+              {{ fields.tagline }}
+            </div>
+          {% endif %}
+        </div>
+        <div class="hero-banner__image">
+          {% if fields.image %}
+            <img src="{{ fields.image.src }}" alt="{{ fields.image.alt }}" srcset="{{ fields.image.srcset }}" />
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{ cards.build( fields.cards ) }}
+</section>
+{% endblock %}

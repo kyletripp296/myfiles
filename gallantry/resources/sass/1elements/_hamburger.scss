@@ -1,0 +1,46 @@
+.hamburger {
+  &__bars {
+    border-radius: 3px;
+    width: 30px;
+    height: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    display: block;
+    background-color: map-get($colors,white);
+    position: relative;
+    transition: all .5s ease;
+
+
+    &:first-of-type {
+      margin-top: 0;
+      transform: rotate(360deg);
+    }
+    &:nth-of-type(2) {
+      transform: rotate(360deg);
+      transition-delay: .125s;
+    }
+    &:last-of-type {
+      margin-bottom: 0;
+      transform: rotate(360deg);
+    }
+  }
+}
+
+.hamburger--on {
+  .hamburger__bars {
+    background-color: map-get($colors,lightOrange);
+    &:first-of-type {
+      transform: rotate(45deg);
+      top: 6px;
+    }
+    &:nth-of-type(2) {
+      opacity: 0;
+      transition: none !important;
+
+    }
+    &:last-of-type {
+      transform: rotate(-45deg);
+      top: -6px;
+    }
+  }
+}

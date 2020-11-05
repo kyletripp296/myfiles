@@ -1,0 +1,81 @@
+.cards {
+  position: relative;
+  padding: 4rem 0;
+
+  @include size( lg ) {
+    padding: 0;
+    background: map-get( $colors, white );
+
+    &:before {
+      height: var( --cap-height );
+      top: calc( var( --cap-height ) * -0.8 );
+    }
+    &:after {
+      top: calc( var( --cap-height ) * -0.8 + var( --cap-height ) - 5px );
+      bottom: auto;
+    }
+  }
+
+  .card {
+    grid-column-start: 1;
+    grid-column-end: 7;
+    @include size('md') {
+      grid-column-start: unset;
+      grid-column-end: unset;
+      grid-column: span 12;
+    }
+    @include size('lg') {
+      grid-column: span 4;
+    }
+
+    padding: 4rem 3rem;
+    border-radius: 5px;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    box-shadow: 0px 0px 30px rgba(34, 49, 62, 0.08);
+    background: #fff;
+    position: relative;
+    z-index: 1;
+    color: map-get( $colors, altDarkNavy );
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+
+    &__header {
+      margin-bottom: 2.5rem;
+
+      .title {
+        display: flex;
+        align-items: center;
+        margin: 0;
+      }
+      .icon {
+        margin-right: 0.5em;
+        font-size: 2.3em;
+      }
+    }
+
+    &__content {
+      flex: 1;
+      margin-bottom: 5rem;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+    &__action {
+      margin-top: auto;
+
+      @include size( md ) {
+        max-width: 50%;
+      }
+      @include size( lg ) {
+        max-width: 100%;
+      }
+    }
+
+    @include size(md) {
+      padding: 4rem;
+    }
+  }
+}

@@ -1,0 +1,143 @@
+//WE USIN MONTSERRAT
+$montSerrat: 'Montserrat', sans-serif;
+
+@mixin fonter($map) {
+  @each $key, $val in $map {
+    #{$key} : #{map-get($val,'xs')};
+    @each $sk, $sv in $val {
+      @include size(#{$sk}) {
+        #{$key} : $sv;
+      }
+    }
+  }
+}
+
+//Let's use base 10 for rem math.
+html {
+  font-size: 62.5%;
+  font-family: $montSerrat;
+}
+
+
+
+//Font Definitions
+$h1 : (
+  font-size : (
+    xs : 30px,
+    lg : 4.2rem
+  ),
+  line-height : (
+    xs: 34px,
+    lg: 1.43
+  ),
+);
+
+$h2 : (
+  font-size : (
+    xs : 2.4rem,
+    lg : 3.6rem
+  ),
+  line-height : (
+    xs: 1.21,
+    lg: 1.22
+  ),
+);
+
+$h3 : (
+  font-size : (
+    xs : 1.8rem,
+    lg : 2.4rem
+  ),
+  line-height : (
+    xs: 1.55,
+    lg: 1.4
+  ),
+);
+
+
+$h4 : (
+  font-size : (
+    xs : 18px,
+    md : 20px,
+    lg : 26px
+  ),
+  line-height : (
+    xs: 18px,
+    md: 28px,
+    lg: 36px
+  ),
+);
+
+$h5 : (
+  font-size : (
+    xs : 16px,
+    md : 22px,
+    lg : 20px
+  ),
+  line-height : (
+    xs: 18px,
+    md: 24px,
+    lg: 30px
+  ),
+);
+
+$body : (
+  font-size: (
+    xs: 1.5rem,
+    lg: 16px,
+  ),
+  line-height: (
+    xs: 1.6,
+    lg: 1.75,
+  )
+);
+
+$dimensions : (
+  font-size: (
+    xs: 35px,
+    lg: 5rem,
+  ),
+  line-height: (
+    xs: 1.22,
+  )
+);
+
+h1, h2 , h3, h4, h5, h6 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+//Actual Font Styles
+h1, .title--1 {
+  @include fonter($h1);
+}
+h2, .title--2 {
+  @include fonter($h2);
+}
+h3, .title--3 {
+  @include fonter($h3);
+  font-weight: 600;
+}
+h4, .title--4 {
+  @include fonter($h4);
+}
+h5, .title--5 {
+  @include fonter($h5);
+}
+
+body {
+  @include fonter($body);
+}
+
+p {
+  margin: 0 0 2em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.dimensions {
+  @include fonter($dimensions);
+  font-weight: 700;
+}

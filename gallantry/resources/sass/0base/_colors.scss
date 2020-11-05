@@ -1,0 +1,94 @@
+$colors: (
+  black: #000,
+  white: #fff,
+  darkGray: #22313E,
+  mediumGray: #5A748C,
+  ultraLightGray: #F4F7FC,
+  altNavy: #10395D,
+  altDarkNavy: #0A2D4B,
+  lightOrange: #FFE4B8,
+  lightGreen: #B9EBD7,
+  lightBlue: #C2E1EF,
+);
+
+$orangeGradient : linear-gradient(276.15deg, #FCC568 0%, map-get( $colors, lightOrange ) 100%);
+$greenGradient : linear-gradient(276.15deg, #61B693 0%, map-get( $colors, lightGreen ) 100%);
+$blueGradient : linear-gradient(276.15deg, #61AFD2 0%, map-get( $colors, lightBlue ) 100%);
+$orangeBlueGradient: linear-gradient(276.15deg, map-get( $colors, lightBlue ) 0%, map-get( $colors, lightOrange ) 100%);
+
+$buttonBox: 0px 0px 30px rgba(34, 49, 62, 0.08);
+
+@each $key, $value in $colors {
+  .bg--#{$key} {
+    background-color: $value;
+  }
+
+  .bg--#{$key}-capped {
+    --cap-height: 15rem;
+    background-color: $value;
+
+    &:before {
+      @extend .z-normal;
+      content: '';
+      display: block;
+      width: 100%;
+      height: var( --cap-height );
+      position: absolute;
+      top: calc( var( --cap-height ) * -0.2 );
+      left: 0;
+      transform: skew(0, 4deg);
+      backface-visibility: hidden;
+      background: $value;
+
+      @include size(md) {
+        top: calc( var( --cap-height ) * -0.3 );
+      }
+    }
+  }
+
+  .bg--#{$key}-striped {
+    --foot-height: 10rem;
+    background-color: $value;
+
+    @include size(lg) {
+      --foot-height: 20rem;
+    }
+
+    &:after {
+      @extend .z-normal;
+      content: '';
+      display: block;
+      position: absolute;
+      width: 100%;
+      left: 0;
+      bottom: calc( var( --foot-height ) * -0.7 );
+      height: var( --foot-height );
+      transform: skew(0, 4deg);
+      backface-visibility: hidden;
+      background: linear-gradient(
+        to bottom,
+        $value 80%,
+        #fff 80%,
+        #fff 84%,
+        rgba( $value, 0.75 ) 84%,
+        rgba( $value, 0.75 ) 87%,
+        #fff 87%,
+        #fff 91%,
+        rgba( $value, 0.50 ) 91%,
+        rgba( $value, 0.50 ) 94%,
+        #fff 94%,
+        #fff 98%,
+        rgba( $value, 0.25 ) 98%,
+        rgba( $value, 0.25 ) 100%,
+      );
+    }
+  }
+}
+
+
+@function tint($color, $percentage) {
+  @return mix(white, $color, $percentage);
+}
+@function shade($color, $percentage) {
+  @return mix(black, $color, $percentage);
+}

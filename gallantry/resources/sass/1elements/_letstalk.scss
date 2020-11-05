@@ -1,0 +1,28 @@
+.letstalk {
+  align-self: center;
+  display: flex;
+  width: 100%;
+  margin-left: 20px;
+  width: calc(100% - 40px);
+
+  a {
+    width: 100%;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    background: $orangeBlueGradient !important;
+    color: map-get($colors,altDarkNavy);
+  }
+  @include size('md') {
+  width: auto;
+  margin-left: auto;
+    a {
+    background: map-get($colors,altDarkNavy) !important;
+    color: map-get($colors,white);
+    padding: 11px 20px;
+    width: max-content;
+    }
+  }
+  @include size('lg') {
+    margin-left: 60px !important;
+  }
+}

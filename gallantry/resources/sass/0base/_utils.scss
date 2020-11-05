@@ -1,0 +1,37 @@
+//Some Z Index Classes
+
+.z-over {
+  z-index: 2;
+}
+.z-top {
+  z-index: 1;
+}
+.z-normal {
+  z-index: 0;
+}
+.z-behind {
+  z-index: -1;
+}
+.z-under {
+  z-index: -2;
+}
+
+//Some Margin Classes
+.m--auto {
+  margin: auto !important;
+}
+
+@mixin m--($dir,$rem) {
+  margin-#{$dir}: $rem;
+}
+
+//Alignment Utlity
+.tar {
+  text-align: right;
+}
+.tal {
+  text-align: left;
+}
+.tac {
+  text-align: center;
+}

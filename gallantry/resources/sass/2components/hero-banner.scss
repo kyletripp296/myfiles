@@ -1,0 +1,173 @@
+.hero-banner {
+  --dimension-offset: 10px;
+  --dot-size: 8px;
+  --line-width: 2px;
+  padding-bottom: 2rem;
+
+  @include size( md ) {
+    --dot-size: 14px;
+    --dimension-offset: 0px;
+    --line-width: 4px;
+  }
+  @include size( lg ) {
+    --dimension-offset: 20px;
+  }
+
+  &__banner {
+    background: map-get($colors, altNavy);
+    color: #fff;
+    position: relative;
+    padding-top: 2.8rem;
+  }
+
+  &__content {
+    padding-bottom: 2rem;
+    grid-column-start: 1;
+    grid-column-end: 7;
+    @include cols( 3, 11, md );
+    @include cols( 1, 6, lg );
+
+    @include size( lg ) {
+      padding-bottom: 20rem;
+    }
+  }
+  &__image {
+    display: flex;
+    grid-column-start: 1;
+    grid-column-end: 7;
+    @include cols( 2, 12, md );
+    @include cols( 6, 13, lg );
+
+    img {
+      margin: auto auto 0 auto;
+      max-width: 100%;
+      height: auto;
+    }
+
+    @include size( lg ) {
+      img {
+        margin: auto 0 0 auto;
+      }
+    }
+  }
+
+  &__dimensions {
+    position: relative;
+    padding-top: calc( var( --dot-size ) - 2px );
+
+    &:after {
+      @extend .z-over;
+      content: '';
+      display: block;
+      position: absolute;
+      background: #fff;
+      width: var( --dot-size );
+      height: var( --dot-size );
+      border-radius: 50%;
+      top: 0;
+      left: var( --dimension-offset );
+    }
+
+    &__dimension {
+      $dimensionWidth: 30%;
+
+      @extend .dimensions;
+      @extend .z-top;
+      position: relative;
+      padding-left: $dimensionWidth;
+
+      &:first-child {
+        @extend .z-over;
+        margin-top: 1em;
+      }
+      &:last-child {
+        @extend .z-normal;
+      }
+
+      &:before {
+        --dimension-radius: 12px;
+
+        content: '';
+        position: absolute;
+        display: block;
+        width: $dimensionWidth;
+        height: calc( 100% + var( --line-width ) * 2 + var( --dimension-radius ) / 2 );
+        top: calc( -50% - var( --line-width ) * 2 - var( --dimension-radius ) / 2 );
+        left: calc( var( --dot-size ) / 2 - var( --line-width ) / 2 + var( --dimension-offset ) );
+        border-bottom-left-radius: var( --dimension-radius );
+        border: var( --line-width ) solid map-get( $colors, lightOrange );
+        border-top: none;
+        border-right: none;
+
+        @include size(lg) {
+          --dimension-radius: 20px;
+        }
+      }
+
+      &--green {
+        &:before {
+          border-color: map-get( $colors, lightGreen );
+        }
+      }
+      &--blue {
+        &:before {
+          border-color: map-get( $colors, lightBlue );
+        }
+      }
+
+      &__text {
+        color: map-get( $colors, lightOrange );
+        flex: 1;
+        display: flex;
+        padding: 0.22em 0 0.22em calc( 5rem + var( --dimension-offset ) );
+        position: relative;
+
+        &:before {
+          content: '';
+          display: block;
+          width: var( --dot-size );
+          height: var( --dot-size );
+          border-radius: 50%;
+          background: map-get( $colors, lightOrange );
+          position: absolute;
+          top: calc( 50% - var( --dot-size ) / 2 - var( --line-width ) / 2 );
+          left: calc( var( --dot-size ) / -2 + var( --dimension-offset ) );
+        }
+
+        &--green {
+          &:before {
+            background: map-get( $colors, lightGreen );
+          }
+        }
+        &--blue {
+          &:before {
+            background: map-get( $colors, lightBlue );
+          }
+        }
+
+        @supports(display: flex) {
+          color: transparent;
+          background: $orangeGradient;
+          background-clip: text;
+
+          &--green {
+            background: $greenGradient;
+            background-clip: text;
+          }
+          &--blue {
+            background: $blueGradient;
+            background-clip: text;
+          }
+        }
+      }
+    }
+  }
+
+  &__tagline {
+    margin-top: 2em;
+    padding-left: calc( var( --dimension-offset ) + var( --dot-size ) );
+  }
+
+  .cards {
+  }
+}

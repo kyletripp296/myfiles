@@ -1,0 +1,1 @@
+!function(e){e(document).on("ready",function(){var t=e("img.focused-image");e.each(t,function(){e(this).wrap('<div class="focused-image-container"></div>');var t=e(this).parent().parent().outerHeight(),i=e(this).parent().parent().width();t||(t=e(this).parent().width()),i||(i=e(this).parent().height()),e(this).parent().css("padding-bottom",t/i*100+"%")})})}(jQuery);

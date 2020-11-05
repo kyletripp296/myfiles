@@ -1,0 +1,38 @@
+{% macro build( cards ) %}
+  {% if cards is not empty %}
+    <div class="cards bg--altDarkNavy-capped bg--altDarkNavy-striped">
+      <div class="container">
+        <div class="wrapper">
+          {% for card in cards %}
+            <div class="card">
+              <div class="card__header">
+                <h2 class="title--3 title">
+                  {% if card.icon is not empty %}
+                    <i class="icon {{ card.icon }}"></i>
+                  {% endif %}
+
+                  {{ card.title }}
+                </h2>
+              </div>
+
+              <div class="card__content">
+                {% if card.text is not empty %}
+                  {{card.text}}
+                {% endif %}
+              </div>
+
+              {% if card.action_link is not empty %}
+                <div class="card__action">
+                  <a class="button button--{{card.color}}" href="{{card.action_link.url}}" target="{{card.action_link.target}}">
+                    {{ card.action_link.title }}
+                    <i class="icon fal fa-angle-right"></i>
+                  </a>
+                </div>
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endmacro %}
