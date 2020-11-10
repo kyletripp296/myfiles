@@ -1,0 +1,13 @@
+.primary-text {
+	float: right;
+}
+.primary-text span {
+	display: none;
+	font-weight: bold;
+}
+.primary-text.is-primary a {
+	display: none;
+}
+.primary-text.is-primary span {
+	display: block;
+}
