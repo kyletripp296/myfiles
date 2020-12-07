@@ -27,15 +27,11 @@ for($n=2;$n<=10;$n++){
     $count = 0;
     foreach($perms as $p){
         $arr = str_split($p);
-        $found = false;
         foreach($arr as $key=>$value){
             if($key==$value){
-                $found = true;
+                $count++;
                 break;
             }
-        }
-        if($found){
-            $count++;
         }
     }
 
