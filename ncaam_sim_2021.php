@@ -249,7 +249,7 @@ function getTeams(){
         array('name'=>'Georgia Tech','elo'=>1659,'off'=>114.0,'def'=>94.1,'tempo'=>67.8),
         //Tennessee 51%
         array('name'=>'Tennessee','elo'=>1602,'off'=>109.5,'def'=>87.0,'tempo'=>67.3),
-        array('name'=>'Oregon State','elo'=>1591,'off'=>110.0,'def'=>98.4,'tempo'=>65.4),
+        array('name'=>'Oregon State','elo'=>8000,'off'=>110.0,'def'=>98.4,'tempo'=>65.4),
         //Oklahoma St 74%
         array('name'=>'Oklahoma State','elo'=>1700,'off'=>110.8,'def'=>90.6,'tempo'=>72.0),
         array('name'=>'Liberty','elo'=>1517,'off'=>110.8,'def'=>101.0,'tempo'=>63.1),
